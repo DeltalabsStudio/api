@@ -1,6 +1,17 @@
 {
 	"data": [	
 		{	
+			"avatar": "https://goo.gl/Zg28Qq",	
+			"judul": "BETA CONNECTED v300.3.1.38",
+			"changelog": "Tampilan baru BBM semua terpusat di Feed BBM nya.",
+			"fitur": "Original",
+			"base": "v300.3.1.38",
+			"modder": "Rikri Rikardo",
+			"clone": "https://goo.gl/bWMHzJ",
+			"unclone": "https://goo.gl/KVHFbQ",
+			"img": "https://goo.gl/omtBak"
+		},	
+		{	
 			"avatar": "https://goo.gl/2fdGQR",	
 			"judul": "B-IOS",
 			"changelog": "Update Base v3.3.0.16",
