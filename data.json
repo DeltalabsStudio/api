@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "null",
+			"judul": "PAPER",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Ridwan Arifin",
+			"clone": "null",
+			"unclone": "https://goo.gl/KAwZFt",
+			"img": "https://goo.gl/3FjtER"
+		},
+		{
 			"avatar": "http://bit.ly/2lzYF1D",
 			"judul": "HK-AAR V.3.0.1",
 			"changelog": "Fix Layout Bug and Performance\nAdd Cover Anim on Profile\nLock Mode with Password\nAdd Change Language",
