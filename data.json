@@ -1,5 +1,16 @@
 {
-	"data": [	
+	"data": [
+		{
+			"avatar": "http://bit.ly/AZHARR",
+			"judul": "MI-BROWN",
+			"changelog": "New Interface Menu (Add New)\nPrivate Mode (Add New)\nLock Mode with Auto Lock\nInput Message Following Bubble Chat(Add New)",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Azhar Rivaldi",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B9gWXjy6JYVoVE5nUEs2SWRXQVk",
+			"img": "https://1.bp.blogspot.com/-39OWeclXCpA/WKvK8NXd5zI/AAAAAAAAAXU/WAgqlxwSLCEMB3Z9-IO0uZnvIl8nQcd6gCLcB/s1600/HiShoot_20170221_115804.png"
+		},
 		{	
 			"avatar": "http://bit.ly/RIKRIR",	
 			"judul": "BETA CONNECTED v300.3.1.38",
@@ -15,7 +26,7 @@
 			"avatar": "http://bit.ly/BAYUPP",	
 			"judul": "B-IOS",
 			"changelog": "Update Base v3.3.0.16",
-			"fitur": "Show/hide FBUI/nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"fitur": "Show/hide FBUI\nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
 			"base": "v3.3.0.16",
 			"modder": "Bayu Parwata",
 			"clone": "null",
