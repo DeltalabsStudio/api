@@ -1,6 +1,28 @@
 {
 	"data": [
 		{
+			"avatar": "null",
+			"judul": "FLOWER",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Ridwan Arifin",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B2rArut_h_doMllKb2JPLU5sYTQ",
+			"img": "https://3.bp.blogspot.com/-EOPTgDhYkZ4/WLmDqOgK2pI/AAAAAAAABjc/o83ForjzlSY2be5srA1TMWLoc1mTDW7IgCLcB/s640/FLOWER.jpg"
+		},
+		{
+			"avatar": "null",
+			"judul": "PARIS",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Ridwan Arifin",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B2rArut_h_doa1BlWDkyajhRSDA",
+			"img": "https://2.bp.blogspot.com/-H5h9hman67o/WLmCSERBO8I/AAAAAAAABjU/pHAH_KH1AlIYCbl2Lr5AagrdtuHIP1bpgCLcB/s640/PARIS.jpg"
+		},
+		{
 			"avatar": "http://bit.ly/AAHPP",
 			"judul": "BASE BETA MOD",
 			"changelog": "Full Display Picture (DP No Crop)\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
@@ -13,7 +35,7 @@
 		},
 		{
 			"avatar": "null",
-			"judul": "PAPER",
+			"judul": "WRITING PAPER",
 			"changelog": "Update Base v3.3.0.16",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
 			"base": "v3.3.0.16",
