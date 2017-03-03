@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "http://bit.ly/2lzYF1D",
+			"judul": "HK-AAR V.3.0.1",
+			"changelog": "Fix Layout Bug and Performance\nAdd Cover Anim on Profile\nLock Mode with Password\nAdd Change Language",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.2.5.12",
+			"modder": "Dhyka Anggara",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0BxoArqYM0dzhZU92Mmp3MGRTUTQ",
+			"img": "http://bit.ly/2mRBMaU"
+		},
+		{
 			"avatar": "http://bit.ly/AZHARR",
 			"judul": "MI-BROWN",
 			"changelog": "New Interface Menu (Add New)\nPrivate Mode (Add New)\nLock Mode with Auto Lock\nInput Message Following Bubble Chat(Add New)",
