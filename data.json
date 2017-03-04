@@ -1,5 +1,16 @@
 {
 	"data": [
+		{
+			"avatar": "null",
+			"judul": "ICHAT",
+			"changelog": "Full Display Picture (DP No Crop)\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"fitur": "Full Display Picture (DP No Crop)\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v300.3.1.38",
+			"modder": "Pitoy Cana",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6dFgwcHRXSlVBbEE",
+			"img": "https://3.bp.blogspot.com/-9TkXZqj4k_o/WLote_mRTPI/AAAAAAAABkc/6UUy_lpekMkUcSPUImZABFO6YQr5_8WMgCLcB/s640/iCHAT.jpg"
+		},
 		{	
 			"avatar": "http://bit.ly/FAHMIPP",
 			"judul": "iMESSLITE v1.1.0",
