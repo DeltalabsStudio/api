@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "null",
+			"judul": "MICKEY",
+			"changelog": "Update Base v3.2.5.12",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.2.5.12",
+			"modder": "Hijrah Maya",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6NEExWUd2RUhYOEU",
+			"img": "https://lh5.googleusercontent.com/98RomBLxExTzYCPB65JFGIO6W21lJkXHOzb94LXwyedemFI2WQnp41JrKmnNP5lPgD7OFYJ4GxIbteA=w1366-h662-rw"
+		},
+		{
 			"avatar": "http://bit.ly/AZHARR",
 			"judul": "SIMPLE MI BETA",
 			"changelog": "New Interface Menu (Add New)\nPrivate Mode (Add New)\nLock Mode with Auto Lock\nInput Message Following Bubble Chat(Add New)",
