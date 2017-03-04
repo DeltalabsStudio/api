@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "http://bit.ly/AZHARR",
+			"judul": "SIMPLE MI BETA",
+			"changelog": "New Interface Menu (Add New)\nPrivate Mode (Add New)\nLock Mode with Auto Lock\nInput Message Following Bubble Chat(Add New)",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v300.3.1.38",
+			"modder": "Azhar Rivaldi",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B9gWXjy6JYVoN1gtSUd5QmNqQ0k",
+			"img": "https://4.bp.blogspot.com/-ccdLEWJmhi0/WLpII8F7bpI/AAAAAAAABlI/NwcrZw0W3DMIo5a3ASvBqVSZprZazg9ogCLcB/s640/1.jpg"
+		},
+		{
 			"avatar": "null",
 			"judul": "BBKU TRANSPARENT",
 			"changelog": "Update Base v3.3.0.16",
