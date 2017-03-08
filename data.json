@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "http://bit.ly/RIDWANPP",
+			"judul": "WRITING PAPER",
+			"changelog": "Update Base v3.3.1.21",
+			"fitur": "Full Display Picture (DP No Crop)\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.1.21",
+			"modder": "Ridwan Arifin",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B2rArut_h_dobEpibnA0eTBmU2M",
+			"img": "https://3.bp.blogspot.com/-b-CkJnGppng/WL-NJsvjbAI/AAAAAAAABng/fsQ5vsZFbrYfWLM2Oui4ff7qXw7R6IDmACLcB/s640/PAPER.jpg"
+		},
+		{
 			"avatar": "http://bit.ly/AAHPP",
 			"judul": "BASE v3.3.1.21",
 			"changelog": "New ui bbm\nFix version from beta version\nFull dp\nBlokread\nAutotext\nMaintab menu position",
