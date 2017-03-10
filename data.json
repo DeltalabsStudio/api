@@ -1,5 +1,16 @@
 {
 	"data": [
+		{
+			"avatar": "http://bit.ly/ANDRYPP",
+			"judul": "CANDYLIGHT",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.1.24",
+			"modder": "Andry Gibh Q",
+			"clone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6RTc3Njl3WnNNM3c",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6VjdURGRXcnhlSDA",
+			"img": "https://4.bp.blogspot.com/-Nr7n5bVezL8/WMJR5PuPnLI/AAAAAAAABxE/vOn9PhvZFW0u63uzIVyoO_fK2F6n022mQCLcB/s640/2.jpg"
+		},
 		{	
 			"avatar": "http://bit.ly/RIKRIR",	
 			"judul": "MULTI BBM",
@@ -34,7 +45,7 @@
 			"img": "https://goo.gl/photos/6KYzM5AiRhbKfQEy5"
 		},
 		{
-			"avatar": "https://github.com/DeltalabsStudio/api/blob/master/avatar/ANDRY.jpg?raw=true",
+			"avatar": "http://bit.ly/ANDRYPP",
 			"judul": "CANDYLIGHT",
 			"changelog": "Update Base v3.3.1.21",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
