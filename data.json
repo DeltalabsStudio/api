@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "http://bit.ly/AAHPP",
+			"judul": "BASEMOD 3.3.1.24",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Full dp\nBlockread\nAutotext\nMaintab position\nLock mode automatic\nHide ads",
+			"base": "v3.3.1.24",
+			"modder": "Andi Abdi Hadi",
+			"clone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6TDlNSkQ5dWZOUHc",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6Y0tTWkxRbUJBelU",
+			"img": "https://3.bp.blogspot.com/-wN0TxgnsfbI/WMKhk9nBnaI/AAAAAAAABxc/lqxd0fJtLKQktoiHE5ZqJmt0DC3oDnShACLcB/s640/1.jpg"
+		},
+		{
 			"avatar": "http://bit.ly/ANDRYPP",
 			"judul": "CANDYLIGHT",
 			"changelog": "Update Base v3.3.1.24",
