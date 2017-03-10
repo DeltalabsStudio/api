@@ -1,7 +1,18 @@
 {
 	"data": [
 		{
-			"avatar": "null",
+			"avatar": "http://bit.ly/RICHIEPP",
+			"judul": "BASEMOD 3.3.1.24",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.1.21",
+			"modder": "Richie Evan II",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B_GD8xnwy3wTVzhqRzZKVjBFLU0",
+			"img": "https://goo.gl/photos/6KYzM5AiRhbKfQEy5"
+		},
+		{
+			"avatar": "https://github.com/DeltalabsStudio/api/blob/master/avatar/ANDRY.jpg?raw=true",
 			"judul": "CANDYLIGHT",
 			"changelog": "Update Base v3.3.1.21",
 			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
