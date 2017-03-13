@@ -1,6 +1,17 @@
 {
 	"data": [
 		{
+			"avatar": "http://bit.ly/AAHPP",
+			"judul": "BLACK",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Full dp\nBlockread\nAutotext\nMaintab position\nLock mode automatic\nHide ads",
+			"base": "v3.3.1.24",
+			"modder": "Andi Abdi Hadi",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6MVNrOHBOU1oyNEk",
+			"img": "https://2.bp.blogspot.com/-9EBiuwrCcqc/WMZ8dRW8u0I/AAAAAAAABzI/hvgqvX79EbYwmZvEs8J6sHYtntuN194KgCLcB/s640/1.jpg"
+		},
+		{
 			"avatar": "null",
 			"judul": "DRAGONS STYLE",
 			"changelog": "Update Base v3.3.1.24",
