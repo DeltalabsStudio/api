@@ -1,5 +1,27 @@
 {
 	"data": [
+		{	
+			"avatar": "http://bit.ly/ABIEMPP",
+			"judul": "JUVE - ADP10",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Full Display Picture (DP No Crop)\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.1.24",
+			"modder": "Abiem Prasetya",
+			"clone": "https://drive.google.com/uc?export=download&id=0BwcYlng030ANVEFQVlR3dmJxbHc",
+			"unclone": "https://drive.google.com/uc?export=download&id=0BwcYlng030ANMEVxT1BJdXRaZzg",
+			"img": "https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/17343003_1480284878662323_3563950900332488970_n.jpg?oh=5c5dda068c72a6080dedd06c46f58c3c&oe=596C0EFC"
+		},
+		{	
+			"avatar": "http://bit.ly/BAYUPP",	
+			"judul": "B-IOS",
+			"changelog": "Update Base v3.3.1.24",
+			"fitur": "Show/hide FBUI\nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.1.24",
+			"modder": "Bayu Parwata",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B-TmdSdOG0h6UV94QThwOEp3WWs",
+			"img": "https://4.bp.blogspot.com/-HVwISSkZhmY/WLp8aFQttOI/AAAAAAAABmE/W6hNtxEaZPIqsfuz9yx5w6kOCUdBAzsuwCLcB/s320/B-IOS.jpg"
+		},
 		{
 			"avatar": "http://bit.ly/AAHPP",
 			"judul": "DARK NAVY",
