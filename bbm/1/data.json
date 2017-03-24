@@ -1,4 +1,4 @@
-queryData: {
+{queryData: {
     include: ['user', 'comment.user'],
     fields: {
       article: ['title', 'body']
@@ -16,3 +16,4 @@ queryData: {
       gte: {}
     }
   }
+}
