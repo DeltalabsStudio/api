@@ -1,9 +1,8 @@
 {
 	"data": {
-		"page_number": 1,
+		"page": "1",
 		"list": [
 			{	
-				"id": "1",
 				"avatar": "http://bit.ly/2mPHbzc",
 				"judul": "KRYPTONIGHT",
 				"changelog": "Update Base v3.3.0.16",
@@ -14,8 +13,7 @@
 				"unclone": "https://drive.google.com/uc?export=download&id=0B-gat4kyD-89Y1oyLXk5TkJjRUE",
 				"img": "https://2.bp.blogspot.com/-fHL2j_yV1j4/WLV8caR2miI/AAAAAAAABhM/KK_K8ZegySgPXuP_rgEQ7wLILMO8sLYZwCLcB/s1600/KRYPTONIGHT.png"
 			},
-			{
-				"id": "2",			
+			{			
 				"avatar": "http://bit.ly/MIFTAHPP",
 				"judul": "DARK WOOD THEMES V2.1.0",
 				"changelog": "Update Base v3.3.0.16",
