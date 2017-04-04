@@ -1,35 +1,63 @@
 {
 	"data": [
 		{
-			"doa": "Do'a pada saat sai kelima",
+			"doa": "Do'a setelah Rukun Yamani",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/08%20doa%20setelah%20rukun%20yamani.mp3"
+		},
+		{
+			"doa": "Do'a setelah Thawaf",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/09%20setelah%20thawaf.mp3"
+		},
+		{
+			"doa": "Do'a pada saat awal Sai",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/10%20awal%20sai.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Sai Pertama",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/11%20sai%201.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Sai Kedua",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/12%20sai%202.mp3"
+		},
+		{
+			"doa": "Do'a setelah Sai Ketiga",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/13%20sai%203.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Sai Keempat",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/14%20sai%204.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Sai Kelima",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/15%20sai%205.mp3"
 		},
 		{
-			"doa": "Do'a pada saat sai keenam",
+			"doa": "Do'a pada saat Sai Keenam",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/16%20sai%206.mp3"
 		},
 		{
-			"doa": "Do'a pada saat sai ketujuh",
+			"doa": "Do'a pada saat Sai Ketujuh",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/17%20sai%207.mp3"
 		},
 		{
-			"doa": "Doa pada saat pilar hijau",
+			"doa": "Do'a pada saat Pilar Hijau",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/18%20pilar%20hijau.mp3"
 		},
 		{
-			"doa": "Do'a pada saat mendekati bukit shofa - marwah",
+			"doa": "Do'a pada saat mendekati Bukit Shofa - Marwah",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/19%20mendekati%20bukit%20shofa%20marwah.mp3"
 		},
 		{
-			"doa": "Do'a setelah selesai sai",
+			"doa": "Do'a setelah selesai Sai",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/20%20selesai%20sai.mp3"
 		},
 		{
-			"doa": "Do'a pada saat tahallul",
+			"doa": "Do'a pada saat Tahallul",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/21%20saat%20tahallul.mp3"
 		},
 		{
-			"doa": "Do'a setelah selesai tahallul",
+			"doa": "Do'a setelah selesai Tahallul",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/22%20selesai%20tahallul.mp3"
 		}
 	]
