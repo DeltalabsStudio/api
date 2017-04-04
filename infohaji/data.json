@@ -1,6 +1,34 @@
 {
 	"data": [
 		{
+			"doa": "Do'a pada saat Thawaf Pertama",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/01%20thawaf%201.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Thawaf Kedua",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/02%20thawaf%202.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Thawaf Ketiga",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/03%20thawaf%203.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Thawaf Keempat",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/04%20thawaf%204.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Thawaf Kelima",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/05%20thawaf%205.mp3"
+		},
+		{
+			"doa": "Do'a setelah Thawaf Keenam",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/06%20thawaf%206.mp3"
+		},
+		{
+			"doa": "Do'a pada saat Thawaf Ketujuh",
+			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/07%20thawaf%207.mp3"
+		},
+		{
 			"doa": "Do'a setelah Rukun Yamani",
 			"link": "http://haji.kemenag.go.id/v3/sites/default/files/audio/08%20doa%20setelah%20rukun%20yamani.mp3"
 		},
