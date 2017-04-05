@@ -34,8 +34,7 @@
 			"telp": "(021) 7204067, 72799909",
 			"fax": "(021) 72796515",
 			"email": "AZ_ANUBI@YAHOO.COM"
-		},
-		
+		},		
 		{
 			"penyelenggara": "PT. AHSANTA",
 			"alamat": "JL WR. SUPRATMAN NO. 4 RT/RW 001/006 KEL. CEMPAKA PUTIH KEC. CIPUTAT TIMUR KOTA TANGERANG SELATAN",
@@ -43,5 +42,12 @@
 			"fax": "(021) 74704292",
 			"email": ""
 		},
+		{
+			"penyelenggara": "PT. AIDA TOURINDO WISATA",
+			"alamat": "JL. CEMPAKA PUTIH TENGAH NO. 33 RT. 001/08 KEL. CEMPAKA PUTIH TIMUR, KEC. CEMPAKA PUTIH, KOTA ADMINISTRASI JAKARTA PUSAT",
+			"telp": "(021) 4254686",
+			"fax": "(021) 4282314",
+			"email": "AIDATOURINDO33@YAHOO.CO.ID"
+		}
 	]
 }
