@@ -683,18 +683,50 @@
 		{
 			"penyelenggara": "PT. GESYA PRIMA BIRO PERJALANAN UMUM",
 			"alamat": "JL. CIPINANG MUARA RAYA NO. 42 A, RT. 005/002, KEL. CIPINANG MUARA, KEC. JATINEGARA, KOTA ADMINISTRASI JAKARTA TIMUR, DKI JAKARTA",
-			"telp": "(021) 8583641, \n(021) 8583712,\n(021) 8511013",
+			"telp": "(021) 8583641\n(021) 8583712\n(021) 8511013",
 			"telp2": "",
 			"fax": "(021) 8511528",
 			"email": "GESYA_TRAVEL@YAHOO.COM"
 		},
 		{
-			"penyelenggara": "",
-			"alamat": "",
-			"telp": "",
+			"penyelenggara": "PT. GOENAWAN ERAWISATA",
+			"alamat": "JL. JENDRAL SUDIRMAN NO. 1 RUKO TANGERANG CITY B 25 CIKOKOL KOTA TANGERANG 15117 27",
+			"telp": "021-55733001\n021-55781225",
 			"telp2": "",
-			"fax": "",
+			"fax": "021-55781226",
 			"email": ""
+		},
+		{
+			"penyelenggara": "PT. HAPPY PRIMA WISATA",
+			"alamat": "GEDUNG TWINK LT. 5 JL. KAPTEN TENDEAN NO. 82, KEL. MAMPANG PRAPATAN, KEC. MAMPANG PRAPATAN, JAKARTA SELATAN, DKI JAKARTA",
+			"telp": "(021) 7900225",
+			"telp2": "",
+			"fax": "(021) 7900219",
+			"email": "ADMIN@PRIMASAIDAH.COM"
+		},
+		{
+			"penyelenggara": "PT. BIRO PERJALANAN WISATA HELUTRANS ALHAADII ZIARAH",
+			"alamat": "PURI SENTRA NIAGA BLOK A6 RT 012 RW 07, KEL. CIPINANG MELAYU, KEC. MAKASAR, JAKARTA TIMUR",
+			"telp": "(021) 86601315\n(021) 86601316",
+			"telp2": "",
+			"fax": "(021) 8626441",
+			"email": "INFO@HAZTOUR.COM"
+		},
+		{
+			"penyelenggara": "PT. HIKMAH JAYA WISATA",
+			"alamat": "JLN.DUKUH KUPANG VI/1 SURABAYA",
+			"telp": "(031) 5666385",
+			"telp2": "",
+			"fax": "(031) 5616019",
+			"email": "MAZLAN@INDOSAT.NET.ID"
+		},
+		{
+			"penyelenggara": "PT. HIKMAH MULIA UTAMA",
+			"alamat": "JL. PRAMUKASARI III NO. 4 (69B) RT 014/007 KEL. RAWA SARI KEC. CEMPAKA PUTIH JAKARTA PUSAT",
+			"telp": "021-4240944",
+			"telp2": "",
+			"fax": "021-4240944",
+			"email": "MAHMUDA.WISATA@YAHOO.CO.ID"
 		}
 	]
 }
