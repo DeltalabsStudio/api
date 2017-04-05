@@ -3,7 +3,8 @@
 		{
 			"penyelenggara": "PT. ABDI UMAT WISATA INTERNATIONAL",
 			"alamat": "JLN RAYA BAMBU APUS KAV. 78 C CIPAYUNG JAKARTA TIMUR",
-			"telp": "02184973104",
+			"telp": "(021) 84973104",
+			"telp2" "",
 			"fax": "",
 			"email": ""
 		},
@@ -11,34 +12,39 @@
 			"penyelenggara": "PT. ABSAS AL RAHALAH TOUR",
 			"alamat": "JL. SIMPANG SEI MESA NO. 50, RT. 008/RW. 001, KEL. SEBERANG MASJID, KEC. BANJARMASIN, TENGAH, KOTA BANJARMASIN, KALIMANTAN SELATAN",
 			"telp": "(0511) 3274562",
+			"telp2" "",
 			"fax": "(0511) 3274562",
 			"email": "ABSAS2001@YAHOO.COM"
 		},
 		{
 			"penyelenggara": "PT. ADZIKRA",
 			"alamat": "DUTA MAS FATMAWATI BLOK C2 NO.11-12 JLN.RAYA RS. FATMAWATI NO. 39 JAKARTA SELATAN",
-			"telp": "021-7231344",
+			"telp": "(021) 7231344",
+			"telp2" "",
 			"fax": "(021) 7245630",
 			"email": ""
 		},
 		{
 			"penyelenggara": "PT. AFI TOUR",
 			"alamat": "JL. FATMAWATI NO. 4C LT. 2 JAKARTA SELATAN",
-			"telp": "(021)  7507706, 7507319",
+			"telp": "(021) 7507706",
+			"telp2" "(021) 7507319",
 			"fax": "(021) 7695586",
 			"email": "AFITOUR@YAHOO.CO.ID"
 		},
 		{
 			"penyelenggara": "PT. AFIZ NURUL QOLBI",
 			"alamat": "WIJAYA GRAHA PURI B-5, JL. WIJAYA II, KEL. PULO, KEC. KEBAYORAN BARU, JAKARTA PUSAT",
-			"telp": "(021) 7204067, 72799909",
+			"telp": "(021) 7204067",
+			"telp2" "(021) 72799909",
 			"fax": "(021) 72796515",
 			"email": "AZ_ANUBI@YAHOO.COM"
 		},		
 		{
 			"penyelenggara": "PT. AHSANTA",
 			"alamat": "JL WR. SUPRATMAN NO. 4 RT/RW 001/006 KEL. CEMPAKA PUTIH KEC. CIPUTAT TIMUR KOTA TANGERANG SELATAN",
-			"telp": "(021) 74704292, 70778272",
+			"telp": "(021) 74704292",
+			"telp2" "(021) 70778272",
 			"fax": "(021) 74704292",
 			"email": ""
 		},
@@ -46,6 +52,7 @@
 			"penyelenggara": "PT. AIDA TOURINDO WISATA",
 			"alamat": "JL. CEMPAKA PUTIH TENGAH NO. 33 RT. 001/08 KEL. CEMPAKA PUTIH TIMUR, KEC. CEMPAKA PUTIH, KOTA ADMINISTRASI JAKARTA PUSAT",
 			"telp": "(021) 4254686",
+			"telp2" "",
 			"fax": "(021) 4282314",
 			"email": "AIDATOURINDO33@YAHOO.CO.ID"
 		}
