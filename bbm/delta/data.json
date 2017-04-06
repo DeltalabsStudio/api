@@ -1,0 +1,37 @@
+{
+	"data": [
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.2.1 CONTACT GRID",
+			"changelog": "Contact Grid\nLock Mode\nFix Bug",
+			"fitur": "All Premium Features Available",
+			"base": "v3.3.1.24",
+			"modder": "DELTALABS",
+			"clone": "https://bitbucket.org/deltalabs/deltabbm/raw/986d774d5568a8915d549a9bb4ef6a6b968a8e41/CLONE_DELTA_v4.2.1_GRID.apk",
+			"unclone": "https://bitbucket.org/deltalabs/deltabbm/raw/986d774d5568a8915d549a9bb4ef6a6b968a8e41/UNCLONE_DELTA_v4.2.1_GRID.apk",
+			"img": "https://1.bp.blogspot.com/-14z_Sn2-3sY/WM5U24rAreI/AAAAAAAAB0Y/J0AH6cDkyDAsHKnSt-KUcGrV6D3gUzK_wCLcB/s640/DELTA%2BBBM%2Bv4.2.1.jpg"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.2.1 CONTACT LIST",
+			"changelog": "Lock Mode\nFix Bug",
+			"fitur": "All Premium Features Available",
+			"base": "v3.3.1.24",
+			"modder": "DELTALABS",
+			"clone": "https://bitbucket.org/deltalabs/deltabbm/raw/6d515738abccb5c95eff59bb977db91d02781e44/CLONE_DELTA_v4.2.1.apk",
+			"unclone": "https://bitbucket.org/deltalabs/deltabbm/raw/6d515738abccb5c95eff59bb977db91d02781e44/UNCLONE_DELTA_v4.2.1.apk",
+			"img": "https://1.bp.blogspot.com/-14z_Sn2-3sY/WM5U24rAreI/AAAAAAAAB0Y/J0AH6cDkyDAsHKnSt-KUcGrV6D3gUzK_wCLcB/s640/DELTA%2BBBM%2Bv4.2.1.jpg"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.2.0",
+			"changelog": "Update Base v3.3.1.24\nShow / Hide Chat Filter",
+			"fitur": "All Premium Features Available",
+			"base": "v3.3.1.24",
+			"modder": "DELTALABS",
+			"clone": "https://github.com/DeltalabsStudio/delta/raw/master/CLONE_DELTA_v4.2.0.apk",
+			"unclone": "https://github.com/DeltalabsStudio/delta/raw/master/UNCLONE_DELTA_v4.2.0.apk",
+			"img": "https://3.bp.blogspot.com/-TZQhOiDrGI8/WM1PRYHF9qI/AAAAAAAAAEE/iGYsilznD4EUj14ob0ln8KN7JYWH-WU_QCLcB/s640/DELTA%2BBBM%2Bv4.2.0.png"
+		}
+	]
+}
