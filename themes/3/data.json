@@ -1,0 +1,28 @@
+{
+	"page": "3",
+	"total": "end",
+	"post": [
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "D-BASE 0.0.316",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "DELTALABS",
+			"clone": "null",
+			"unclone": "http://bit.ly/D-BASE-00316",
+			"img": "https://4.bp.blogspot.com/-B57dOj0T8cg/WKSJOUkkKzI/AAAAAAAABeA/bgIuHEZ9kMsdhEWBuUZWuXDLN9l4yqE0wCLcB/s640/D-BASE.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELIGHT v1.0.0",
+			"changelog": "Update Base v3.2.5.12\nUnlimited Color Theme\nLock Mode [Removed]",
+			"fitur": "Auto Text aka BOM PING!!!\nFull Display Pictures\nBlock Read Status\nShow Hide Floating Action Button\nTop / Bottom Tab Layout\nSave Timed Message Picture\nHide Inbox Notification\nSet App Name, Connected, PING, No Service Text",
+			"base": "v3.2.5.12",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmRHNNNFFYdF9vSms",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmWXMxSl94OUtfX3c",
+			"img": "https://2.bp.blogspot.com/-Sjs99kFlbDM/WIW68P-geLI/AAAAAAAABvg/BgHrRY7uivAdYjwhszm_w1VZ_VLufKgdwCLcB/s640/DELIGHT%2Bv1.0.0.png"
+		}
+	]
+}
