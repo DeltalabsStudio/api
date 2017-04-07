@@ -32,6 +32,50 @@
 			"clone": "https://github.com/DeltalabsStudio/delta/raw/master/CLONE_DELTA_v4.2.0.apk",
 			"unclone": "https://github.com/DeltalabsStudio/delta/raw/master/UNCLONE_DELTA_v4.2.0.apk",
 			"img": "https://3.bp.blogspot.com/-TZQhOiDrGI8/WM1PRYHF9qI/AAAAAAAAAEE/iGYsilznD4EUj14ob0ln8KN7JYWH-WU_QCLcB/s640/DELTA%2BBBM%2Bv4.2.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "D-BASE 0.0.316",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "DELTALABS",
+			"clone": "null",
+			"unclone": "http://bit.ly/D-BASE-00316",
+			"img": "https://4.bp.blogspot.com/-B57dOj0T8cg/WKSJOUkkKzI/AAAAAAAABeA/bgIuHEZ9kMsdhEWBuUZWuXDLN9l4yqE0wCLcB/s640/D-BASE.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELIGHT v1.0.0",
+			"changelog": "Update Base v3.2.5.12\nUnlimited Color Theme\nLock Mode [Removed]",
+			"fitur": "Auto Text aka BOM PING!!!\nFull Display Pictures\nBlock Read Status\nShow Hide Floating Action Button\nTop / Bottom Tab Layout\nSave Timed Message Picture\nHide Inbox Notification\nSet App Name, Connected, PING, No Service Text",
+			"base": "v3.2.5.12",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmRHNNNFFYdF9vSms",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmWXMxSl94OUtfX3c",
+			"img": "https://2.bp.blogspot.com/-Sjs99kFlbDM/WIW68P-geLI/AAAAAAAABvg/BgHrRY7uivAdYjwhszm_w1VZ_VLufKgdwCLcB/s640/DELIGHT%2Bv1.0.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.1.0a",
+			"changelog": "Fix Private Conversation",
+			"fitur": "All Premium Features Available",
+			"base": "v3.2.5.12",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmRWtIaGJRbkk2M1E",
+			"unclone": "https://bitbucket.org/tjatoer/bbm/raw/ab842a522bcc0e77a88a580a34f845308b847686/UNCLONE_DELTA_v4.1.0a.apk",
+			"img": "https://2.bp.blogspot.com/-40K0bVAOEZY/WIDTqUoSjXI/AAAAAAAABtY/jG-IE70U8VI7cVDdN6AgTvNYt7XregrQgCLcB/s640/DELTA%2BBBM%2Bv4.1.0a.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.1.0",
+			"changelog": "Update Base v3.2.5.12\nTop/Bottom AutoText aka Bom PING!!!",
+			"fitur": "All Premium Features Available",
+			"base": "v3.2.5.12",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmcFhha3NCVUlQSm8",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmLUg4MjA3VkxEVEk",
+			"img": "https://4.bp.blogspot.com/-ihxmsSo1pLQ/WHsUPkhgeLI/AAAAAAAABtA/Z08j1_NVAGwhZNiQUg29YT1GzqWwS3dqwCLcB/s640/DELTA%2BBBM%2Bv4.1.0.jpg"
 		}
 	]
 }
