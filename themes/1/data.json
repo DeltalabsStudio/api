@@ -4,6 +4,17 @@
 	"post": [
 		{
 			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELIGHT v2.0.0",
+			"changelog": "Update base v3.3.2.31,
+			"fitur": "Minimalist Features",
+			"base": "v3.3.2.31",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7gcXZUVk1Fd29OUEU",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7gY0Vkbk1IZno2Vms",
+			"img": "https://4.bp.blogspot.com/-k0h43Dvb_bQ/WP9-qA3PZdI/AAAAAAAACB0/9hvXFbR20KwExE4M4De3eIf4CQnL_81jwCLcB/s640/DELIGHT%2Bv2.0.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELTA v4.3.0 CONTACT GRID",
 			"changelog": "Update base v3.3.2.31\nIos Tab Icon\nColoring Tab Icon\nChat Filter Position",
 			"fitur": "All Premium Features Available",
