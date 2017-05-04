@@ -3,6 +3,61 @@
 	"total": "end",
 	"post": [
 		{
+			"avatar": "http://bit.ly/RICHIEPP",
+			"judul": "TWITTER",
+			"changelog": "Update Base v3.3.0.16",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Richie Evan II",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B_GD8xnwy3wTeGxsN0VaNjFwODA",
+			"img": "https://2.bp.blogspot.com/-4TO5dUAizPw/WLUDyLZ9S4I/AAAAAAAABfw/oopUV-_oCTcn2Rh6C4nMdbgjIewCkUYdwCLcB/s640/TWITTER.jpg"
+		},
+		{
+			"avatar": "http://bit.ly/AAHPP",
+			"judul": "BLACK",
+			"changelog": "Contact Grid Only\nBlack Settings\nChange any colour , icon , notification\nFix bugs",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Andi Abdi Hadi",
+			"clone": "http://www112.zippyshare.com/v/rCec63Rn/file.html",
+			"unclone": "http://www83.zippyshare.com/v/OcOXgcKz/file.html",
+			"img": "https://4.bp.blogspot.com/-UNxQe_MISxo/WLUCq_HB-VI/AAAAAAAABfo/HErFJnL-fhESGBcGY5jJ4QxqS2ayYP3wgCLcB/s640/BLACK.jpg"
+		},
+		{
+			"avatar": "http://bit.ly/ABDULR",
+			"judul": "AR-v6",
+			"changelog": "Add New Nav Icon ( NAF-Chat , Delight , Twitter and BBM v8 )\nAdd New Notification Icon ( Ar , Imo , Instagram and Twitter )\nAdd New 6 Style Profile View\nChange BBM Input Panel",
+			"fitur": "Change Primary and Accent Color\nColoring Tab Layout, BBM Input Panel, Input Background\nChange Bubble Chat\nFull Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Abdul Rahman",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0Bx2VS1miH6iRY3huSFo0cGxTX2M",
+			"img": "https://1.bp.blogspot.com/-iZqivCkr90I/WK0WXYIdKWI/AAAAAAAABes/8g3NnB-mEzEAsMuCT4hVpuF2UYU9hfpWwCLcB/s1600/AR-BBM.jpg"
+		},
+		{
+			"avatar": "http://bit.ly/AAHPP",
+			"judul": "DARK NAVY",
+			"changelog": "darkNAVY Settings",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Andi Abdi Hadi",
+			"clone": "null",
+			"unclone": "http://www119.zippyshare.com/d/1NWGCotJ/476085/darkNAVY%203.3.0.16%20UNCLONE%2022022017.apk",
+			"img": "https://3.bp.blogspot.com/-bbuKTtnh7qQ/WK0UyvICNoI/AAAAAAAABeg/7OkIP4bSuXoqRsnXRNpLmNGxl6nnDZi6ACEw/s640/DARK%2BNAVY.jpg"
+		},
+		{
+			"avatar": "http://bit.ly/AZHARR",
+			"judul": "MI-TEAL",
+			"changelog": "On/Off Big DP on Drawer\nNew Profile UI\nNew Drawer UI\nChange Avatar Style\nChange List & Grid Animation\nRunning PM\nNew Ticks Icon",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nHide Inbox Notification\nAutotext aka Bom PING\nSave Timed Message Picture\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.0.16",
+			"modder": "Azhar Rivaldi",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B9gWXjy6JYVoX3ZqRGRXRVI5VEk",
+			"img": "https://2.bp.blogspot.com/-XOcWbz0rURY/WLJnmDfaYGI/AAAAAAAAAYc/1ubxoqa9J-UoRSZbhL-9ybiiWiEDlhVhQCLcB/s1600/HiShoot_20170226_121107.png"
+		},
+		{
 			"avatar": "http://bit.ly/AZHARR",
 			"judul": "MI-CLOUD",
 			"changelog": "Update Base v3.3.0.16",
