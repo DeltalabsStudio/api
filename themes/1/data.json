@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELUXE v1.0.0",
+			"changelog": "Update base v3.3.2.31",
+			"fitur": "Custom Theme (Dark, Black, Transparent)\nColor Scheme\nColoring System Bar (>Lolipop)\nDP No Crop\nSave Timed Picture\nBlock Read Status\nContact View (Grid and List)\nCustom Bubble Chat\nColoring, Position and Visibility Tab Layout\nPosition and Visibility Chat Filter\nChange Notification, Connected, No Service, PING and Chat Title Text\nAuto Text",
+			"base": "v3.3.2.31",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7gVVpSQkVKOXpsWXc",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7gMzBmWnZGZmxPeWc",
+			"img": "https://3.bp.blogspot.com/-BLRDNcgbLMg/WQsn7GXKI6I/AAAAAAAAAGw/NA-k0WlpY4gYcxoHb4Gae381Vuexpg-GwCLcB/s640/DELUXE%2Bv1.0.0.png"
+		},
+		{
 			"avatar": "null",
 			"judul": "VESPA",
 			"changelog": "Update base v3.3.2.31",
