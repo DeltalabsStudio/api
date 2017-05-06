@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "http://bit.ly/AAHPP",
+			"judul": "BLACK",
+			"changelog": "Update Base v3.3.3.39",
+			"fitur": "Standart Fitur\nHide Chat Filter\nList or Grid Contact\nSet contact grid column\nAutolock",
+			"base": "v3.3.3.39",
+			"modder": "Andi Abdi Hadi",
+			"clone": "http://www107.zippyshare.com/v/Be9zE8bc/file.html",
+			"unclone": "http://www92.zippyshare.com/v/AFUEoRfv/file.html",
+			"img": "https://2.bp.blogspot.com/-iXUQeJ6wZdg/WQ1jxpa36II/AAAAAAAACGA/3s2SsLR3OdAww1oUL60aHuotdD6AKDeQACLcB/s640/1.jpg"
+		},
+		{
 			"avatar": "http://bit.ly/ABDULR",
 			"judul": "AR-WHATSAPP",
 			"changelog": "Full Display Picture\nBlock Read Status\nHide Floating Action Button\nTop Bottom Maintab\nContact View ( Grid / List )\nLock Mode",
