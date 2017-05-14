@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "http://bit.ly/FAHMIPP",
+			"judul": "IMESSLITE v1.2.0",
+			"changelog": "Update Base v3.3.3.39",
+			"fitur": "Hide/Show Ads Content\nFull Display Picture\nBlock Read Status\nHide/Show FAB\nTop/Bottom Main Tab\nTop/Bottom Chat Filter\nHide/Show Chat Filter\nGrid Contact View\nColum Grid",
+			"base": "v3.3.3.39",
+			"modder": "Nami Abdi Fahmy",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B7XvbXW56l4YajRUNlRQVzFhdU0",
+			"img": "https://1.bp.blogspot.com/-bCDFUiHNf30/WRfCI8S8T9I/AAAAAAAACIk/lPhjeX1g7H8nk36U7sX_G1AFIaDz1xCYQCLcB/s640/IMESLITE.png"
+		},
+		{
 			"avatar": "http://bit.ly/AAHPP",
 			"judul": "DARK NAVY",
 			"changelog": "Update Base v3.3.3.39\nHide Ads\nFull DP\nBlockRead\nMaintab Option\nBombPing\nLock Mode\nPrivate Mode\nRunning PM\nGrid Contact\nAutomatic Lock",
