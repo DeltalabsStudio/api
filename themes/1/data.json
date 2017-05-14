@@ -1,10 +1,11 @@
 {
 	"page": "1",
 	"total": "next",
-	"post": [{
+	"post": [
+		{
 			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELUXE v1.1.0",
-			"changelog": "Update Base v3.3.3.39\nSwitchable Icon Tab with Delight Icon\nVisibility Timed Message View\nAutomatic Change Display Picture\nBlock Read with "N" Hiden",
+			"changelog": "Update Base v3.3.3.39\nSwitchable Icon Tab with Delight Icon\nVisibility Timed Message View\nAutomatic Change Display Picture\nBlock Read with Hiden Badge",
 			"fitur": "Custom Theme (Dark, Black, Transparent)\nColor Scheme\nColoring System Bar (>Lolipop)\nDP No Crop\nSave Timed Picture\nBlock Read Status\nContact View (Grid and List)\nCustom Bubble Chat\nColoring, Position and Visibility Tab Layout\nPosition and Visibility Chat Filter\nChange Notification, Connected, No Service, PING and Chat Title Text\nAuto Text",
 			"base": "v3.3.3.39",
 			"modder": "DELTALABS",
