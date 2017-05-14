@@ -1,7 +1,17 @@
 {
 	"page": "1",
 	"total": "next",
-	"post": [
+	"post": [{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELUXE v1.1.0",
+			"changelog": "Update Base v3.3.3.39\nSwitchable Icon Tab with Delight Icon\nVisibility Timed Message View\nAutomatic Change Display Picture\nBlock Read with "N" Hiden",
+			"fitur": "Custom Theme (Dark, Black, Transparent)\nColor Scheme\nColoring System Bar (>Lolipop)\nDP No Crop\nSave Timed Picture\nBlock Read Status\nContact View (Grid and List)\nCustom Bubble Chat\nColoring, Position and Visibility Tab Layout\nPosition and Visibility Chat Filter\nChange Notification, Connected, No Service, PING and Chat Title Text\nAuto Text",
+			"base": "v3.3.3.39",
+			"modder": "DELTALABS",
+			"clone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7geFVtZ1JBQ2g3OWM",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B4nATEd3Qs7gT3pXWmk2S09UQ0k",
+			"img": "https://4.bp.blogspot.com/--0wI7PSr8b4/WRg4KGknw-I/AAAAAAAAAHE/rTR1DSJZJjMVVYTbsNedaiI2s8d4eTkqQCLcB/s640/DELUXE%2Bv1.1.0.png"
+		},
 		{
 			"avatar": "http://bit.ly/FAHMIPP",
 			"judul": "IMESSLITE v1.2.0",
