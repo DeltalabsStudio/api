@@ -3,6 +3,28 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "http://bit.ly/ANDRYPP",
+			"judul": "BBM TEGRAM",
+			"changelog": "Update Base v3.3.4.48",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "v3.3.4.48",
+			"modder": "Andry Gibh Q",
+			"clone": "http://www.mediafire.com/file/z4yya6p4ybc6s2s/BBM_TeGram_v3.3.4.48%5BCLONE%5D.apk",
+			"unclone": "http://www.mediafire.com/file/v8h6r99hdio229k/BBM_TeGram_v3.3.4.48%5BUNCLONE%5D.apk",
+			"img": "https://1.bp.blogspot.com/-2neH278HTeI/WR67QKyBHsI/AAAAAAAACJE/03L9C7SrX-kt3-vgVPoEo-XyVDg98AZ-QCLcB/s640/1.jpg"
+		},
+		{
+			"avatar": "http://bit.ly/FAHMIPP",
+			"judul": "NAV-CHAT SWEET PINK",
+			"changelog": "Update Base v3.3.4.48",
+			"fitur": "Hide/Show Ads Content\nFull Display Picture\nBlock Read Status\nHide/Show FAB\nTop/Bottom Main Tab\nTop/Bottom Chat Filter\nHide/Show Chat Filter\nGrid Contact View\nColum Grid",
+			"base": "v3.3.4.48",
+			"modder": "Nami Abdi Fahmy",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B7XvbXW56l4YS29VSjF4TlpuS3c",
+			"img": "https://1.bp.blogspot.com/-4VW3ApOHIi4/WR4qklfKYzI/AAAAAAAAZ2A/FRDa99wtY4Yvb_J3Nl80Ri5LhtdG4aQzACLcB/s640/AFFIX_20170519_054957.png"
+		},
+		{
 			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELUXE v1.1.0",
 			"changelog": "Update Base v3.3.3.39\nSwitchable Icon Tab with Delight Icon\nVisibility Timed Message View\nAutomatic Change Display Picture\nBlock Read with Hiden Badge",
