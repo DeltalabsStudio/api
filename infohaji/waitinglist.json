@@ -2,1164 +2,1164 @@
 	"data": 
 	[
 		 {
-		   "Nama Prov/Kab/Kota": "ACEH",
-		   "Kuota": "4359",
-		   "(s.d Tahun)": "2037",
-		   "Pendaftar Akhir": "100141771",
-		   "Pendaftaran": "88835 Jemaah",
-		   "Lunas Tunda": "4113 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "SUMATERA UTARA",
-		   "Kuota": "8292",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "200213938",
-		   "Pendaftaran": "110215 Jemaah",
-		   "Lunas Tunda": "7772 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "SUMATERA BARAT",
-		   "Kuota": "4597",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "300127944",
-		   "Pendaftaran": "70785 Jemaah",
-		   "Lunas Tunda": "4322 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "R I A U",
-		   "Kuota": "5030",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "400144784",
-		   "Pendaftaran": "78977 Jemaah",
-		   "Lunas Tunda": "4893 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "J A M B I",
-		   "Kuota": "2900",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "500088151",
-		   "Pendaftaran": "54189 Jemaah",
-		   "Lunas Tunda": "2765 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "SUMATERA SELATAN",
-		   "Kuota": "6988",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "600174509",
-		   "Pendaftaran": "94789 Jemaah",
-		   "Lunas Tunda": "6720 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "LAMPUNG",
-		   "Kuota": "7020",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "800170230",
-		   "Pendaftaran": "92855 Jemaah",
-		   "Lunas Tunda": "6790 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "DKI JAKARTA",
-		   "Kuota": "7891",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "900233040",
-		   "Pendaftaran": "125454 Jemaah",
-		   "Lunas Tunda": "7365 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "JAWA TENGAH",
-		   "Kuota": "30225",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "1100917803",
-		   "Pendaftaran": "561289 Jemaah",
-		   "Lunas Tunda": "29681 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "D.I. YOGYAKARTA",
-		   "Kuota": "3132",
-		   "(s.d Tahun)": "2036",
-		   "Pendaftar Akhir": "1200100002",
-		   "Pendaftaran": "61599 Jemaah",
-		   "Lunas Tunda": "2967 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "JAWA TIMUR",
-		   "Kuota": "35035",
-		   "(s.d Tahun)": "2037",
-		   "Pendaftar Akhir": "1301143750",
-		   "Pendaftaran": "715788 Jemaah",
-		   "Lunas Tunda": "32678 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "B A L I",
-		   "Kuota": "695",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "1400018515",
-		   "Pendaftaran": "11471 Jemaah",
-		   "Lunas Tunda": "679 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "NUSA TENGGARA BARAT",
-		   "Kuota": "4476",
-		   "(s.d Tahun)": "2038",
-		   "Pendaftar Akhir": "1500153871",
-		   "Pendaftaran": "96531 Jemaah",
-		   "Lunas Tunda": "4330 Jemaah"
+		   "nama_daerah": "ACEH",
+		   "kuota": "4359",
+		   "batas_tahun": "2037",
+		   "pendaftar_akhir": "100141771",
+		   "jumlah_pendaftaran": "88835 Jemaah",
+		   "jumlah_lunas_tunda": "4113 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "SUMATERA UTARA",
+		   "kuota": "8292",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "200213938",
+		   "jumlah_pendaftaran": "110215 Jemaah",
+		   "jumlah_lunas_tunda": "7772 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "SUMATERA BARAT",
+		   "kuota": "4597",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "300127944",
+		   "jumlah_pendaftaran": "70785 Jemaah",
+		   "jumlah_lunas_tunda": "4322 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "R I A U",
+		   "kuota": "5030",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "400144784",
+		   "jumlah_pendaftaran": "78977 Jemaah",
+		   "jumlah_lunas_tunda": "4893 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "J A M B I",
+		   "kuota": "2900",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "500088151",
+		   "jumlah_pendaftaran": "54189 Jemaah",
+		   "jumlah_lunas_tunda": "2765 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "SUMATERA SELATAN",
+		   "kuota": "6988",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "600174509",
+		   "jumlah_pendaftaran": "94789 Jemaah",
+		   "jumlah_lunas_tunda": "6720 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "LAMPUNG",
+		   "kuota": "7020",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "800170230",
+		   "jumlah_pendaftaran": "92855 Jemaah",
+		   "jumlah_lunas_tunda": "6790 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "DKI JAKARTA",
+		   "kuota": "7891",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "900233040",
+		   "jumlah_pendaftaran": "125454 Jemaah",
+		   "jumlah_lunas_tunda": "7365 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "JAWA TENGAH",
+		   "kuota": "30225",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "1100917803",
+		   "jumlah_pendaftaran": "561289 Jemaah",
+		   "jumlah_lunas_tunda": "29681 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "D.I. YOGYAKARTA",
+		   "kuota": "3132",
+		   "batas_tahun": "2036",
+		   "pendaftar_akhir": "1200100002",
+		   "jumlah_pendaftaran": "61599 Jemaah",
+		   "jumlah_lunas_tunda": "2967 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "JAWA TIMUR",
+		   "kuota": "35035",
+		   "batas_tahun": "2037",
+		   "pendaftar_akhir": "1301143750",
+		   "jumlah_pendaftaran": "715788 Jemaah",
+		   "jumlah_lunas_tunda": "32678 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "B A L I",
+		   "kuota": "695",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "1400018515",
+		   "jumlah_pendaftaran": "11471 Jemaah",
+		   "jumlah_lunas_tunda": "679 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "NUSA TENGGARA BARAT",
+		   "kuota": "4476",
+		   "batas_tahun": "2038",
+		   "pendaftar_akhir": "1500153871",
+		   "jumlah_pendaftaran": "96531 Jemaah",
+		   "jumlah_lunas_tunda": "4330 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "NUSA TENGGARA TIMUR",
-		   "Kuota": "665",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "1600017436",
-		   "Pendaftaran": "10084 Jemaah",
-		   "Lunas Tunda": "650 Jemaah"
+		   "nama_daerah": "NUSA TENGGARA TIMUR",
+		   "kuota": "665",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "1600017436",
+		   "jumlah_pendaftaran": "10084 Jemaah",
+		   "jumlah_lunas_tunda": "650 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KALIMANTAN TENGAH",
-		   "Kuota": "1603",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "1800045278",
-		   "Pendaftaran": "26470 Jemaah",
-		   "Lunas Tunda": "1515 Jemaah"
+		   "nama_daerah": "KALIMANTAN TENGAH",
+		   "kuota": "1603",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "1800045278",
+		   "jumlah_pendaftaran": "26470 Jemaah",
+		   "jumlah_lunas_tunda": "1515 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KALIMANTAN SELATAN",
-		   "Kuota": "3799",
-		   "(s.d Tahun)": "2041",
-		   "Pendaftar Akhir": "1900148344",
-		   "Pendaftaran": "95766 Jemaah",
-		   "Lunas Tunda": "3615 Jemaah"
+		   "nama_daerah": "KALIMANTAN SELATAN",
+		   "kuota": "3799",
+		   "batas_tahun": "2041",
+		   "pendaftar_akhir": "1900148344",
+		   "jumlah_pendaftaran": "95766 Jemaah",
+		   "jumlah_lunas_tunda": "3615 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "SULAWESI UTARA",
-		   "Kuota": "709",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "2100046077",
-		   "Pendaftaran": "7430 Jemaah",
-		   "Lunas Tunda": "659 Jemaah"
+		   "nama_daerah": "SULAWESI UTARA",
+		   "kuota": "709",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "2100046077",
+		   "jumlah_pendaftaran": "7430 Jemaah",
+		   "jumlah_lunas_tunda": "659 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "SULAWESI TENGAH",
-		   "Kuota": "1983",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "2200051713",
-		   "Pendaftaran": "28247 Jemaah",
-		   "Lunas Tunda": "1851 Jemaah"
+		   "nama_daerah": "SULAWESI TENGAH",
+		   "kuota": "1983",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "2200051713",
+		   "jumlah_pendaftaran": "28247 Jemaah",
+		   "jumlah_lunas_tunda": "1851 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "SULAWESI TENGGARA",
-		   "Kuota": "2012",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "2400054972",
-		   "Pendaftaran": "32847 Jemaah",
-		   "Lunas Tunda": "1964 Jemaah"
+		   "nama_daerah": "SULAWESI TENGGARA",
+		   "kuota": "2012",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "2400054972",
+		   "jumlah_pendaftaran": "32847 Jemaah",
+		   "jumlah_lunas_tunda": "1964 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "P A P U A",
-		   "Kuota": "1073",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "2600031118",
-		   "Pendaftaran": "17641 Jemaah",
-		   "Lunas Tunda": "1002 Jemaah"
+		   "nama_daerah": "P A P U A",
+		   "kuota": "1073",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "2600031118",
+		   "jumlah_pendaftaran": "17641 Jemaah",
+		   "jumlah_lunas_tunda": "1002 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "BANGKA BELITUNG",
-		   "Kuota": "1062",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "2700029409",
-		   "Pendaftaran": "16787 Jemaah",
-		   "Lunas Tunda": "1055 Jemaah"
+		   "nama_daerah": "BANGKA BELITUNG",
+		   "kuota": "1062",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "2700029409",
+		   "jumlah_pendaftaran": "16787 Jemaah",
+		   "jumlah_lunas_tunda": "1055 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "B A N T E N",
-		   "Kuota": "9420",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "2800249191",
-		   "Pendaftaran": "143637 Jemaah",
-		   "Lunas Tunda": "9219 Jemaah"
+		   "nama_daerah": "B A N T E N",
+		   "kuota": "9420",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "2800249191",
+		   "jumlah_pendaftaran": "143637 Jemaah",
+		   "jumlah_lunas_tunda": "9219 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "GORONTALO",
-		   "Kuota": "974",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "3500680569",
-		   "Pendaftaran": "9665 Jemaah",
-		   "Lunas Tunda": "930 Jemaah"
+		   "nama_daerah": "GORONTALO",
+		   "kuota": "974",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "3500680569",
+		   "jumlah_pendaftaran": "9665 Jemaah",
+		   "jumlah_lunas_tunda": "930 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KEPULAUAN RIAU",
-		   "Kuota": "1286",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3700026553",
-		   "Pendaftaran": "16276 Jemaah",
-		   "Lunas Tunda": "1249 Jemaah"
+		   "nama_daerah": "KEPULAUAN RIAU",
+		   "kuota": "1286",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3700026553",
+		   "jumlah_pendaftaran": "16276 Jemaah",
+		   "jumlah_lunas_tunda": "1249 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BENGKULU",
-		   "Kuota": "311",
-		   "(s.d Tahun)": "2037",
-		   "Pendaftar Akhir": "700041707",
-		   "Pendaftaran": "6399 Jemaah",
-		   "Lunas Tunda": "296 Jemaah"
+		   "nama_daerah": "KOTA BENGKULU",
+		   "kuota": "311",
+		   "batas_tahun": "2037",
+		   "pendaftar_akhir": "700041707",
+		   "jumlah_pendaftaran": "6399 Jemaah",
+		   "jumlah_lunas_tunda": "296 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BENGKULU UTARA",
-		   "Kuota": "202",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "700041628",
-		   "Pendaftaran": "2113 Jemaah",
-		   "Lunas Tunda": "204 Jemaah"
+		   "nama_daerah": "KAB. BENGKULU UTARA",
+		   "kuota": "202",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "700041628",
+		   "jumlah_pendaftaran": "2113 Jemaah",
+		   "jumlah_lunas_tunda": "204 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BENGKULU SELATAN",
-		   "Kuota": "129",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "700041682",
-		   "Pendaftaran": "1710 Jemaah",
-		   "Lunas Tunda": "127 Jemaah"
+		   "nama_daerah": "KAB. BENGKULU SELATAN",
+		   "kuota": "129",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "700041682",
+		   "jumlah_pendaftaran": "1710 Jemaah",
+		   "jumlah_lunas_tunda": "127 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. REJANG LEBONG",
-		   "Kuota": "235",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "700041700",
-		   "Pendaftaran": "3448 Jemaah",
-		   "Lunas Tunda": "237 Jemaah"
+		   "nama_daerah": "KAB. REJANG LEBONG",
+		   "kuota": "235",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "700041700",
+		   "jumlah_pendaftaran": "3448 Jemaah",
+		   "jumlah_lunas_tunda": "237 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MUKOMUKO",
-		   "Kuota": "178",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "700041703",
-		   "Pendaftaran": "2015 Jemaah",
-		   "Lunas Tunda": "170 Jemaah"
+		   "nama_daerah": "KAB. MUKOMUKO",
+		   "kuota": "178",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "700041703",
+		   "jumlah_pendaftaran": "2015 Jemaah",
+		   "jumlah_lunas_tunda": "170 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SELUMA",
-		   "Kuota": "172",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "700041696",
-		   "Pendaftaran": "1310 Jemaah",
-		   "Lunas Tunda": "172 Jemaah"
+		   "nama_daerah": "KAB. SELUMA",
+		   "kuota": "172",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "700041696",
+		   "jumlah_pendaftaran": "1310 Jemaah",
+		   "jumlah_lunas_tunda": "172 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KAUR",
-		   "Kuota": "108",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "700041704",
-		   "Pendaftaran": "1039 Jemaah",
-		   "Lunas Tunda": "107 Jemaah"
+		   "nama_daerah": "KAB. KAUR",
+		   "kuota": "108",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "700041704",
+		   "jumlah_pendaftaran": "1039 Jemaah",
+		   "jumlah_lunas_tunda": "107 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KEPAHIANG",
-		   "Kuota": "110",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "700041691",
-		   "Pendaftaran": "1787 Jemaah",
-		   "Lunas Tunda": "114 Jemaah"
+		   "nama_daerah": "KAB. KEPAHIANG",
+		   "kuota": "110",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "700041691",
+		   "jumlah_pendaftaran": "1787 Jemaah",
+		   "jumlah_lunas_tunda": "114 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. LEBONG",
-		   "Kuota": "93",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "700041671",
-		   "Pendaftaran": "1034 Jemaah",
-		   "Lunas Tunda": "97 Jemaah"
+		   "nama_daerah": "KAB. LEBONG",
+		   "kuota": "93",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "700041671",
+		   "jumlah_pendaftaran": "1034 Jemaah",
+		   "jumlah_lunas_tunda": "97 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BENGKULU TENGAH",
-		   "Kuota": "92",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "700041562",
-		   "Pendaftaran": "960 Jemaah",
-		   "Lunas Tunda": "92 Jemaah"
+		   "nama_daerah": "KAB. BENGKULU TENGAH",
+		   "kuota": "92",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "700041562",
+		   "jumlah_pendaftaran": "960 Jemaah",
+		   "jumlah_lunas_tunda": "92 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BANDUNG",
-		   "Kuota": "2468",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961939",
-		   "Pendaftaran": "32238 Jemaah",
-		   "Lunas Tunda": "2252 Jemaah"
+		   "nama_daerah": "KOTA BANDUNG",
+		   "kuota": "2468",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961939",
+		   "jumlah_pendaftaran": "32238 Jemaah",
+		   "jumlah_lunas_tunda": "2252 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BOGOR",
-		   "Kuota": "984",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961941",
-		   "Pendaftaran": "12976 Jemaah",
-		   "Lunas Tunda": "944 Jemaah"
+		   "nama_daerah": "KOTA BOGOR",
+		   "kuota": "984",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961941",
+		   "jumlah_pendaftaran": "12976 Jemaah",
+		   "jumlah_lunas_tunda": "944 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA SUKABUMI",
-		   "Kuota": "257",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1000961184",
-		   "Pendaftaran": "3062 Jemaah",
-		   "Lunas Tunda": "252 Jemaah"
+		   "nama_daerah": "KOTA SUKABUMI",
+		   "kuota": "257",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1000961184",
+		   "jumlah_pendaftaran": "3062 Jemaah",
+		   "jumlah_lunas_tunda": "252 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA CIREBON",
-		   "Kuota": "331",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "1000961894",
-		   "Pendaftaran": "4662 Jemaah",
-		   "Lunas Tunda": "328 Jemaah"
+		   "nama_daerah": "KOTA CIREBON",
+		   "kuota": "331",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "1000961894",
+		   "jumlah_pendaftaran": "4662 Jemaah",
+		   "jumlah_lunas_tunda": "328 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BOGOR",
-		   "Kuota": "3478",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961841",
-		   "Pendaftaran": "47983 Jemaah",
-		   "Lunas Tunda": "3322 Jemaah"
+		   "nama_daerah": "KAB. BOGOR",
+		   "kuota": "3478",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961841",
+		   "jumlah_pendaftaran": "47983 Jemaah",
+		   "jumlah_lunas_tunda": "3322 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SUKABUMI",
-		   "Kuota": "1625",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "1000961822",
-		   "Pendaftaran": "16379 Jemaah",
-		   "Lunas Tunda": "1521 Jemaah"
+		   "nama_daerah": "KAB. SUKABUMI",
+		   "kuota": "1625",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "1000961822",
+		   "jumlah_pendaftaran": "16379 Jemaah",
+		   "jumlah_lunas_tunda": "1521 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. CIANJUR",
-		   "Kuota": "1382",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "1000961974",
-		   "Pendaftaran": "14173 Jemaah",
-		   "Lunas Tunda": "1326 Jemaah"
+		   "nama_daerah": "KAB. CIANJUR",
+		   "kuota": "1382",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "1000961974",
+		   "jumlah_pendaftaran": "14173 Jemaah",
+		   "jumlah_lunas_tunda": "1326 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BEKASI",
-		   "Kuota": "2210",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "1000961851",
-		   "Pendaftaran": "36701 Jemaah",
-		   "Lunas Tunda": "2166 Jemaah"
+		   "nama_daerah": "KAB. BEKASI",
+		   "kuota": "2210",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "1000961851",
+		   "jumlah_pendaftaran": "36701 Jemaah",
+		   "jumlah_lunas_tunda": "2166 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KARAWANG",
-		   "Kuota": "2178",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961926",
-		   "Pendaftaran": "29133 Jemaah",
-		   "Lunas Tunda": "2103 Jemaah"
+		   "nama_daerah": "KAB. KARAWANG",
+		   "kuota": "2178",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961926",
+		   "jumlah_pendaftaran": "29133 Jemaah",
+		   "jumlah_lunas_tunda": "2103 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SUBANG",
-		   "Kuota": "1193",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1000961783",
-		   "Pendaftaran": "14202 Jemaah",
-		   "Lunas Tunda": "1150 Jemaah"
+		   "nama_daerah": "KAB. SUBANG",
+		   "kuota": "1193",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1000961783",
+		   "jumlah_pendaftaran": "14202 Jemaah",
+		   "jumlah_lunas_tunda": "1150 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PURWAKARTA",
-		   "Kuota": "758",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961776",
-		   "Pendaftaran": "9951 Jemaah",
-		   "Lunas Tunda": "759 Jemaah"
+		   "nama_daerah": "KAB. PURWAKARTA",
+		   "kuota": "758",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961776",
+		   "jumlah_pendaftaran": "9951 Jemaah",
+		   "jumlah_lunas_tunda": "759 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BANDUNG",
-		   "Kuota": "2582",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1000961944",
-		   "Pendaftaran": "30510 Jemaah",
-		   "Lunas Tunda": "2439 Jemaah"
+		   "nama_daerah": "KAB. BANDUNG",
+		   "kuota": "2582",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1000961944",
+		   "jumlah_pendaftaran": "30510 Jemaah",
+		   "jumlah_lunas_tunda": "2439 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SUMEDANG",
-		   "Kuota": "873",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "1000961828",
-		   "Pendaftaran": "8912 Jemaah",
-		   "Lunas Tunda": "847 Jemaah"
+		   "nama_daerah": "KAB. SUMEDANG",
+		   "kuota": "873",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "1000961828",
+		   "jumlah_pendaftaran": "8912 Jemaah",
+		   "jumlah_lunas_tunda": "847 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. GARUT",
-		   "Kuota": "1911",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "1000961913",
-		   "Pendaftaran": "20557 Jemaah",
-		   "Lunas Tunda": "1867 Jemaah"
+		   "nama_daerah": "KAB. GARUT",
+		   "kuota": "1911",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "1000961913",
+		   "jumlah_pendaftaran": "20557 Jemaah",
+		   "jumlah_lunas_tunda": "1867 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. TASIKMALAYA",
-		   "Kuota": "1481",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1000961879",
-		   "Pendaftaran": "16918 Jemaah",
-		   "Lunas Tunda": "1438 Jemaah"
+		   "nama_daerah": "KAB. TASIKMALAYA",
+		   "kuota": "1481",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1000961879",
+		   "jumlah_pendaftaran": "16918 Jemaah",
+		   "jumlah_lunas_tunda": "1438 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. CIAMIS",
-		   "Kuota": "1110",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "1000961905",
-		   "Pendaftaran": "13932 Jemaah",
-		   "Lunas Tunda": "1077 Jemaah"
+		   "nama_daerah": "KAB. CIAMIS",
+		   "kuota": "1110",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "1000961905",
+		   "jumlah_pendaftaran": "13932 Jemaah",
+		   "jumlah_lunas_tunda": "1077 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. CIREBON",
-		   "Kuota": "2414",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961898",
-		   "Pendaftaran": "33090 Jemaah",
-		   "Lunas Tunda": "2252 Jemaah"
+		   "nama_daerah": "KAB. CIREBON",
+		   "kuota": "2414",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961898",
+		   "jumlah_pendaftaran": "33090 Jemaah",
+		   "jumlah_lunas_tunda": "2252 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KUNINGAN",
-		   "Kuota": "996",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "1000961902",
-		   "Pendaftaran": "12426 Jemaah",
-		   "Lunas Tunda": "1013 Jemaah"
+		   "nama_daerah": "KAB. KUNINGAN",
+		   "kuota": "996",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "1000961902",
+		   "jumlah_pendaftaran": "12426 Jemaah",
+		   "jumlah_lunas_tunda": "1013 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. INDRAMAYU",
-		   "Kuota": "1800",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961919",
-		   "Pendaftaran": "25156 Jemaah",
-		   "Lunas Tunda": "1811 Jemaah"
+		   "nama_daerah": "KAB. INDRAMAYU",
+		   "kuota": "1800",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961919",
+		   "jumlah_pendaftaran": "25156 Jemaah",
+		   "jumlah_lunas_tunda": "1811 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAJALENGKA",
-		   "Kuota": "1167",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1000961969",
-		   "Pendaftaran": "15625 Jemaah",
-		   "Lunas Tunda": "1162 Jemaah"
+		   "nama_daerah": "KAB. MAJALENGKA",
+		   "kuota": "1167",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1000961969",
+		   "jumlah_pendaftaran": "15625 Jemaah",
+		   "jumlah_lunas_tunda": "1162 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BEKASI",
-		   "Kuota": "2785",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "1000961937",
-		   "Pendaftaran": "41047 Jemaah",
-		   "Lunas Tunda": "2589 Jemaah"
+		   "nama_daerah": "KOTA BEKASI",
+		   "kuota": "2785",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "1000961937",
+		   "jumlah_pendaftaran": "41047 Jemaah",
+		   "jumlah_lunas_tunda": "2589 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA DEPOK",
-		   "Kuota": "1708",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "1000961917",
-		   "Pendaftaran": "26124 Jemaah",
-		   "Lunas Tunda": "1635 Jemaah"
+		   "nama_daerah": "KOTA DEPOK",
+		   "kuota": "1708",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "1000961917",
+		   "jumlah_pendaftaran": "26124 Jemaah",
+		   "jumlah_lunas_tunda": "1635 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA TASIKMALAYA",
-		   "Kuota": "654",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "1000961809",
-		   "Pendaftaran": "9798 Jemaah",
-		   "Lunas Tunda": "631 Jemaah"
+		   "nama_daerah": "KOTA TASIKMALAYA",
+		   "kuota": "654",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "1000961809",
+		   "jumlah_pendaftaran": "9798 Jemaah",
+		   "jumlah_lunas_tunda": "631 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA CIMAHI",
-		   "Kuota": "556",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "1000961916",
-		   "Pendaftaran": "7908 Jemaah",
-		   "Lunas Tunda": "539 Jemaah"
+		   "nama_daerah": "KOTA CIMAHI",
+		   "kuota": "556",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "1000961916",
+		   "jumlah_pendaftaran": "7908 Jemaah",
+		   "jumlah_lunas_tunda": "539 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BANJAR",
-		   "Kuota": "178",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "1000961662",
-		   "Pendaftaran": "1914 Jemaah",
-		   "Lunas Tunda": "174 Jemaah"
+		   "nama_daerah": "KOTA BANJAR",
+		   "kuota": "178",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "1000961662",
+		   "jumlah_pendaftaran": "1914 Jemaah",
+		   "jumlah_lunas_tunda": "174 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BANDUNG BARAT",
-		   "Kuota": "1129",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1000961888",
-		   "Pendaftaran": "12993 Jemaah",
-		   "Lunas Tunda": "1040 Jemaah"
+		   "nama_daerah": "KAB. BANDUNG BARAT",
+		   "kuota": "1129",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1000961888",
+		   "jumlah_pendaftaran": "12993 Jemaah",
+		   "jumlah_lunas_tunda": "1040 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PANGANDARAN",
-		   "Kuota": "385",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "1000961412",
-		   "Pendaftaran": "4919 Jemaah",
-		   "Lunas Tunda": "368 Jemaah"
+		   "nama_daerah": "KAB. PANGANDARAN",
+		   "kuota": "385",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "1000961412",
+		   "jumlah_pendaftaran": "4919 Jemaah",
+		   "jumlah_lunas_tunda": "368 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA PONTIANAK",
-		   "Kuota": "619",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "1700059945",
-		   "Pendaftaran": "9428 Jemaah",
-		   "Lunas Tunda": "589 Jemaah"
+		   "nama_daerah": "KOTA PONTIANAK",
+		   "kuota": "619",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "1700059945",
+		   "jumlah_pendaftaran": "9428 Jemaah",
+		   "jumlah_lunas_tunda": "589 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SAMBAS",
-		   "Kuota": "316",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1700059947",
-		   "Pendaftaran": "3791 Jemaah",
-		   "Lunas Tunda": "314 Jemaah"
+		   "nama_daerah": "KAB. SAMBAS",
+		   "kuota": "316",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1700059947",
+		   "jumlah_pendaftaran": "3791 Jemaah",
+		   "jumlah_lunas_tunda": "314 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SANGGAU",
-		   "Kuota": "110",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "1700059892",
-		   "Pendaftaran": "1330 Jemaah",
-		   "Lunas Tunda": "115 Jemaah"
+		   "nama_daerah": "KAB. SANGGAU",
+		   "kuota": "110",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "1700059892",
+		   "jumlah_pendaftaran": "1330 Jemaah",
+		   "jumlah_lunas_tunda": "115 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SINTANG",
-		   "Kuota": "138",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1700059933",
-		   "Pendaftaran": "1566 Jemaah",
-		   "Lunas Tunda": "125 Jemaah"
+		   "nama_daerah": "KAB. SINTANG",
+		   "kuota": "138",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1700059933",
+		   "jumlah_pendaftaran": "1566 Jemaah",
+		   "jumlah_lunas_tunda": "125 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PONTIANAK",
-		   "Kuota": "179",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1700059848",
-		   "Pendaftaran": "2003 Jemaah",
-		   "Lunas Tunda": "182 Jemaah"
+		   "nama_daerah": "KAB. PONTIANAK",
+		   "kuota": "179",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1700059848",
+		   "jumlah_pendaftaran": "2003 Jemaah",
+		   "jumlah_lunas_tunda": "182 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KAPUAS HULU",
-		   "Kuota": "130",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "1700059953",
-		   "Pendaftaran": "1766 Jemaah",
-		   "Lunas Tunda": "133 Jemaah"
+		   "nama_daerah": "KAB. KAPUAS HULU",
+		   "kuota": "130",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "1700059953",
+		   "jumlah_pendaftaran": "1766 Jemaah",
+		   "jumlah_lunas_tunda": "133 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KETAPANG",
-		   "Kuota": "249",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1700059917",
-		   "Pendaftaran": "2889 Jemaah",
-		   "Lunas Tunda": "235 Jemaah"
+		   "nama_daerah": "KAB. KETAPANG",
+		   "kuota": "249",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1700059917",
+		   "jumlah_pendaftaran": "2889 Jemaah",
+		   "jumlah_lunas_tunda": "235 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. LANDAK",
-		   "Kuota": "53",
-		   "(s.d Tahun)": "2025",
-		   "Pendaftar Akhir": "1700059577",
-		   "Pendaftaran": "450 Jemaah",
-		   "Lunas Tunda": "50 Jemaah"
+		   "nama_daerah": "KAB. LANDAK",
+		   "kuota": "53",
+		   "batas_tahun": "2025",
+		   "pendaftar_akhir": "1700059577",
+		   "jumlah_pendaftaran": "450 Jemaah",
+		   "jumlah_lunas_tunda": "50 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BENGKAYANG",
-		   "Kuota": "63",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "1700059825",
-		   "Pendaftaran": "624 Jemaah",
-		   "Lunas Tunda": "64 Jemaah"
+		   "nama_daerah": "KAB. BENGKAYANG",
+		   "kuota": "63",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "1700059825",
+		   "jumlah_pendaftaran": "624 Jemaah",
+		   "jumlah_lunas_tunda": "64 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA SINGKAWANG",
-		   "Kuota": "110",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "1700059888",
-		   "Pendaftaran": "1625 Jemaah",
-		   "Lunas Tunda": "107 Jemaah"
+		   "nama_daerah": "KOTA SINGKAWANG",
+		   "kuota": "110",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "1700059888",
+		   "jumlah_pendaftaran": "1625 Jemaah",
+		   "jumlah_lunas_tunda": "107 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MELAWI",
-		   "Kuota": "101",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "1700059924",
-		   "Pendaftaran": "998 Jemaah",
-		   "Lunas Tunda": "103 Jemaah"
+		   "nama_daerah": "KAB. MELAWI",
+		   "kuota": "101",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "1700059924",
+		   "jumlah_pendaftaran": "998 Jemaah",
+		   "jumlah_lunas_tunda": "103 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SEKADAU",
-		   "Kuota": "61",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "1700059929",
-		   "Pendaftaran": "569 Jemaah",
-		   "Lunas Tunda": "60 Jemaah"
+		   "nama_daerah": "KAB. SEKADAU",
+		   "kuota": "61",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "1700059929",
+		   "jumlah_pendaftaran": "569 Jemaah",
+		   "jumlah_lunas_tunda": "60 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KAYONG UTARA",
-		   "Kuota": "74",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "1700059713",
-		   "Pendaftaran": "558 Jemaah",
-		   "Lunas Tunda": "72 Jemaah"
+		   "nama_daerah": "KAB. KAYONG UTARA",
+		   "kuota": "74",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "1700059713",
+		   "jumlah_pendaftaran": "558 Jemaah",
+		   "jumlah_lunas_tunda": "72 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KUBU RAYA",
-		   "Kuota": "307",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "1700059855",
-		   "Pendaftaran": "3667 Jemaah",
-		   "Lunas Tunda": "294 Jemaah"
+		   "nama_daerah": "KAB. KUBU RAYA",
+		   "kuota": "307",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "1700059855",
+		   "jumlah_pendaftaran": "3667 Jemaah",
+		   "jumlah_lunas_tunda": "294 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BALIKPAPAN",
-		   "Kuota": "530",
-		   "(s.d Tahun)": "2036",
-		   "Pendaftar Akhir": "2000100967",
-		   "Pendaftaran": "10264 Jemaah",
-		   "Lunas Tunda": "524 Jemaah"
+		   "nama_daerah": "KOTA BALIKPAPAN",
+		   "kuota": "530",
+		   "batas_tahun": "2036",
+		   "pendaftar_akhir": "2000100967",
+		   "jumlah_pendaftaran": "10264 Jemaah",
+		   "jumlah_lunas_tunda": "524 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA SAMARINDA",
-		   "Kuota": "570",
-		   "(s.d Tahun)": "2039",
-		   "Pendaftar Akhir": "2000100972",
-		   "Pendaftaran": "12728 Jemaah",
-		   "Lunas Tunda": "541 Jemaah"
+		   "nama_daerah": "KOTA SAMARINDA",
+		   "kuota": "570",
+		   "batas_tahun": "2039",
+		   "pendaftar_akhir": "2000100972",
+		   "jumlah_pendaftaran": "12728 Jemaah",
+		   "jumlah_lunas_tunda": "541 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KUTAI KARTANEGARA",
-		   "Kuota": "532",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "2000100975",
-		   "Pendaftaran": "9836 Jemaah",
-		   "Lunas Tunda": "494 Jemaah"
+		   "nama_daerah": "KAB. KUTAI KARTANEGARA",
+		   "kuota": "532",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "2000100975",
+		   "jumlah_pendaftaran": "9836 Jemaah",
+		   "jumlah_lunas_tunda": "494 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. TANAH PASIR",
-		   "Kuota": "247",
-		   "(s.d Tahun)": "2037",
-		   "Pendaftar Akhir": "2000100945",
-		   "Pendaftaran": "5045 Jemaah",
-		   "Lunas Tunda": "228 Jemaah"
+		   "nama_daerah": "KAB. TANAH PASIR",
+		   "kuota": "247",
+		   "batas_tahun": "2037",
+		   "pendaftar_akhir": "2000100945",
+		   "jumlah_pendaftaran": "5045 Jemaah",
+		   "jumlah_lunas_tunda": "228 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BULUNGAN",
-		   "Kuota": "86",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "2000100886",
-		   "Pendaftaran": "1456 Jemaah",
-		   "Lunas Tunda": "76 Jemaah"
+		   "nama_daerah": "KAB. BULUNGAN",
+		   "kuota": "86",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "2000100886",
+		   "jumlah_pendaftaran": "1456 Jemaah",
+		   "jumlah_lunas_tunda": "76 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. B E R A U",
-		   "Kuota": "149",
-		   "(s.d Tahun)": "2036",
-		   "Pendaftar Akhir": "2000100942",
-		   "Pendaftaran": "2906 Jemaah",
-		   "Lunas Tunda": "149 Jemaah"
+		   "nama_daerah": "KAB. B E R A U",
+		   "kuota": "149",
+		   "batas_tahun": "2036",
+		   "pendaftar_akhir": "2000100942",
+		   "jumlah_pendaftaran": "2906 Jemaah",
+		   "jumlah_lunas_tunda": "149 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA TARAKAN",
-		   "Kuota": "149",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "2000100973",
-		   "Pendaftaran": "2736 Jemaah",
-		   "Lunas Tunda": "142 Jemaah"
+		   "nama_daerah": "KOTA TARAKAN",
+		   "kuota": "149",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "2000100973",
+		   "jumlah_pendaftaran": "2736 Jemaah",
+		   "jumlah_lunas_tunda": "142 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. NUNUKAN",
-		   "Kuota": "115",
-		   "(s.d Tahun)": "2038",
-		   "Pendaftar Akhir": "2000100887",
-		   "Pendaftaran": "2441 Jemaah",
-		   "Lunas Tunda": "107 Jemaah"
+		   "nama_daerah": "KAB. NUNUKAN",
+		   "kuota": "115",
+		   "batas_tahun": "2038",
+		   "pendaftar_akhir": "2000100887",
+		   "jumlah_pendaftaran": "2441 Jemaah",
+		   "jumlah_lunas_tunda": "107 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MALINAU",
-		   "Kuota": "51",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "2000100933",
-		   "Pendaftaran": "583 Jemaah",
-		   "Lunas Tunda": "52 Jemaah"
+		   "nama_daerah": "KAB. MALINAU",
+		   "kuota": "51",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "2000100933",
+		   "jumlah_pendaftaran": "583 Jemaah",
+		   "jumlah_lunas_tunda": "52 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KUTAI BARAT",
-		   "Kuota": "92",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "2000100982",
-		   "Pendaftaran": "1188 Jemaah",
-		   "Lunas Tunda": "87 Jemaah"
+		   "nama_daerah": "KAB. KUTAI BARAT",
+		   "kuota": "92",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "2000100982",
+		   "jumlah_pendaftaran": "1188 Jemaah",
+		   "jumlah_lunas_tunda": "87 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KUTAI TIMUR",
-		   "Kuota": "178",
-		   "(s.d Tahun)": "2036",
-		   "Pendaftar Akhir": "2000100931",
-		   "Pendaftaran": "3523 Jemaah",
-		   "Lunas Tunda": "166 Jemaah"
+		   "nama_daerah": "KAB. KUTAI TIMUR",
+		   "kuota": "178",
+		   "batas_tahun": "2036",
+		   "pendaftar_akhir": "2000100931",
+		   "jumlah_pendaftaran": "3523 Jemaah",
+		   "jumlah_lunas_tunda": "166 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA BONTANG",
-		   "Kuota": "144",
-		   "(s.d Tahun)": "2039",
-		   "Pendaftar Akhir": "2000100971",
-		   "Pendaftaran": "3211 Jemaah",
-		   "Lunas Tunda": "143 Jemaah"
+		   "nama_daerah": "KOTA BONTANG",
+		   "kuota": "144",
+		   "batas_tahun": "2039",
+		   "pendaftar_akhir": "2000100971",
+		   "jumlah_pendaftaran": "3211 Jemaah",
+		   "jumlah_lunas_tunda": "143 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PENAJAM PASER UTARA",
-		   "Kuota": "128",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "2000100958",
-		   "Pendaftaran": "2404 Jemaah",
-		   "Lunas Tunda": "121 Jemaah"
+		   "nama_daerah": "KAB. PENAJAM PASER UTARA",
+		   "kuota": "128",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "2000100958",
+		   "jumlah_pendaftaran": "2404 Jemaah",
+		   "jumlah_lunas_tunda": "121 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "TANA TIDUNG",
-		   "Kuota": "16",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "2000100242",
-		   "Pendaftaran": "241 Jemaah",
-		   "Lunas Tunda": "15 Jemaah"
+		   "nama_daerah": "TANA TIDUNG",
+		   "kuota": "16",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "2000100242",
+		   "jumlah_pendaftaran": "241 Jemaah",
+		   "jumlah_lunas_tunda": "15 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA UJUNG PANDANG",
-		   "Kuota": "1144",
-		   "(s.d Tahun)": "2042",
-		   "Pendaftar Akhir": "2300296617",
-		   "Pendaftaran": "30783 Jemaah",
-		   "Lunas Tunda": "1067 Jemaah"
+		   "nama_daerah": "KOTA UJUNG PANDANG",
+		   "kuota": "1144",
+		   "batas_tahun": "2042",
+		   "pendaftar_akhir": "2300296617",
+		   "jumlah_pendaftaran": "30783 Jemaah",
+		   "jumlah_lunas_tunda": "1067 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA PARE-PARE",
-		   "Kuota": "122",
-		   "(s.d Tahun)": "2043",
-		   "Pendaftar Akhir": "2300296597",
-		   "Pendaftaran": "3339 Jemaah",
-		   "Lunas Tunda": "112 Jemaah"
+		   "nama_daerah": "KOTA PARE-PARE",
+		   "kuota": "122",
+		   "batas_tahun": "2043",
+		   "pendaftar_akhir": "2300296597",
+		   "jumlah_pendaftaran": "3339 Jemaah",
+		   "jumlah_lunas_tunda": "112 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PINRANG",
-		   "Kuota": "360",
-		   "(s.d Tahun)": "2047",
-		   "Pendaftar Akhir": "2300296602",
-		   "Pendaftaran": "11369 Jemaah",
-		   "Lunas Tunda": "356 Jemaah"
+		   "nama_daerah": "KAB. PINRANG",
+		   "kuota": "360",
+		   "batas_tahun": "2047",
+		   "pendaftar_akhir": "2300296602",
+		   "jumlah_pendaftaran": "11369 Jemaah",
+		   "jumlah_lunas_tunda": "356 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. GOWA",
-		   "Kuota": "605",
-		   "(s.d Tahun)": "2042",
-		   "Pendaftar Akhir": "2300296606",
-		   "Pendaftaran": "15737 Jemaah",
-		   "Lunas Tunda": "602 Jemaah"
+		   "nama_daerah": "KAB. GOWA",
+		   "kuota": "605",
+		   "batas_tahun": "2042",
+		   "pendaftar_akhir": "2300296606",
+		   "jumlah_pendaftaran": "15737 Jemaah",
+		   "jumlah_lunas_tunda": "602 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. WAJO",
-		   "Kuota": "407",
-		   "(s.d Tahun)": "2048",
-		   "Pendaftar Akhir": "2300296619",
-		   "Pendaftaran": "13423 Jemaah",
-		   "Lunas Tunda": "395 Jemaah"
+		   "nama_daerah": "KAB. WAJO",
+		   "kuota": "407",
+		   "batas_tahun": "2048",
+		   "pendaftar_akhir": "2300296619",
+		   "jumlah_pendaftaran": "13423 Jemaah",
+		   "jumlah_lunas_tunda": "395 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BONE",
-		   "Kuota": "753",
-		   "(s.d Tahun)": "2043",
-		   "Pendaftar Akhir": "2300296609",
-		   "Pendaftaran": "20783 Jemaah",
-		   "Lunas Tunda": "731 Jemaah"
+		   "nama_daerah": "KAB. BONE",
+		   "kuota": "753",
+		   "batas_tahun": "2043",
+		   "pendaftar_akhir": "2300296609",
+		   "jumlah_pendaftaran": "20783 Jemaah",
+		   "jumlah_lunas_tunda": "731 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. TANA TORAJA",
-		   "Kuota": "34",
-		   "(s.d Tahun)": "2028",
-		   "Pendaftar Akhir": "2300296363",
-		   "Pendaftaran": "388 Jemaah",
-		   "Lunas Tunda": "35 Jemaah"
+		   "nama_daerah": "KAB. TANA TORAJA",
+		   "kuota": "34",
+		   "batas_tahun": "2028",
+		   "pendaftar_akhir": "2300296363",
+		   "jumlah_pendaftaran": "388 Jemaah",
+		   "jumlah_lunas_tunda": "35 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAROS",
-		   "Kuota": "313",
-		   "(s.d Tahun)": "2044",
-		   "Pendaftar Akhir": "2300296520",
-		   "Pendaftaran": "9018 Jemaah",
-		   "Lunas Tunda": "298 Jemaah"
+		   "nama_daerah": "KAB. MAROS",
+		   "kuota": "313",
+		   "batas_tahun": "2044",
+		   "pendaftar_akhir": "2300296520",
+		   "jumlah_pendaftaran": "9018 Jemaah",
+		   "jumlah_lunas_tunda": "298 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. LUWU",
-		   "Kuota": "274",
-		   "(s.d Tahun)": "2031",
-		   "Pendaftar Akhir": "2300296494",
-		   "Pendaftaran": "4073 Jemaah",
-		   "Lunas Tunda": "274 Jemaah"
+		   "nama_daerah": "KAB. LUWU",
+		   "kuota": "274",
+		   "batas_tahun": "2031",
+		   "pendaftar_akhir": "2300296494",
+		   "jumlah_pendaftaran": "4073 Jemaah",
+		   "jumlah_lunas_tunda": "274 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SINJAI",
-		   "Kuota": "234",
-		   "(s.d Tahun)": "2036",
-		   "Pendaftar Akhir": "2300296351",
-		   "Pendaftaran": "4526 Jemaah",
-		   "Lunas Tunda": "215 Jemaah"
+		   "nama_daerah": "KAB. SINJAI",
+		   "kuota": "234",
+		   "batas_tahun": "2036",
+		   "pendaftar_akhir": "2300296351",
+		   "jumlah_pendaftaran": "4526 Jemaah",
+		   "jumlah_lunas_tunda": "215 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BULUKUMBA",
-		   "Kuota": "409",
-		   "(s.d Tahun)": "2041",
-		   "Pendaftar Akhir": "2300296544",
-		   "Pendaftaran": "10391 Jemaah",
-		   "Lunas Tunda": "399 Jemaah"
+		   "nama_daerah": "KAB. BULUKUMBA",
+		   "kuota": "409",
+		   "batas_tahun": "2041",
+		   "pendaftar_akhir": "2300296544",
+		   "jumlah_pendaftaran": "10391 Jemaah",
+		   "jumlah_lunas_tunda": "399 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BANTAENG",
-		   "Kuota": "185",
-		   "(s.d Tahun)": "2050",
-		   "Pendaftar Akhir": "2300296587",
-		   "Pendaftaran": "6376 Jemaah",
-		   "Lunas Tunda": "188 Jemaah"
+		   "nama_daerah": "KAB. BANTAENG",
+		   "kuota": "185",
+		   "batas_tahun": "2050",
+		   "pendaftar_akhir": "2300296587",
+		   "jumlah_pendaftaran": "6376 Jemaah",
+		   "jumlah_lunas_tunda": "188 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. JENEPONTO",
-		   "Kuota": "344",
-		   "(s.d Tahun)": "2043",
-		   "Pendaftar Akhir": "2300296571",
-		   "Pendaftaran": "9298 Jemaah",
-		   "Lunas Tunda": "330 Jemaah"
+		   "nama_daerah": "KAB. JENEPONTO",
+		   "kuota": "344",
+		   "batas_tahun": "2043",
+		   "pendaftar_akhir": "2300296571",
+		   "jumlah_pendaftaran": "9298 Jemaah",
+		   "jumlah_lunas_tunda": "330 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SELAYAR",
-		   "Kuota": "115",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "2300296105",
-		   "Pendaftaran": "1911 Jemaah",
-		   "Lunas Tunda": "109 Jemaah"
+		   "nama_daerah": "KAB. SELAYAR",
+		   "kuota": "115",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "2300296105",
+		   "jumlah_pendaftaran": "1911 Jemaah",
+		   "jumlah_lunas_tunda": "109 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. TAKALAR",
-		   "Kuota": "264",
-		   "(s.d Tahun)": "2040",
-		   "Pendaftar Akhir": "2300296613",
-		   "Pendaftaran": "6322 Jemaah",
-		   "Lunas Tunda": "262 Jemaah"
+		   "nama_daerah": "KAB. TAKALAR",
+		   "kuota": "264",
+		   "batas_tahun": "2040",
+		   "pendaftar_akhir": "2300296613",
+		   "jumlah_pendaftaran": "6322 Jemaah",
+		   "jumlah_lunas_tunda": "262 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BARRU",
-		   "Kuota": "172",
-		   "(s.d Tahun)": "2038",
-		   "Pendaftar Akhir": "2300296576",
-		   "Pendaftaran": "3736 Jemaah",
-		   "Lunas Tunda": "174 Jemaah"
+		   "nama_daerah": "KAB. BARRU",
+		   "kuota": "172",
+		   "batas_tahun": "2038",
+		   "pendaftar_akhir": "2300296576",
+		   "jumlah_pendaftaran": "3736 Jemaah",
+		   "jumlah_lunas_tunda": "174 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SIDRAP",
-		   "Kuota": "254",
-		   "(s.d Tahun)": "2051",
-		   "Pendaftar Akhir": "2300296500",
-		   "Pendaftaran": "8954 Jemaah",
-		   "Lunas Tunda": "252 Jemaah"
+		   "nama_daerah": "KAB. SIDRAP",
+		   "kuota": "254",
+		   "batas_tahun": "2051",
+		   "pendaftar_akhir": "2300296500",
+		   "jumlah_pendaftaran": "8954 Jemaah",
+		   "jumlah_lunas_tunda": "252 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PANGKEP",
-		   "Kuota": "304",
-		   "(s.d Tahun)": "2040",
-		   "Pendaftar Akhir": "2300296595",
-		   "Pendaftaran": "7072 Jemaah",
-		   "Lunas Tunda": "299 Jemaah"
+		   "nama_daerah": "KAB. PANGKEP",
+		   "kuota": "304",
+		   "batas_tahun": "2040",
+		   "pendaftar_akhir": "2300296595",
+		   "jumlah_pendaftaran": "7072 Jemaah",
+		   "jumlah_lunas_tunda": "299 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SOPENG",
-		   "Kuota": "251",
-		   "(s.d Tahun)": "2044",
-		   "Pendaftar Akhir": "2300296573",
-		   "Pendaftaran": "7276 Jemaah",
-		   "Lunas Tunda": "254 Jemaah"
+		   "nama_daerah": "KAB. SOPENG",
+		   "kuota": "251",
+		   "batas_tahun": "2044",
+		   "pendaftar_akhir": "2300296573",
+		   "jumlah_pendaftaran": "7276 Jemaah",
+		   "jumlah_lunas_tunda": "254 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. ENREKANG",
-		   "Kuota": "188",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "2300296507",
-		   "Pendaftaran": "2927 Jemaah",
-		   "Lunas Tunda": "192 Jemaah"
+		   "nama_daerah": "KAB. ENREKANG",
+		   "kuota": "188",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "2300296507",
+		   "jumlah_pendaftaran": "2927 Jemaah",
+		   "jumlah_lunas_tunda": "192 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. LUWU UTARA",
-		   "Kuota": "230",
-		   "(s.d Tahun)": "2034",
-		   "Pendaftar Akhir": "2300296538",
-		   "Pendaftaran": "4088 Jemaah",
-		   "Lunas Tunda": "232 Jemaah"
+		   "nama_daerah": "KAB. LUWU UTARA",
+		   "kuota": "230",
+		   "batas_tahun": "2034",
+		   "pendaftar_akhir": "2300296538",
+		   "jumlah_pendaftaran": "4088 Jemaah",
+		   "jumlah_lunas_tunda": "232 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PALOPO",
-		   "Kuota": "109",
-		   "(s.d Tahun)": "2033",
-		   "Pendaftar Akhir": "2300296180",
-		   "Pendaftaran": "1776 Jemaah",
-		   "Lunas Tunda": "108 Jemaah"
+		   "nama_daerah": "KAB. PALOPO",
+		   "kuota": "109",
+		   "batas_tahun": "2033",
+		   "pendaftar_akhir": "2300296180",
+		   "jumlah_pendaftaran": "1776 Jemaah",
+		   "jumlah_lunas_tunda": "108 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. LUWU TIMUR",
-		   "Kuota": "157",
-		   "(s.d Tahun)": "2037",
-		   "Pendaftar Akhir": "2300296267",
-		   "Pendaftaran": "3278 Jemaah",
-		   "Lunas Tunda": "153 Jemaah"
+		   "nama_daerah": "KAB. LUWU TIMUR",
+		   "kuota": "157",
+		   "batas_tahun": "2037",
+		   "pendaftar_akhir": "2300296267",
+		   "jumlah_pendaftaran": "3278 Jemaah",
+		   "jumlah_lunas_tunda": "153 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA AMBON",
-		   "Kuota": "368",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "2500018210",
-		   "Pendaftaran": "3570 Jemaah",
-		   "Lunas Tunda": "297 Jemaah"
+		   "nama_daerah": "KOTA AMBON",
+		   "kuota": "368",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "2500018210",
+		   "jumlah_pendaftaran": "3570 Jemaah",
+		   "jumlah_lunas_tunda": "297 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MALUKU TENGAH",
-		   "Kuota": "135",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "2500018189",
-		   "Pendaftaran": "1333 Jemaah",
-		   "Lunas Tunda": "126 Jemaah"
+		   "nama_daerah": "KAB. MALUKU TENGAH",
+		   "kuota": "135",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "2500018189",
+		   "jumlah_pendaftaran": "1333 Jemaah",
+		   "jumlah_lunas_tunda": "126 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MALUKU TENGGARA",
-		   "Kuota": "70",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "2500018192",
-		   "Pendaftaran": "534 Jemaah",
-		   "Lunas Tunda": "64 Jemaah"
+		   "nama_daerah": "KAB. MALUKU TENGGARA",
+		   "kuota": "70",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "2500018192",
+		   "jumlah_pendaftaran": "534 Jemaah",
+		   "jumlah_lunas_tunda": "64 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SERAM BAGIAN BARAT",
-		   "Kuota": "100",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "2500018184",
-		   "Pendaftaran": "758 Jemaah",
-		   "Lunas Tunda": "93 Jemaah"
+		   "nama_daerah": "KAB. SERAM BAGIAN BARAT",
+		   "kuota": "100",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "2500018184",
+		   "jumlah_pendaftaran": "758 Jemaah",
+		   "jumlah_lunas_tunda": "93 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. SERAM BAGIAN TIMUR",
-		   "Kuota": "100",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "2500018201",
-		   "Pendaftaran": "744 Jemaah",
-		   "Lunas Tunda": "87 Jemaah"
+		   "nama_daerah": "KAB. SERAM BAGIAN TIMUR",
+		   "kuota": "100",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "2500018201",
+		   "jumlah_pendaftaran": "744 Jemaah",
+		   "jumlah_lunas_tunda": "87 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KEPULAUAN ARU",
-		   "Kuota": "45",
-		   "(s.d Tahun)": "2025",
-		   "Pendaftar Akhir": "2500018086",
-		   "Pendaftaran": "372 Jemaah",
-		   "Lunas Tunda": "40 Jemaah"
+		   "nama_daerah": "KAB. KEPULAUAN ARU",
+		   "kuota": "45",
+		   "batas_tahun": "2025",
+		   "pendaftar_akhir": "2500018086",
+		   "jumlah_pendaftaran": "372 Jemaah",
+		   "jumlah_lunas_tunda": "40 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MALUKU TENGGARA BARAT",
-		   "Kuota": "15",
-		   "(s.d Tahun)": "2020",
-		   "Pendaftar Akhir": "2500018103",
-		   "Pendaftaran": "55 Jemaah",
-		   "Lunas Tunda": "13 Jemaah"
+		   "nama_daerah": "KAB. MALUKU TENGGARA BARAT",
+		   "kuota": "15",
+		   "batas_tahun": "2020",
+		   "pendaftar_akhir": "2500018103",
+		   "jumlah_pendaftaran": "55 Jemaah",
+		   "jumlah_lunas_tunda": "13 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BURU",
-		   "Kuota": "100",
-		   "(s.d Tahun)": "2025",
-		   "Pendaftar Akhir": "2500018212",
-		   "Pendaftaran": "842 Jemaah",
-		   "Lunas Tunda": "95 Jemaah"
+		   "nama_daerah": "KAB. BURU",
+		   "kuota": "100",
+		   "batas_tahun": "2025",
+		   "pendaftar_akhir": "2500018212",
+		   "jumlah_pendaftaran": "842 Jemaah",
+		   "jumlah_lunas_tunda": "95 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA TUAL",
-		   "Kuota": "105",
-		   "(s.d Tahun)": "2025",
-		   "Pendaftar Akhir": "2500018209",
-		   "Pendaftaran": "897 Jemaah",
-		   "Lunas Tunda": "97 Jemaah"
+		   "nama_daerah": "KOTA TUAL",
+		   "kuota": "105",
+		   "batas_tahun": "2025",
+		   "pendaftar_akhir": "2500018209",
+		   "jumlah_pendaftaran": "897 Jemaah",
+		   "jumlah_lunas_tunda": "97 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. BURU SELATAN",
-		   "Kuota": "45",
-		   "(s.d Tahun)": "2023",
-		   "Pendaftar Akhir": "2500018200",
-		   "Pendaftaran": "278 Jemaah",
-		   "Lunas Tunda": "45 Jemaah"
+		   "nama_daerah": "KAB. BURU SELATAN",
+		   "kuota": "45",
+		   "batas_tahun": "2023",
+		   "pendaftar_akhir": "2500018200",
+		   "jumlah_pendaftaran": "278 Jemaah",
+		   "jumlah_lunas_tunda": "45 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. HALMAHERA BARAT",
-		   "Kuota": "68",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3600025745",
-		   "Pendaftaran": "851 Jemaah",
-		   "Lunas Tunda": "66 Jemaah"
+		   "nama_daerah": "KAB. HALMAHERA BARAT",
+		   "kuota": "68",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3600025745",
+		   "jumlah_pendaftaran": "851 Jemaah",
+		   "jumlah_lunas_tunda": "66 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. HALMAHERA TENGAH",
-		   "Kuota": "70",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "3600025713",
-		   "Pendaftaran": "757 Jemaah",
-		   "Lunas Tunda": "61 Jemaah"
+		   "nama_daerah": "KAB. HALMAHERA TENGAH",
+		   "kuota": "70",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "3600025713",
+		   "jumlah_pendaftaran": "757 Jemaah",
+		   "jumlah_lunas_tunda": "61 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA TERNATE",
-		   "Kuota": "269",
-		   "(s.d Tahun)": "2032",
-		   "Pendaftar Akhir": "3600025763",
-		   "Pendaftaran": "4263 Jemaah",
-		   "Lunas Tunda": "264 Jemaah"
+		   "nama_daerah": "KOTA TERNATE",
+		   "kuota": "269",
+		   "batas_tahun": "2032",
+		   "pendaftar_akhir": "3600025763",
+		   "jumlah_pendaftaran": "4263 Jemaah",
+		   "jumlah_lunas_tunda": "264 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. HALMAHERA UTARA",
-		   "Kuota": "96",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3600025748",
-		   "Pendaftaran": "1195 Jemaah",
-		   "Lunas Tunda": "97 Jemaah"
+		   "nama_daerah": "KAB. HALMAHERA UTARA",
+		   "kuota": "96",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3600025748",
+		   "jumlah_pendaftaran": "1195 Jemaah",
+		   "jumlah_lunas_tunda": "97 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KOTA TIDORE KEPULAUAN",
-		   "Kuota": "116",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "3600025762",
-		   "Pendaftaran": "1560 Jemaah",
-		   "Lunas Tunda": "111 Jemaah"
+		   "nama_daerah": "KOTA TIDORE KEPULAUAN",
+		   "kuota": "116",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "3600025762",
+		   "jumlah_pendaftaran": "1560 Jemaah",
+		   "jumlah_lunas_tunda": "111 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. HALMAHERA TIMUR",
-		   "Kuota": "61",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "3600025731",
-		   "Pendaftaran": "667 Jemaah",
-		   "Lunas Tunda": "51 Jemaah"
+		   "nama_daerah": "KAB. HALMAHERA TIMUR",
+		   "kuota": "61",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "3600025731",
+		   "jumlah_pendaftaran": "667 Jemaah",
+		   "jumlah_lunas_tunda": "51 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. KEPULAUAN SULA",
-		   "Kuota": "111",
-		   "(s.d Tahun)": "2024",
-		   "Pendaftar Akhir": "3600025720",
-		   "Pendaftaran": "847 Jemaah",
-		   "Lunas Tunda": "106 Jemaah"
+		   "nama_daerah": "KAB. KEPULAUAN SULA",
+		   "kuota": "111",
+		   "batas_tahun": "2024",
+		   "pendaftar_akhir": "3600025720",
+		   "jumlah_pendaftaran": "847 Jemaah",
+		   "jumlah_lunas_tunda": "106 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. HALMAHERA SELATAN",
-		   "Kuota": "198",
-		   "(s.d Tahun)": "2026",
-		   "Pendaftar Akhir": "3600025728",
-		   "Pendaftaran": "1855 Jemaah",
-		   "Lunas Tunda": "197 Jemaah"
+		   "nama_daerah": "KAB. HALMAHERA SELATAN",
+		   "kuota": "198",
+		   "batas_tahun": "2026",
+		   "pendaftar_akhir": "3600025728",
+		   "jumlah_pendaftaran": "1855 Jemaah",
+		   "jumlah_lunas_tunda": "197 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. PULAU MAROTAI",
-		   "Kuota": "46",
-		   "(s.d Tahun)": "2027",
-		   "Pendaftar Akhir": "3600025690",
-		   "Pendaftaran": "461 Jemaah",
-		   "Lunas Tunda": "46 Jemaah"
+		   "nama_daerah": "KAB. PULAU MAROTAI",
+		   "kuota": "46",
+		   "batas_tahun": "2027",
+		   "pendaftar_akhir": "3600025690",
+		   "jumlah_pendaftaran": "461 Jemaah",
+		   "jumlah_lunas_tunda": "46 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAMUJU",
-		   "Kuota": "262",
-		   "(s.d Tahun)": "2038",
-		   "Pendaftar Akhir": "3800041820",
-		   "Pendaftaran": "5539 Jemaah",
-		   "Lunas Tunda": "248 Jemaah"
+		   "nama_daerah": "KAB. MAMUJU",
+		   "kuota": "262",
+		   "batas_tahun": "2038",
+		   "pendaftar_akhir": "3800041820",
+		   "jumlah_pendaftaran": "5539 Jemaah",
+		   "jumlah_lunas_tunda": "248 Jemaah"
 		 },
 		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAMUJU UTARA",
-		   "Kuota": "157",
-		   "(s.d Tahun)": "2035",
-		   "Pendaftar Akhir": "3800041768",
-		   "Pendaftaran": "2850 Jemaah",
-		   "Lunas Tunda": "152 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. POLEWALI MANDAR",
-		   "Kuota": "508",
-		   "(s.d Tahun)": "2034",
-		   "Pendaftar Akhir": "3800041814",
-		   "Pendaftaran": "8973 Jemaah",
-		   "Lunas Tunda": "507 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAJENE",
-		   "Kuota": "253",
-		   "(s.d Tahun)": "2030",
-		   "Pendaftar Akhir": "3800041816",
-		   "Pendaftaran": "3322 Jemaah",
-		   "Lunas Tunda": "249 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. MAMASA",
-		   "Kuota": "108",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3800041794",
-		   "Pendaftaran": "1397 Jemaah",
-		   "Lunas Tunda": "106 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. MANOKWARI",
-		   "Kuota": "178",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014539",
-		   "Pendaftaran": "2248 Jemaah",
-		   "Lunas Tunda": "178 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. WONDAMA",
-		   "Kuota": "18",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014374",
-		   "Pendaftaran": "223 Jemaah",
-		   "Lunas Tunda": "14 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. TELUK BINTUNI",
-		   "Kuota": "38",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014423",
-		   "Pendaftaran": "475 Jemaah",
-		   "Lunas Tunda": "34 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. FAK-FAK",
-		   "Kuota": "79",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014529",
-		   "Pendaftaran": "982 Jemaah",
-		   "Lunas Tunda": "74 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. KAIMANA",
-		   "Kuota": "37",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014411",
-		   "Pendaftaran": "459 Jemaah",
-		   "Lunas Tunda": "37 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. SORONG",
-		   "Kuota": "78",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014515",
-		   "Pendaftaran": "973 Jemaah",
-		   "Lunas Tunda": "79 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. SORONG SELATAN",
-		   "Kuota": "21",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014521",
-		   "Pendaftaran": "264 Jemaah",
-		   "Lunas Tunda": "21 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KAB. RAJA AMPAT",
-		   "Kuota": "22",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014537",
-		   "Pendaftaran": "285 Jemaah",
-		   "Lunas Tunda": "24 Jemaah"
-		 },
-		 {
-		   "Nama Prov/Kab/Kota": "KOTA SORONG",
-		   "Kuota": "243",
-		   "(s.d Tahun)": "2029",
-		   "Pendaftar Akhir": "3900014545",
-		   "Pendaftaran": "3060 Jemaah",
-		   "Lunas Tunda": "227 Jemaah"
+		   "nama_daerah": "KAB. MAMUJU UTARA",
+		   "kuota": "157",
+		   "batas_tahun": "2035",
+		   "pendaftar_akhir": "3800041768",
+		   "jumlah_pendaftaran": "2850 Jemaah",
+		   "jumlah_lunas_tunda": "152 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. POLEWALI MANDAR",
+		   "kuota": "508",
+		   "batas_tahun": "2034",
+		   "pendaftar_akhir": "3800041814",
+		   "jumlah_pendaftaran": "8973 Jemaah",
+		   "jumlah_lunas_tunda": "507 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. MAJENE",
+		   "kuota": "253",
+		   "batas_tahun": "2030",
+		   "pendaftar_akhir": "3800041816",
+		   "jumlah_pendaftaran": "3322 Jemaah",
+		   "jumlah_lunas_tunda": "249 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. MAMASA",
+		   "kuota": "108",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3800041794",
+		   "jumlah_pendaftaran": "1397 Jemaah",
+		   "jumlah_lunas_tunda": "106 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. MANOKWARI",
+		   "kuota": "178",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014539",
+		   "jumlah_pendaftaran": "2248 Jemaah",
+		   "jumlah_lunas_tunda": "178 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. WONDAMA",
+		   "kuota": "18",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014374",
+		   "jumlah_pendaftaran": "223 Jemaah",
+		   "jumlah_lunas_tunda": "14 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. TELUK BINTUNI",
+		   "kuota": "38",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014423",
+		   "jumlah_pendaftaran": "475 Jemaah",
+		   "jumlah_lunas_tunda": "34 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. FAK-FAK",
+		   "kuota": "79",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014529",
+		   "jumlah_pendaftaran": "982 Jemaah",
+		   "jumlah_lunas_tunda": "74 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. KAIMANA",
+		   "kuota": "37",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014411",
+		   "jumlah_pendaftaran": "459 Jemaah",
+		   "jumlah_lunas_tunda": "37 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. SORONG",
+		   "kuota": "78",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014515",
+		   "jumlah_pendaftaran": "973 Jemaah",
+		   "jumlah_lunas_tunda": "79 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. SORONG SELATAN",
+		   "kuota": "21",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014521",
+		   "jumlah_pendaftaran": "264 Jemaah",
+		   "jumlah_lunas_tunda": "21 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KAB. RAJA AMPAT",
+		   "kuota": "22",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014537",
+		   "jumlah_pendaftaran": "285 Jemaah",
+		   "jumlah_lunas_tunda": "24 Jemaah"
+		 },
+		 {
+		   "nama_daerah": "KOTA SORONG",
+		   "kuota": "243",
+		   "batas_tahun": "2029",
+		   "pendaftar_akhir": "3900014545",
+		   "jumlah_pendaftaran": "3060 Jemaah",
+		   "jumlah_lunas_tunda": "227 Jemaah"
 		 }
 	]
 }
