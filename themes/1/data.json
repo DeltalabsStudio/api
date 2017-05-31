@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{	
+			"avatar": "https://github.com/DeltalabsStudio/api/blob/master/avatar/DHYKA.jpg?raw=true",
+			"judul": "LIGHT MATNYONG",
+			"changelog": "Update Base v3.3.4.48",
+			"fitur": "Full Display Picture (DP No Crop)\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads\And More",
+			"base": "v3.3.4.48",
+			"modder": "Dhyka Anggara",
+			"clone": "null",
+			"unclone": "https://drive.google.com/uc?export=download&id=0BxoArqYM0dzhN0JUZVZTaEw4M00",
+			"img": "https://2.bp.blogspot.com/-Lj66Uwf-g-Q/WS4mLI6kBzI/AAAAAAAACMI/lzgLTqrAFzoAwENIWORPRkQV4hdAi9f8QCLcB/s640/SS.jpg"
+		},
+		{	
 			"avatar": "http://bit.ly/ABIEMPP",
 			"judul": "LE6END DARK",
 			"changelog": "Update Base v3.3.4.48",
