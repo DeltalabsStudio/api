@@ -19,39 +19,31 @@
 			"img": "https://github.com/DeltalabsStudio/api/blob/master/modapeka/GBWA.png?raw=true"
 		},
 		{
-			"judul": "WhatsApp2rr",
-			"changelog": "Base Updated to 2.17.146",
-			"modder": "Rikri Rikardo aka BegalDev",
-			"unduh": "http://www.mediafire.com/file/tkejzabrkkautvv/WhatsApp2+Arm+v2.17.190.apk",
-			"mirror": "http://www.mediafire.com/file/tkejzabrkkautvv/WhatsApp2+Arm+v2.17.190.apk",
-			"blogpost": "null",
-			"img": "https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/18527575_545840348920039_4038647677864438546_n.jpg?oh=7ef7872d471413a4c5ee7d3e8550fdba&oe=59AB0203"
-		},{
-			"judul": "WhatsApp+ v5.60",
-			"changelog": "Base Updated to 2.17.146",
-			"modder": "atnfas_hoak",
-			"unduh": "http://www.mediafire.com/file/6k6k7o66pxltntd/GBWAPlus+v5.60-2.17.146+%40atnfas_hoak.apk",
-			"mirror": "http://www.mediafire.com/file/6k6k7o66pxltntd/GBWAPlus+v5.60-2.17.146+%40atnfas_hoak.apk",
-			"blogpost": "http://www.gbmods.co/?p=19",
-			"img": "https://github.com/DeltalabsStudio/api/blob/master/modapeka/GBWA.png?raw=true"
-		},
-		{
-			"judul": "WhatsApp+ v5.60",
-			"changelog": "Base Updated to 2.17.146",
-			"modder": "atnfas_hoak",
-			"unduh": "http://www.mediafire.com/file/6k6k7o66pxltntd/GBWAPlus+v5.60-2.17.146+%40atnfas_hoak.apk",
-			"mirror": "http://www.mediafire.com/file/6k6k7o66pxltntd/GBWAPlus+v5.60-2.17.146+%40atnfas_hoak.apk",
-			"blogpost": "http://www.gbmods.co/?p=19",
-			"img": "https://github.com/DeltalabsStudio/api/blob/master/modapeka/GBWA.png?raw=true"
-		},
-		{
 			"judul": "GB WhatsApp3 v5.60",
 			"changelog": "Base Updated to 2.17.146",
 			"modder": "atnfas_hoak",
 			"unduh": "http://www.mediafire.com/file/84dpbddaetramu9/GBWA3+v5.60-2.17.146+%40atnfas_hoak.apk",
 			"mirror": "http://www.mediafire.com/file/84dpbddaetramu9/GBWA3+v5.60-2.17.146+%40atnfas_hoak.apk",
 			"blogpost": "http://www.gbmods.co/?p=19",
-			"img": "https://scontent.fcgk6-1.fna.fbcdn.net/v/t31.0-0/p526x296/18620500_1431985573491540_5680066970298405583_o.jpg?oh=9413ae636c1d44a27f5f05aaca80c393&oe=59AB223F"
+			"img": "https://github.com/DeltalabsStudio/api/blob/master/modapeka/GBWA.png?raw=true"
+		},
+		{
+			"judul": "WhatsApp2rr Arm",
+			"changelog": "Base Updated to 2.17.190",
+			"modder": "Rikri Rikardo aka BegalDev",
+			"unduh": "http://www.mediafire.com/file/tkejzabrkkautvv/WhatsApp2+Arm+v2.17.190.apk",
+			"mirror": "http://www.mediafire.com/file/tkejzabrkkautvv/WhatsApp2+Arm+v2.17.190.apk",
+			"blogpost": "null",
+			"img": "https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/18527575_545840348920039_4038647677864438546_n.jpg?oh=7ef7872d471413a4c5ee7d3e8550fdba&oe=59AB0203"
+		},
+		{
+			"judul": "WhatsApp2rr x86",
+			"changelog": "Base Updated to 2.17.190",
+			"modder": "Rikri Rikardo aka BegalDev",
+			"unduh": "http://www.mediafire.com/file/b8nddo3ox6h9f8v/WhatsApp2+x86+v2.17.190.apk",
+			"mirror": "http://www.mediafire.com/file/b8nddo3ox6h9f8v/WhatsApp2+x86+v2.17.190.apk",
+			"blogpost": "null",
+			"img": "https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/18527575_545840348920039_4038647677864438546_n.jpg?oh=7ef7872d471413a4c5ee7d3e8550fdba&oe=59AB0203"
 		}
 	]
 }
