@@ -186,6 +186,28 @@
 			"clone": "https://goo.gl/RtEM5S",
 			"unclone": "https://goo.gl/vNgHtq",
 			"img": "https://3.bp.blogspot.com/-36m09mNBLJI/V-uAKYwUEUI/AAAAAAAAA84/bOjs5GOqs9w3jkssYTDtSOoFM8C1EBREACLcB/s640/DELTA%2BBBM%2Bv3.7.0.jpg"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.6.1",
+			"changelog": "Fix Custom Font Digital Clock\nShow Hide Attach Input\nColor Setting from Drawer",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.1.25",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/4KgXk3",
+			"unclone": "https://goo.gl/EDpzX7",
+			"img": "https://3.bp.blogspot.com/-8nPIb8Jk_LU/V8KCxlygFxI/AAAAAAAAA6o/pSJ4C2XgHAcAtf52xvZLAaIH22LwIF9ZQCLcB/s640/DELTALABS%2Bv3.6.1.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.5.5",
+			"changelog": "Change launcher icon\nRunning PM\nClear cache\nFix video call layout\nMove picture background file to SD Card/Android/data/com.bbm/files/DELTA/",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.1.25",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/JhGA10",
+			"unclone": "https://goo.gl/vDH1C9",
+			"img": "https://2.bp.blogspot.com/-qFJ7aznwAj0/V3DI3X-qkUI/AAAAAAAAAnw/z0VSR_rj3ZQuIm4URXRmf8FotvBcdx3wgCLcB/s640/DELTA%2BBBM%2Bv3.5.5.jpg"
 		}
 	]
 }
