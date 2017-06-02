@@ -87,6 +87,50 @@
 			"clone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmcFhha3NCVUlQSm8",
 			"unclone": "https://drive.google.com/uc?export=download&id=0B5kVVT1bqYHmLUg4MjA3VkxEVEk",
 			"img": "https://4.bp.blogspot.com/-ihxmsSo1pLQ/WHsUPkhgeLI/AAAAAAAABtA/Z08j1_NVAGwhZNiQUg29YT1GzqWwS3dqwCLcB/s640/DELTA%2BBBM%2Bv4.1.0.jpg"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.0.0a",
+			"changelog": "Fix Lock Slider\nAdd Password for Hide Conversation",
+			"fitur": "All Premium Features Available",
+			"base": "v3.2.3.11",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/IKA61B",
+			"unclone": "https://goo.gl/fISnK6",
+			"img": "https://3.bp.blogspot.com/-qBaUEvn6ABo/WHZb8f1BdXI/AAAAAAAABsg/SiYJ6l_aaMMjCLgC4yKTMfllcOrC4AW9QCLcB/s640/DELTA%2BBBM%2Bv4.0.0a.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.0.0",
+			"changelog": "Update Base v3.2.3.11\nExpand view on conversation\nCustom style bbm input panel (Original, Delta, WhatsApp)\nNew lock ui with slide to unlock\nFix profile group",
+			"fitur": "All Premium Features Available",
+			"base": "v3.2.3.11",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/So6xH5",
+			"unclone": "https://goo.gl/S49Yxo",
+			"img": "https://2.bp.blogspot.com/-OWM4Q3zOUgk/WHSyvSdaAGI/AAAAAAAABsE/H5DnMceYgrIOOx_7QLQDbh1YTMFptGJOQCLcB/s640/DELTA%2BBBM%2Bv4.0.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.9.1",
+			"changelog": "Fix Change Laguage",
+			"fitur": "All Premium Features Available",
+			"base": "v3.2.0.6",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/rvgqb0",
+			"unclone": "https://goo.gl/rWUnP5",
+			"img": "https://2.bp.blogspot.com/-N_--Ict4h_A/WE1S7I27MxI/AAAAAAAABmw/NWNSHPVANoUpwv006AneSGXDsZC7JdqbwCLcB/s640/DELTA%2BBBM%2Bv3.9.1.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.8.2",
+			"changelog": "Fix FC when start applications.",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.0.18",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/2egzNd",
+			"unclone": "https://goo.gl/dpMlhB",
+			"img": "https://1.bp.blogspot.com/-mWMHmSAMGkc/WGVFATW6flI/AAAAAAAABpQ/Hj6jzyz6lDUyU8H6mqG2-l0jyIVOfzB2QCLcB/s640/DELTA%2BBBM%2Bv3.8.2.png"
 		}
 	]
 }
