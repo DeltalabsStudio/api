@@ -113,7 +113,7 @@
 		{
 			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELTA v3.9.1",
-			"changelog": "Fix Change Laguage",
+			"changelog": "Fix Change Language",
 			"fitur": "All Premium Features Available",
 			"base": "v3.2.0.6",
 			"modder": "DELTALABS",
@@ -131,6 +131,61 @@
 			"clone": "https://goo.gl/2egzNd",
 			"unclone": "https://goo.gl/dpMlhB",
 			"img": "https://1.bp.blogspot.com/-mWMHmSAMGkc/WGVFATW6flI/AAAAAAAABpQ/Hj6jzyz6lDUyU8H6mqG2-l0jyIVOfzB2QCLcB/s640/DELTA%2BBBM%2Bv3.8.2.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.8.1b",
+			"changelog": "Copy status\nBOM PING!!! with Long Click",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.0.18",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/5bCuiz",
+			"unclone": "https://goo.gl/EmYxSb",
+			"img": "https://4.bp.blogspot.com/-fhzHOrYT6Gg/WDm1mcHqm7I/AAAAAAAABks/3f4zwOFMQPUS74CVpGtTkCLFdR4Yq8H8gCLcB/s640/DELTA%2BBBM%2Bv3.8.1b.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.8.1a",
+			"changelog": "Fix private conversation background\nDarken transparent theme\nRemove list divider chat",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.0.18",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/0C4fzA",
+			"unclone": "https://goo.gl/JBL96g",
+			"img": "https://3.bp.blogspot.com/-yBgy-9xV68E/WDRzyIw2XXI/AAAAAAAABkQ/d1HLYrRU-Ows3TuINRovZDQCCAWf4_pmQCLcB/s640/DELTA%2BBBM%2Bv3.8.1a.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.7.1b",
+			"changelog": "Change Background\nChange Launcher Icon",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.1.25",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/sJkozO",
+			"unclone": "https://goo.gl/6SuaNa",
+			"img": "https://3.bp.blogspot.com/-8978zgj0hf0/WAz8Kz4ac7I/AAAAAAAABaQ/Bi6TpMusR3QH-tUJdCtiFn6-6Bt0SOVBACLcB/s640/DELTA%2BBBM%2Bv3.7.1b.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.7.1a",
+			"changelog": "Change Background\nChange Launcher Icon",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.1.25",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/9J5LcC",
+			"unclone": "https://goo.gl/LWGtJa",
+			"img": "https://1.bp.blogspot.com/-_Vs2UC6iZmo/V-_MZ24pbpI/AAAAAAAAA9I/0u4vgTyl2DI_7SW-NHmMj4RIfLXJl0oigCLcB/s640/DELTA%2BBBM%2Bv3.7.1a.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v3.7.0",
+			"changelog": "Update Base v3.0.1.25\nUbah background pesan dengan gambar\nInput background mengikuti gelembung pesan\nGelembung Google Allo",
+			"fitur": "All Premium Features Available",
+			"base": "v3.0.1.25",
+			"modder": "DELTALABS",
+			"clone": "https://goo.gl/RtEM5S",
+			"unclone": "https://goo.gl/vNgHtq",
+			"img": "https://3.bp.blogspot.com/-36m09mNBLJI/V-uAKYwUEUI/AAAAAAAAA84/bOjs5GOqs9w3jkssYTDtSOoFM8C1EBREACLcB/s640/DELTA%2BBBM%2Bv3.7.0.jpg"
 		}
 	]
 }
