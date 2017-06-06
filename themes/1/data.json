@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELUXE v2.0.0",
+			"changelog": "Update Base v3.3.4.48\nEdge Theme\nEncrypt Chat",
+			"fitur": "Custom Theme (Dark, Black, Transparent)\nColor Scheme\nColoring System Bar (>Lolipop)\nDP No Crop\nSave Timed Picture\nBlock Read Status\nContact View (Grid and List)\nCustom Bubble Chat\nColoring, Position and Visibility Tab Layout\nPosition and Visibility Chat Filter\nChange Notification, Connected, No Service, PING and Chat Title Text\nAuto Text",
+			"base": "v3.3.4.48",
+			"modder": "DELTALABS",
+			"clone": "https://bitbucket.org/deltalabs/deluxe/raw/f39fb075c3a09995e09d29b97ac3d34968ee5353/CLONE_DELUXE_v2.0.0.apk",
+			"unclone": "https://bitbucket.org/deltalabs/deluxe/raw/342c0789b5114f17e3c87ed033743f1095d04feb/UNCLONE_DELUXE_v2.0.0.apk",
+			"img": "https://4.bp.blogspot.com/-yMWrhbAad_I/WTbLFmlF87I/AAAAAAAAAJs/_pSmvjCVijkWKvgQUZN1al20aw1W3CrAACLcB/s640/AFFIX_20170606_222737.png"
+		},
+		{
 			"avatar": "http://bit.ly/ABDULR",
 			"judul": "AR-WHATSAPP",
 			"changelog": "Update Base v3.3.4.48",
