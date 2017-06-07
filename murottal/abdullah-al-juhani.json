@@ -1,461 +1,463 @@
 {
-	"data": 
-	[
+  "d1": "http://files.islamdownload.net",
+  "d2": "http://files.islamdownload.net",
+  "dir": "/124513/",
+  "files": [
 		 {
-		   "surah_name": "001-Al-Fatihah.mp3",
-		   "surah_size": "687.97 KB"
+		   "name": "001-Al-Fatihah.mp3",
+		   "size": "687.97 KB"
 		 },
 		 {
-		   "surah_name": "002-Al-Baqarah.mp3",
-		   "surah_size": "91.01 MB"
+		   "name": "002-Al-Baqarah.mp3",
+		   "size": "91.01 MB"
 		 },
 		 {
-		   "surah_name": "003-Ali-Imran.mp3",
-		   "surah_size": "47.88 MB"
+		   "name": "003-Ali-Imran.mp3",
+		   "size": "47.88 MB"
 		 },
 		 {
-		   "surah_name": "004-An-Nisa.mp3",
-		   "surah_size": "61.88 MB"
+		   "name": "004-An-Nisa.mp3",
+		   "size": "61.88 MB"
 		 },
 		 {
-		   "surah_name": "005-Al-Maidah.mp3",
-		   "surah_size": "44.22 MB"
+		   "name": "005-Al-Maidah.mp3",
+		   "size": "44.22 MB"
 		 },
 		 {
-		   "surah_name": "006-Al-Anam.mp3",
-		   "surah_size": "41.46 MB"
+		   "name": "006-Al-Anam.mp3",
+		   "size": "41.46 MB"
 		 },
 		 {
-		   "surah_name": "007-Al-Araf.mp3",
-		   "surah_size": "52.48 MB"
+		   "name": "007-Al-Araf.mp3",
+		   "size": "52.48 MB"
 		 },
 		 {
-		   "surah_name": "008-Al-Anfal.mp3",
-		   "surah_size": "18.92 MB"
+		   "name": "008-Al-Anfal.mp3",
+		   "size": "18.92 MB"
 		 },
 		 {
-		   "surah_name": "009-At-Taubah.mp3",
-		   "surah_size": "36.3 MB"
+		   "name": "009-At-Taubah.mp3",
+		   "size": "36.3 MB"
 		 },
 		 {
-		   "surah_name": "010-Yunus.mp3",
-		   "surah_size": "24.54 MB"
+		   "name": "010-Yunus.mp3",
+		   "size": "24.54 MB"
 		 },
 		 {
-		   "surah_name": "011-Hud.mp3",
-		   "surah_size": "25.85 MB"
+		   "name": "011-Hud.mp3",
+		   "size": "25.85 MB"
 		 },
 		 {
-		   "surah_name": "012-Yusuf.mp3",
-		   "surah_size": "24.08 MB"
+		   "name": "012-Yusuf.mp3",
+		   "size": "24.08 MB"
 		 },
 		 {
-		   "surah_name": "013-Ar-Rad.mp3",
-		   "surah_size": "12.69 MB"
+		   "name": "013-Ar-Rad.mp3",
+		   "size": "12.69 MB"
 		 },
 		 {
-		   "surah_name": "014-Ibrahim.mp3",
-		   "surah_size": "9.73 MB"
+		   "name": "014-Ibrahim.mp3",
+		   "size": "9.73 MB"
 		 },
 		 {
-		   "surah_name": "015-Al-Hijr.mp3",
-		   "surah_size": "9.37 MB"
+		   "name": "015-Al-Hijr.mp3",
+		   "size": "9.37 MB"
 		 },
 		 {
-		   "surah_name": "016-An-Nahl.mp3",
-		   "surah_size": "23.84 MB"
+		   "name": "016-An-Nahl.mp3",
+		   "size": "23.84 MB"
 		 },
 		 {
-		   "surah_name": "017-Al-Isra.mp3",
-		   "surah_size": "19.76 MB"
+		   "name": "017-Al-Isra.mp3",
+		   "size": "19.76 MB"
 		 },
 		 {
-		   "surah_name": "018-Al-Kahf.mp3",
-		   "surah_size": "19.41 MB"
+		   "name": "018-Al-Kahf.mp3",
+		   "size": "19.41 MB"
 		 },
 		 {
-		   "surah_name": "019-Maryam.mp3",
-		   "surah_size": "13.78 MB"
+		   "name": "019-Maryam.mp3",
+		   "size": "13.78 MB"
 		 },
 		 {
-		   "surah_name": "020-Thaha.mp3",
-		   "surah_size": "18.93 MB"
+		   "name": "020-Thaha.mp3",
+		   "size": "18.93 MB"
 		 },
 		 {
-		   "surah_name": "021-Al-Anbiya.mp3",
-		   "surah_size": "15.88 MB"
+		   "name": "021-Al-Anbiya.mp3",
+		   "size": "15.88 MB"
 		 },
 		 {
-		   "surah_name": "022-Al-Hajj.mp3",
-		   "surah_size": "19.15 MB"
+		   "name": "022-Al-Hajj.mp3",
+		   "size": "19.15 MB"
 		 },
 		 {
-		   "surah_name": "023-Al-Muminuun.mp3",
-		   "surah_size": "15.62 MB"
+		   "name": "023-Al-Muminuun.mp3",
+		   "size": "15.62 MB"
 		 },
 		 {
-		   "surah_name": "024-An-Nuur.mp3",
-		   "surah_size": "19.73 MB"
+		   "name": "024-An-Nuur.mp3",
+		   "size": "19.73 MB"
 		 },
 		 {
-		   "surah_name": "025-Al-Furqaan.mp3",
-		   "surah_size": "13.55 MB"
+		   "name": "025-Al-Furqaan.mp3",
+		   "size": "13.55 MB"
 		 },
 		 {
-		   "surah_name": "026-Asy-Syuaraa.mp3",
-		   "surah_size": "18.99 MB"
+		   "name": "026-Asy-Syuaraa.mp3",
+		   "size": "18.99 MB"
 		 },
 		 {
-		   "surah_name": "027-An-Naml.mp3",
-		   "surah_size": "16.02 MB"
+		   "name": "027-An-Naml.mp3",
+		   "size": "16.02 MB"
 		 },
 		 {
-		   "surah_name": "028-Al-Qashash.mp3",
-		   "surah_size": "20.69 MB"
+		   "name": "028-Al-Qashash.mp3",
+		   "size": "20.69 MB"
 		 },
 		 {
-		   "surah_name": "029-Al-Ankabuut.mp3",
-		   "surah_size": "14.65 MB"
+		   "name": "029-Al-Ankabuut.mp3",
+		   "size": "14.65 MB"
 		 },
 		 {
-		   "surah_name": "030-Ar-Ruum.mp3",
-		   "surah_size": "11.42 MB"
+		   "name": "030-Ar-Ruum.mp3",
+		   "size": "11.42 MB"
 		 },
 		 {
-		   "surah_name": "031-Luqman.mp3",
-		   "surah_size": "7.26 MB"
+		   "name": "031-Luqman.mp3",
+		   "size": "7.26 MB"
 		 },
 		 {
-		   "surah_name": "032-As-Sajdah.mp3",
-		   "surah_size": "4.72 MB"
+		   "name": "032-As-Sajdah.mp3",
+		   "size": "4.72 MB"
 		 },
 		 {
-		   "surah_name": "033-Al-Ahzab.mp3",
-		   "surah_size": "19.54 MB"
+		   "name": "033-Al-Ahzab.mp3",
+		   "size": "19.54 MB"
 		 },
 		 {
-		   "surah_name": "034-Saba.mp3",
-		   "surah_size": "12.61 MB"
+		   "name": "034-Saba.mp3",
+		   "size": "12.61 MB"
 		 },
 		 {
-		   "surah_name": "035-Faathir.mp3",
-		   "surah_size": "12.06 MB"
+		   "name": "035-Faathir.mp3",
+		   "size": "12.06 MB"
 		 },
 		 {
-		   "surah_name": "036-Yaasiin.mp3",
-		   "surah_size": "10.9 MB"
+		   "name": "036-Yaasiin.mp3",
+		   "size": "10.9 MB"
 		 },
 		 {
-		   "surah_name": "037-Ash-Shaaffaat.mp3",
-		   "surah_size": "12.74 MB"
+		   "name": "037-Ash-Shaaffaat.mp3",
+		   "size": "12.74 MB"
 		 },
 		 {
-		   "surah_name": "038-Shaad.mp3",
-		   "surah_size": "10 MB"
+		   "name": "038-Shaad.mp3",
+		   "size": "10 MB"
 		 },
 		 {
-		   "surah_name": "039-Az-Zumar.mp3",
-		   "surah_size": "16.47 MB"
+		   "name": "039-Az-Zumar.mp3",
+		   "size": "16.47 MB"
 		 },
 		 {
-		   "surah_name": "040-Al-Mumin.mp3",
-		   "surah_size": "17.18 MB"
+		   "name": "040-Al-Mumin.mp3",
+		   "size": "17.18 MB"
 		 },
 		 {
-		   "surah_name": "041-Fushshilat.mp3",
-		   "surah_size": "12.15 MB"
+		   "name": "041-Fushshilat.mp3",
+		   "size": "12.15 MB"
 		 },
 		 {
-		   "surah_name": "042-Asy-Syuura.mp3",
-		   "surah_size": "12.58 MB"
+		   "name": "042-Asy-Syuura.mp3",
+		   "size": "12.58 MB"
 		 },
 		 {
-		   "surah_name": "043-Az-Zukhruf.mp3",
-		   "surah_size": "12.17 MB"
+		   "name": "043-Az-Zukhruf.mp3",
+		   "size": "12.17 MB"
 		 },
 		 {
-		   "surah_name": "044-Ad-Dukhaan.mp3",
-		   "surah_size": "5.1 MB"
+		   "name": "044-Ad-Dukhaan.mp3",
+		   "size": "5.1 MB"
 		 },
 		 {
-		   "surah_name": "045-Al-Jaatsiyah.mp3",
-		   "surah_size": "6.32 MB"
+		   "name": "045-Al-Jaatsiyah.mp3",
+		   "size": "6.32 MB"
 		 },
 		 {
-		   "surah_name": "046-Al-Ahqaaf.mp3",
-		   "surah_size": "8.78 MB"
+		   "name": "046-Al-Ahqaaf.mp3",
+		   "size": "8.78 MB"
 		 },
 		 {
-		   "surah_name": "047-Muhammad.mp3",
-		   "surah_size": "7.91 MB"
+		   "name": "047-Muhammad.mp3",
+		   "size": "7.91 MB"
 		 },
 		 {
-		   "surah_name": "048-Al-Fath.mp3",
-		   "surah_size": "7.85 MB"
+		   "name": "048-Al-Fath.mp3",
+		   "size": "7.85 MB"
 		 },
 		 {
-		   "surah_name": "049-Al-Hujuraat.mp3",
-		   "surah_size": "4.48 MB"
+		   "name": "049-Al-Hujuraat.mp3",
+		   "size": "4.48 MB"
 		 },
 		 {
-		   "surah_name": "050-Qaaf.mp3",
-		   "surah_size": "4.94 MB"
+		   "name": "050-Qaaf.mp3",
+		   "size": "4.94 MB"
 		 },
 		 {
-		   "surah_name": "051-Adz-Dzaariyaat.mp3",
-		   "surah_size": "4.76 MB"
+		   "name": "051-Adz-Dzaariyaat.mp3",
+		   "size": "4.76 MB"
 		 },
 		 {
-		   "surah_name": "052-Ath-Thuur.mp3",
-		   "surah_size": "4.67 MB"
+		   "name": "052-Ath-Thuur.mp3",
+		   "size": "4.67 MB"
 		 },
 		 {
-		   "surah_name": "053-An-Najm.mp3",
-		   "surah_size": "5.03 MB"
+		   "name": "053-An-Najm.mp3",
+		   "size": "5.03 MB"
 		 },
 		 {
-		   "surah_name": "054-Al-Qamar.mp3",
-		   "surah_size": "5.26 MB"
+		   "name": "054-Al-Qamar.mp3",
+		   "size": "5.26 MB"
 		 },
 		 {
-		   "surah_name": "055-Ar-Rahmaan.mp3",
-		   "surah_size": "6.02 MB"
+		   "name": "055-Ar-Rahmaan.mp3",
+		   "size": "6.02 MB"
 		 },
 		 {
-		   "surah_name": "056-Al-Waaqiah.mp3",
-		   "surah_size": "6 MB"
+		   "name": "056-Al-Waaqiah.mp3",
+		   "size": "6 MB"
 		 },
 		 {
-		   "surah_name": "057-Al-Hadiid.mp3",
-		   "surah_size": "7.93 MB"
+		   "name": "057-Al-Hadiid.mp3",
+		   "size": "7.93 MB"
 		 },
 		 {
-		   "surah_name": "058-Al-Mujaadilah.mp3",
-		   "surah_size": "7 MB"
+		   "name": "058-Al-Mujaadilah.mp3",
+		   "size": "7 MB"
 		 },
 		 {
-		   "surah_name": "059-Al-Hasyr.mp3",
-		   "surah_size": "6.9 MB"
+		   "name": "059-Al-Hasyr.mp3",
+		   "size": "6.9 MB"
 		 },
 		 {
-		   "surah_name": "060-Al-Mumtahanah.mp3",
-		   "surah_size": "5.55 MB"
+		   "name": "060-Al-Mumtahanah.mp3",
+		   "size": "5.55 MB"
 		 },
 		 {
-		   "surah_name": "061-Ash-Shaff.mp3",
-		   "surah_size": "3.67 MB"
+		   "name": "061-Ash-Shaff.mp3",
+		   "size": "3.67 MB"
 		 },
 		 {
-		   "surah_name": "062-Al-Jumuah.mp3",
-		   "surah_size": "2.09 MB"
+		   "name": "062-Al-Jumuah.mp3",
+		   "size": "2.09 MB"
 		 },
 		 {
-		   "surah_name": "063-Al-Munaafiquun.mp3",
-		   "surah_size": "2.35 MB"
+		   "name": "063-Al-Munaafiquun.mp3",
+		   "size": "2.35 MB"
 		 },
 		 {
-		   "surah_name": "064-At-Taghaabun.mp3",
-		   "surah_size": "3.01 MB"
+		   "name": "064-At-Taghaabun.mp3",
+		   "size": "3.01 MB"
 		 },
 		 {
-		   "surah_name": "065-Ath-Thalaaq.mp3",
-		   "surah_size": "3.97 MB"
+		   "name": "065-Ath-Thalaaq.mp3",
+		   "size": "3.97 MB"
 		 },
 		 {
-		   "surah_name": "066-At-Tahrim.mp3",
-		   "surah_size": "3.47 MB"
+		   "name": "066-At-Tahrim.mp3",
+		   "size": "3.47 MB"
 		 },
 		 {
-		   "surah_name": "067-Al-Mulk.mp3",
-		   "surah_size": "4.6 MB"
+		   "name": "067-Al-Mulk.mp3",
+		   "size": "4.6 MB"
 		 },
 		 {
-		   "surah_name": "068-Al-Qalam.mp3",
-		   "surah_size": "4.49 MB"
+		   "name": "068-Al-Qalam.mp3",
+		   "size": "4.49 MB"
 		 },
 		 {
-		   "surah_name": "069-Al-Haaqqah.mp3",
-		   "surah_size": "4.88 MB"
+		   "name": "069-Al-Haaqqah.mp3",
+		   "size": "4.88 MB"
 		 },
 		 {
-		   "surah_name": "070-Al-Maaarij.mp3",
-		   "surah_size": "3.78 MB"
+		   "name": "070-Al-Maaarij.mp3",
+		   "size": "3.78 MB"
 		 },
 		 {
-		   "surah_name": "071-Nuh.mp3",
-		   "surah_size": "3.59 MB"
+		   "name": "071-Nuh.mp3",
+		   "size": "3.59 MB"
 		 },
 		 {
-		   "surah_name": "072-Al-Jin.mp3",
-		   "surah_size": "3.88 MB"
+		   "name": "072-Al-Jin.mp3",
+		   "size": "3.88 MB"
 		 },
 		 {
-		   "surah_name": "073-Al-Muzzammil.mp3",
-		   "surah_size": "2.98 MB"
+		   "name": "073-Al-Muzzammil.mp3",
+		   "size": "2.98 MB"
 		 },
 		 {
-		   "surah_name": "074-Al-Muddatstsir.mp3",
-		   "surah_size": "3.63 MB"
+		   "name": "074-Al-Muddatstsir.mp3",
+		   "size": "3.63 MB"
 		 },
 		 {
-		   "surah_name": "075-Al-Qiyaamah.mp3",
-		   "surah_size": "2.24 MB"
+		   "name": "075-Al-Qiyaamah.mp3",
+		   "size": "2.24 MB"
 		 },
 		 {
-		   "surah_name": "076-Al-Insaan.mp3",
-		   "surah_size": "3.89 MB"
+		   "name": "076-Al-Insaan.mp3",
+		   "size": "3.89 MB"
 		 },
 		 {
-		   "surah_name": "077-Al-Mursalaat.mp3",
-		   "surah_size": "3.08 MB"
+		   "name": "077-Al-Mursalaat.mp3",
+		   "size": "3.08 MB"
 		 },
 		 {
-		   "surah_name": "078-An-Naba.mp3",
-		   "surah_size": "2.82 MB"
+		   "name": "078-An-Naba.mp3",
+		   "size": "2.82 MB"
 		 },
 		 {
-		   "surah_name": "079-An-Naaziaat.mp3",
-		   "surah_size": "2.69 MB"
+		   "name": "079-An-Naaziaat.mp3",
+		   "size": "2.69 MB"
 		 },
 		 {
-		   "surah_name": "080-Abasa.mp3",
-		   "surah_size": "2.28 MB"
+		   "name": "080-Abasa.mp3",
+		   "size": "2.28 MB"
 		 },
 		 {
-		   "surah_name": "081-At-Takwiir.mp3",
-		   "surah_size": "1.44 MB"
+		   "name": "081-At-Takwiir.mp3",
+		   "size": "1.44 MB"
 		 },
 		 {
-		   "surah_name": "082-Al-Infithaar.mp3",
-		   "surah_size": "1.18 MB"
+		   "name": "082-Al-Infithaar.mp3",
+		   "size": "1.18 MB"
 		 },
 		 {
-		   "surah_name": "083-Al-Muthaffifin.mp3",
-		   "surah_size": "2.34 MB"
+		   "name": "083-Al-Muthaffifin.mp3",
+		   "size": "2.34 MB"
 		 },
 		 {
-		   "surah_name": "084-Al-Insyiqaaq.mp3",
-		   "surah_size": "1.5 MB"
+		   "name": "084-Al-Insyiqaaq.mp3",
+		   "size": "1.5 MB"
 		 },
 		 {
-		   "surah_name": "085-Al-Buruuj.mp3",
-		   "surah_size": "1.56 MB"
+		   "name": "085-Al-Buruuj.mp3",
+		   "size": "1.56 MB"
 		 },
 		 {
-		   "surah_name": "086-Ath-Thaariq.mp3",
-		   "surah_size": "999.59 KB"
+		   "name": "086-Ath-Thaariq.mp3",
+		   "size": "999.59 KB"
 		 },
 		 {
-		   "surah_name": "087-Al-Alaa.mp3",
-		   "surah_size": "1.32 MB"
+		   "name": "087-Al-Alaa.mp3",
+		   "size": "1.32 MB"
 		 },
 		 {
-		   "surah_name": "088-Al-Ghaasyiyah.mp3",
-		   "surah_size": "1.67 MB"
+		   "name": "088-Al-Ghaasyiyah.mp3",
+		   "size": "1.67 MB"
 		 },
 		 {
-		   "surah_name": "089-Al-Fajr.mp3",
-		   "surah_size": "2.17 MB"
+		   "name": "089-Al-Fajr.mp3",
+		   "size": "2.17 MB"
 		 },
 		 {
-		   "surah_name": "090-Al-Balad.mp3",
-		   "surah_size": "1.28 MB"
+		   "name": "090-Al-Balad.mp3",
+		   "size": "1.28 MB"
 		 },
 		 {
-		   "surah_name": "091-Asy-Syams.mp3",
-		   "surah_size": "984.69 KB"
+		   "name": "091-Asy-Syams.mp3",
+		   "size": "984.69 KB"
 		 },
 		 {
-		   "surah_name": "092-Al-Lail.mp3",
-		   "surah_size": "1.18 MB"
+		   "name": "092-Al-Lail.mp3",
+		   "size": "1.18 MB"
 		 },
 		 {
-		   "surah_name": "093-Adh-Dhuhaa.mp3",
-		   "surah_size": "750.87 KB"
+		   "name": "093-Adh-Dhuhaa.mp3",
+		   "size": "750.87 KB"
 		 },
 		 {
-		   "surah_name": "094-Alam-Nasyrah.mp3",
-		   "surah_size": "398.66 KB"
+		   "name": "094-Alam-Nasyrah.mp3",
+		   "size": "398.66 KB"
 		 },
 		 {
-		   "surah_name": "095-At-Tiin.mp3",
-		   "surah_size": "583.34 KB"
+		   "name": "095-At-Tiin.mp3",
+		   "size": "583.34 KB"
 		 },
 		 {
-		   "surah_name": "096-Al-Alaq.mp3",
-		   "surah_size": "1.07 MB"
+		   "name": "096-Al-Alaq.mp3",
+		   "size": "1.07 MB"
 		 },
 		 {
-		   "surah_name": "097-Al-Qadr.mp3",
-		   "surah_size": "491.37 KB"
+		   "name": "097-Al-Qadr.mp3",
+		   "size": "491.37 KB"
 		 },
 		 {
-		   "surah_name": "098-Al-Bayyinah.mp3",
-		   "surah_size": "1.59 MB"
+		   "name": "098-Al-Bayyinah.mp3",
+		   "size": "1.59 MB"
 		 },
 		 {
-		   "surah_name": "099-Al-Zalzalah.mp3",
-		   "surah_size": "640.26 KB"
+		   "name": "099-Al-Zalzalah.mp3",
+		   "size": "640.26 KB"
 		 },
 		 {
-		   "surah_name": "100-Al-Aadiyaat.mp3",
-		   "surah_size": "726.6 KB"
+		   "name": "100-Al-Aadiyaat.mp3",
+		   "size": "726.6 KB"
 		 },
 		 {
-		   "surah_name": "101-Al-Qaariah.mp3",
-		   "surah_size": "648.6 KB"
+		   "name": "101-Al-Qaariah.mp3",
+		   "size": "648.6 KB"
 		 },
 		 {
-		   "surah_name": "102-At-Takatsur.mp3",
-		   "surah_size": "596.76 KB"
+		   "name": "102-At-Takatsur.mp3",
+		   "size": "596.76 KB"
 		 },
 		 {
-		   "surah_name": "103-Al-Ashr.mp3",
-		   "surah_size": "302.75 KB"
+		   "name": "103-Al-Ashr.mp3",
+		   "size": "302.75 KB"
 		 },
 		 {
-		   "surah_name": "104-Al-Humazah.mp3",
-		   "surah_size": "567.79 KB"
+		   "name": "104-Al-Humazah.mp3",
+		   "size": "567.79 KB"
 		 },
 		 {
-		   "surah_name": "105-Al-Fil.mp3",
-		   "surah_size": "438.31 KB"
+		   "name": "105-Al-Fil.mp3",
+		   "size": "438.31 KB"
 		 },
 		 {
-		   "surah_name": "106-Al-Quraisy.mp3",
-		   "surah_size": "368.09 KB"
+		   "name": "106-Al-Quraisy.mp3",
+		   "size": "368.09 KB"
 		 },
 		 {
-		   "surah_name": "107-Al-Mauun.mp3",
-		   "surah_size": "456.5 KB"
+		   "name": "107-Al-Mauun.mp3",
+		   "size": "456.5 KB"
 		 },
 		 {
-		   "surah_name": "108-Al-Kautsar.mp3",
-		   "surah_size": "210.41 KB"
+		   "name": "108-Al-Kautsar.mp3",
+		   "size": "210.41 KB"
 		 },
 		 {
-		   "surah_name": "109-Al-Kaafirun.mp3",
-		   "surah_size": "380 KB"
+		   "name": "109-Al-Kaafirun.mp3",
+		   "size": "380 KB"
 		 },
 		 {
-		   "surah_name": "110-An-Nasr.mp3",
-		   "surah_size": "342.41 KB"
+		   "name": "110-An-Nasr.mp3",
+		   "size": "342.41 KB"
 		 },
 		 {
-		   "surah_name": "111-Al-Lahab.mp3",
-		   "surah_size": "380.47 KB"
+		   "name": "111-Al-Lahab.mp3",
+		   "size": "380.47 KB"
 		 },
 		 {
-		   "surah_name": "112-Al-Ikhlas.mp3",
-		   "surah_size": "218.94 KB"
+		   "name": "112-Al-Ikhlas.mp3",
+		   "size": "218.94 KB"
 		 },
 		 {
-		   "surah_name": "113-Al-Falaq.mp3",
-		   "surah_size": "368.94 KB"
+		   "name": "113-Al-Falaq.mp3",
+		   "size": "368.94 KB"
 		 },
 		 {
-		   "surah_name": "114-An-Naas.mp3",
-		   "surah_size": "441.87 KB"
+		   "name": "114-An-Naas.mp3",
+		   "size": "441.87 KB"
 		 }
 	]
 }
