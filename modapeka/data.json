@@ -1,6 +1,24 @@
 {
 	"data": [
 		{
+			"judul": "NSWhatsAppv5.61 (com.gbwhatsapp)",
+			"changelog": "Base Updated to 2.17.146",
+			"modder": "atnfas_hoak",
+			"unduh": "http://www.mediafire.com/file/71w4kfb8a7knjk7/NSWHATSAPP+3D+FIX+5.61+com.gbwhatsapp.apk",
+			"mirror": "http://www.mediafire.com/file/71w4kfb8a7knjk7/NSWHATSAPP+3D+FIX+5.61+com.gbwhatsapp.apk",
+			"blogpost": "http://www.gbmods.co/?p=19",
+			"img": ""
+		},
+		{
+			"judul": "NSWhatsAppv5.61 (com.whatsapp)",
+			"changelog": "Base Updated to 2.17.146",
+			"modder": "atnfas_hoak",
+			"unduh": "http://www.mediafire.com/file/6h4o49w51xxlsu9/NSWHATSAPP+3D+FIX+5.61+com.whatsapp.apk",
+			"mirror": "http://www.mediafire.com/file/6h4o49w51xxlsu9/NSWHATSAPP+3D+FIX+5.61+com.whatsapp.apk",
+			"blogpost": "http://www.gbmods.co/?p=19",
+			"img": ""
+		},
+		{
 			"judul": "GB WhatsApp Puma Edition v5.60",
 			"changelog": "Base Updated to 2.17.146",
 			"modder": "atnfas_hoak",
