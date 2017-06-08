@@ -1,5 +1,14 @@
 {
-	"data": [
+	"data": [		
+		{
+			"judul": "MULTI FACEBOOK LITE v45.0.0.7.70-Beta",
+			"changelog": "45.0.0.7.70-beta",
+			"modder": "Begal Developer",
+			"unduh": "https://www.mediafire.com/folder/cvgf7cd2tjd5j/Multi-FBLite-by.BegalDev",
+			"mirror": "https://www.mediafire.com/folder/cvgf7cd2tjd5j/Multi-FBLite-by.BegalDev",
+			"blogpost": "http://www.gbmods.co/?p=19",
+			"img": "https://1.bp.blogspot.com/-_p0OtKJLTk0/WTj8nXUsQTI/AAAAAAAAABk/q3Bq4vx3pJYilwH9_p6TxXU_GKcKTXDmACLcB/s640/FLITE.png"
+		},
 		{
 			"judul": "NSWhatsAppv5.61 (com.gbwhatsapp)",
 			"changelog": "Base Updated to 2.17.146",
