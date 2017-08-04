@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "null",
+			"judul": "BBM LINE",
+			"changelog": "Update Base v3.3.6.51",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "Beta v3.3.6.51",
+			"modder": "Rizky Maulana",
+			"clone": "https://drive.google.com/uc?export=download&id=0B3DRuMIWkT51cFhadERxWXNKVlE",
+			"unclone": "https://drive.google.com/uc?export=download&id=0B3DRuMIWkT51cFhadERxWXNKVlE",
+			"img": "https://3.bp.blogspot.com/-FMH7YDZwUyM/WYQP4CFIWHI/AAAAAAAAAJE/OH_FUcTAQns90fV7a8mUFFp3p7htKk6VACLcBGAs/s640/LINE.jpg"
+		},
+		{
 			"avatar": "http://bit.ly/ANDRYPP",
 			"judul": "BBM TEGRAM",
 			"changelog": "Update Base Beta v300.3.7.101",
