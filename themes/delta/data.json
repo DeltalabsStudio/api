@@ -2,6 +2,17 @@
 	"data": [
 		{
 			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.4.0",
+			"changelog": "Update base v3.3.7.97, Background Theme (BBM Doodle, WhatsApp, Telegram, Dark Navy), Profile View, BOM Text aka PING",
+			"fitur": "All Premium Features Available",
+			"base": "v3.3.7.97",
+			"modder": "DELTALABS",			
+			"clone": "https://bitbucket.org/deltalabs/deltabbm/raw/066480cbc00964bac6ab664ae649dd9e286cfdc0/CLONE_DELTA_v4.4.0.apk",
+			"unclone": "https://bitbucket.org/deltalabs/deltabbm/raw/066480cbc00964bac6ab664ae649dd9e286cfdc0/UNCLONE_DELTA_v4.4.0.apk",
+			"img": "https://2.bp.blogspot.com/-bQghNf7bZMA/WZ8bfq8e3mI/AAAAAAAAAMk/4hvQI46Vtyo6WghQUV7RUUOo59TSQ172ACLcBGAs/s640/DELTABBM%2Bv4.4.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELTA v4.3.1",
 			"changelog": "On Off Grid or List Contact Layout\nCustom Color Badge View\nFix Sponsor Invite",
 			"fitur": "All Premium Features Available",
