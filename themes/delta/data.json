@@ -2,6 +2,17 @@
 	"data": [
 		{
 			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELTA v4.4.1",
+			"changelog": "Fix Emoticon Input on Profile, Fix Status Bar Color on Android M, Facebook Navigation Icon",
+			"fitur": "All Premium Features Available",
+			"base": "v3.3.7.97",
+			"modder": "DELTALABS",			
+			"clone": "https://bitbucket.org/deltalabs/deltabbm/raw/3d1ce465cc95ce27b4d03c64906995866c2d4410/CLONE_DELTA_v4.4.1.apk",
+			"unclone": "https://bitbucket.org/deltalabs/deltabbm/raw/3d1ce465cc95ce27b4d03c64906995866c2d4410/UNCLONE_DELTA_v4.4.1.apk",
+			"img": "https://4.bp.blogspot.com/-n78HKc2cN40/WaaoAbECnTI/AAAAAAAAANY/Dgt6Xl_altAiwAyDsh86Z_amBXa9r4HOgCLcBGAs/s1600/DELTA%2BBBM%2Bv4.4.1.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELTA v4.4.0",
 			"changelog": "Update base v3.3.7.97, Background Theme (BBM Doodle, WhatsApp, Telegram, Dark Navy), Profile View, BOM Text aka PING",
 			"fitur": "All Premium Features Available",
