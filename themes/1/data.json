@@ -3,6 +3,17 @@
 	"total": "next",
 	"post": [
 		{
+			"avatar": "http://bit.ly/ANDRYPP",
+			"judul": "BBM TEGRAM",
+			"changelog": "Update Base Beta v3.3.7.97",
+			"fitur": "Full Display Picture (DP No Crop)\nFlexible Rounded DP\nAutotext aka Bom PING\nTab Layout Position\nBlock Read Status\nHide Fab New Chat\nNo Ads",
+			"base": "Beta v3.3.7.97",
+			"modder": "Andry Gibh Q",
+			"clone": "http://www.mediafire.com/file/69iqwk6qo2a9iey/BBM_Tegram_v3.3.7.97.apk",
+			"unclone": "http://www.mediafire.com/file/69iqwk6qo2a9iey/BBM_Tegram_v3.3.7.97.apk",
+			"img": "https://4.bp.blogspot.com/-xdBb60mK1yI/WYQOO2zcGqI/AAAAAAAAAI8/x2gqMfNBvR0vCtgFumvqFASDC6bBHz75ACLcBGAs/s640/combine_images.jpg"
+		},
+		{
 			"avatar": "null",
 			"judul": "BBM LINE",
 			"changelog": "Update Base v3.3.6.51",
