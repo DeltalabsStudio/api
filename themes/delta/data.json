@@ -2,6 +2,17 @@
 	"data": [
 		{
 			"avatar": "https://goo.gl/46bZWw",
+			"judul": "DELIGHT v3.0.0",
+			"changelog": "Base Beta v300.3.8.77, Add Custom Navigation Tab Icon Style, Block Writing Status",
+			"fitur": "Color Scheme\nColoring System Bar (>Lolipop) with Light Status Bar (MIUI 8, Flime OS, Android M)\nCustom Navigation Tab Icon\nDP No Crop\nProfile with Custom Cover Image\nSave Timed Picture\nBlock Read Status\nBlock Write Status\nUnread Status View\nContact View (Grid and List)\nBig Drawer Display\nColoring, Position and Visibility Tab Layout\nChange Notification, Connected, No Service, PING and Chat Title Text\nChange Notification and Splat Icon\nBOM Text/PING\nAnd More..",
+			"base": "Beta v300.3.8.77",
+			"modder": "DELTALABS",			
+			"clone": "https://bitbucket.org/deltalabs/delight/raw/3cb020a62fb822cf6d4e110669231e163e547c04/CLONE_DELIGHT_v3.0.0.apk",
+			"unclone": "https://bitbucket.org/deltalabs/delight/raw/3cb020a62fb822cf6d4e110669231e163e547c04/UNCLONE_DELIGHT_v3.0.0.apk",
+			"img": "https://2.bp.blogspot.com/-fds8lIBMYoM/WbYb9UxanpI/AAAAAAAAAN8/yjBEevKYVJgXwLDt82IKLmK9CqurJXq7gCLcBGAs/s1600/DELIGHT%2Bv3.0.0.png"
+		},
+		{
+			"avatar": "https://goo.gl/46bZWw",
 			"judul": "DELTA v4.4.1",
 			"changelog": "Fix Emoticon Input on Profile, Fix Status Bar Color on Android M, Facebook Navigation Icon",
 			"fitur": "All Premium Features Available",
