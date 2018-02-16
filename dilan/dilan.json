@@ -22,11 +22,46 @@
 			"puisi": "Dik, jangan pergi jauh-jauh\nKan ada darahku di tubuhmu"
 		},
 		{
-			"pos":"bottom",
+			"pos":"middle",
 			"judul": "Puisi untuk Milea",
 			"oleh": "Pak Dedi",
 			"halaman": "169-170",
 			"puisi": "Langit akan mendung tanpa mentari\nKarena takkan lagi kulihat senyumannya\nMalam akan sunyi tanpa rembulan\nKarena takkan lagi kudengar tawamu"
+		},
+		{
+			"pos":"middle",
+			"judul": "",
+			"oleh": "",
+			"halaman": "",
+			"puisi": ""
+		},
+		{
+			"pos":"middle",
+			"judul": "",
+			"oleh": "",
+			"halaman": "",
+			"puisi": ""
+		},
+		{
+			"pos":"middle",
+			"judul": "",
+			"oleh": "",
+			"halaman": "",
+			"puisi": ""
+		},
+		{
+			"pos":"middle",
+			"judul": "Jarak dan Waktu",
+			"oleh": "Dilan",
+			"halaman": "335",
+			"puisi": "Teoriku tentang gerak lurus\nGerak lurus menjadi berubah tidak beraturan\nApabila gerak lintasannya berubah menjadi garis tidak lurus\nItu seperti aku yang bergerak mencari kecepatan\nSekarang berapa jarak yang harus aku tempuh\nBerapa waktu yang aku butuhkan\nUntuk bisa bertemu denganmu?"
+		},
+		{
+			"pos":"bottom",
+			"judul": "Terima Kasih",
+			"oleh": "Dilan",
+			"halaman": "357",
+			"puisi": "Terima kasih Lia, Terima kasih dulu kau pernah mau"
 		}
 	]
 }
