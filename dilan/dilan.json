@@ -1,23 +1,31 @@
 {
 	"data": [
 		{
+			"pos":"top",
 			"judul": "Milea 1",
-			"halaman": "Dilan, halaman 302",
+			"oleh": "Dilan"
+			"halaman": "302",
 			"puisi": "Bolehkah aku punya pendapat?\nIni tentang dia yang ada di bumi\nKetika Tuhan menciptakan dirinya\nKukira Dia ada maksud mau pamer"
 		},
 		{
+			"pos":"middle",
 			"judul": "Milea 2",
-			"halaman": "Dilan, halaman 302",
+			"oleh": "Dilan"
+			"halaman": "302",
 			"puisi": "Katakan sekarang\nKalau kue kau anggap apa dirimu?\nRoti cokelat? Roti Keju?\nMartabak? Kroket? Bakwan?\nAyolah!\nAku ingin memesannya\nUntuk malam ini\nAku mau kamu"
 		},
 		{
+			"pos":"middle",
 			"judul": "Jangan Jauh",
-			"halaman": "Dilan, halaman 304",
+			"oleh": "Dilan"
+			"halaman": "304",
 			"puisi": "Dik, jangan pergi jauh-jauh\nKan ada darahku di tubuhmu"
 		},
 		{
+			"pos":"bottom",
 			"judul": "Puisi untuk Milea",
-			"halaman": "Pak Dedi, halaman 169-170",
+			"oleh": "Pak Dedi"
+			"halaman": "169-170",
 			"puisi": "Langit akan mendung tanpa mentari\nKarena takkan lagi kulihat senyumannya\nMalam akan sunyi tanpa rembulan\nKarena takkan lagi kudengar tawamu"
 		}
 	]
