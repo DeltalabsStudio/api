@@ -1,4 +1,4 @@
 {
-	"adcolony": false,
-	"admob": true
+	"adcolony": true,
+	"admob": false
 }
