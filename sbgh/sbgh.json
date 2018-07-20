@@ -53,33 +53,33 @@
 				},
 				{
 					"episode":"Episode 9",
-					"thumb":"",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/19990274_1344237582291643_5807691432431776979_n.jpg?_nc_cat=0&oh=b15b85f754827af94f057b63d9dc9f63&oe=5BCD8A7E",
 					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"id":"1344237555624979"
 				},
 				{
 					"episode":"Episode 10",
-					"thumb":"",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/20108517_1351003828281685_6794195539572086615_n.jpg?_nc_cat=0&oh=6f88fb4e292dbefd41a859c1b7e904da&oe=5BD7472E",
 					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"id":"1351003781615023"
 				},
 				{
 					"episode":"Episode 11",
-					"thumb":"",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/20258399_1357645357617532_388426874397137198_n.jpg?_nc_cat=0&oh=ff4c939a94e896dcf784881278975826&oe=5BE7280F",
 					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"id":"1357645314284203"
 				},
 				{
 					"episode":"Episode 12",
-					"thumb":"",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/20525860_1363508137031254_6846072231866301295_n.jpg?_nc_cat=0&oh=eac2e25e5cf804e05f2b826927055baa&oe=5BD89B40",
 					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"id":"1363508033697931"
 				},
 				{
 					"episode":"Episode 13",
-					"thumb":"",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/20708143_1369705609744840_117543244936784154_n.jpg?_nc_cat=0&oh=3a5b0f6613bba3b995a4bbd254818ce1&oe=5BD40923",
 					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"id":"1369705583078176"
 				}
 			]
 		},
@@ -91,7 +91,13 @@
 					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/21766475_1408321432549924_5119362709979762533_n.jpg?_nc_cat=0&oh=06dae8f7bffc901668247e15d61edf45&oe=5BDBD5E3",
 					"judul":"Sapu Jagat",
 					"id":"1408321399216594"
-				}			
+				},
+				{
+					"episode":"Episode 2",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				}
 			]
 		},
 		{
