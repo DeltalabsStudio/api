@@ -94,9 +94,87 @@
 				},
 				{
 					"episode":"Episode 2",
-					"thumb":"",
-					"judul":"Mata Malaikat",
-					"id":"1317344611647607"
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/22195406_1413674228681311_3099800335870902291_n.jpg?_nc_cat=0&oh=53d3da71aed2cbefed321a423de4390f&oe=5BDDBE57",
+					"judul":"Sapu Jagat",
+					"id":"1413674192014648"
+				},
+				{
+					"episode":"Episode 3",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/22308668_1419348908113843_8964124649269213449_n.jpg?_nc_cat=0&oh=6821acd3070ffb920ef1da7ceec2477c&oe=5BCD61F5",
+					"judul":"Sapu Jagat",
+					"id":"1419348884780512"
+				},
+				{
+					"episode":"Episode 4",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/22405455_1424943970887670_2050377289122403868_n.jpg?_nc_cat=0&oh=2b373fd0d18b8f2867112f20ba2f3c7b&oe=5BE4C47D",
+					"judul":"Sapu Jagat",
+					"id":"1424943894221011"
+				},
+				{
+					"episode":"Episode 5",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/22815170_1430806660301401_8135497768977680506_n.jpg?_nc_cat=0&oh=e40e8d79447982216a6c8cb76b111ac8&oe=5BD6C8E4",
+					"judul":"Sapu Jagat",
+					"id":"1430806606968073"
+				},
+				{
+					"episode":"Episode 6",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/23131631_1437034463011954_3371717511654551389_n.jpg?_nc_cat=0&oh=add6db91624d6230d13153ae1adfdfaf&oe=5BCAC191",
+					"judul":"Sapu Jagat",
+					"id":"1437034446345289"
+				},
+				{
+					"episode":"Episode 7",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/23231169_1442858859096181_2017696547822987162_n.jpg?_nc_cat=0&oh=4c42aa52733794f2f86b2b53c60896c3&oe=5BC5A635",
+					"judul":"Sapu Jagat",
+					"id":"1442858812429519"
+				},
+				{
+					"episode":"Episode 8",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/23472835_1449096431805757_96873218025724361_n.jpg?_nc_cat=0&oh=d8449c302c0fa382fa61a42545f52dab&oe=5BDB2EF8",
+					"judul":"Sapu Jagat",
+					"id":"1449096365139097"
+				},
+				{
+					"episode":"Episode 9",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/23795811_1456018171113583_4303011487958853673_n.jpg?_nc_cat=0&oh=96e24b641eade1cedd73e4d70e387246&oe=5BD1235B",
+					"judul":"Sapu Jagat",
+					"id":"1456016817780385"
+				},
+				{
+					"episode":"Episode 10",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/24176884_1462731340442266_8072075591935560735_n.jpg?_nc_cat=0&oh=caa1db66e97c9f0214dab5d919ce6ccd&oe=5BDB0102",
+					"judul":"Sapu Jagat",
+					"id":"1462731177108949"
+				},
+				{
+					"episode":"Episode 11",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/24900215_1469541583094575_4227495911432770482_n.jpg?_nc_cat=0&oh=1c0947bae388c2e7fbd1c4dc4a9ac470&oe=5BE1D239",
+					"judul":"Sapu Jagat",
+					"id":"1469541523094581"
+				},
+				{
+					"episode":"Episode 12",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/24993567_1476023982446335_3584347708011900350_n.jpg?_nc_cat=0&oh=8c1c8539b65f8646b3b72b256dd86d2f&oe=5C136053",
+					"judul":"Sapu Jagat",
+					"id":"1476023935779673"
+				},
+				{
+					"episode":"Episode 13",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/26001042_1488227161226017_3822673555096043425_n.jpg?_nc_cat=0&oh=1d91f74fc104a1c580f95ecf72a055bd&oe=5BD765E2",
+					"judul":"Sapu Jagat",
+					"id":"1488227131226020"
+				},
+				{
+					"episode":"Episode 14",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/26167722_1494671747248225_7132193326426741338_n.jpg?_nc_cat=0&oh=ba5cb80523ca9983db93cd52459b099a&oe=5BE6599B",
+					"judul":"Sapu Jagat",
+					"id":"1494671697248230"
+				},
+				{
+					"episode":"Epilog",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/26230096_1501711543210912_1676932838580955647_n.jpg?_nc_cat=0&oh=1876f0352bc03743a8d8e7df623bba0c&oe=5C110DCB",
+					"judul":"Sapu Jagat",
+					"id":"1501711526544247"
 				}
 			]
 		},
@@ -105,9 +183,9 @@
 			"episode": [
 				{
 					"episode":"Episode 1",
-					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/21766475_1408321432549924_5119362709979762533_n.jpg?_nc_cat=0&oh=06dae8f7bffc901668247e15d61edf45&oe=5BDBD5E3",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/32550248_1621915197857212_7103213589267218432_n.jpg?_nc_cat=0&oh=2e1af2418b4bf439dff9085214a8a0af&oe=5BE8B337",
 					"judul":"Raja Mandala",
-					"id":"1408321399216594"
+					"id":"1621913021190763"
 				}			
 			]
 		}
