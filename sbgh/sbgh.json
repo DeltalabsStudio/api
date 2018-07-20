@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"season":"Season I",
+			"episode": [
+				{
+					"episode":"Episode 1",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/18447229_1288413571207378_6151643259694218668_n.jpg?_nc_cat=0&oh=f8958a08fd82e9167e69742b79043726&oe=5BE45E40",
+					"judul":"Mata Malaikat",
+					"id":"1288413507874051"
+				},
+				{
+					"episode":"Episode 2",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/18620472_1294702480578487_8077185671835951602_n.jpg?_nc_cat=0&oh=056aead1e0b545db9129d2addbe4caaa&oe=5BDD897E",
+					"judul":"Mata Malaikat",
+					"id":"1294702447245157"
+				}				
+			]
+		},
+		{
+			"season":"Season II",
+			"episode": [
+				{
+					"episode":"Episode 1",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/21766475_1408321432549924_5119362709979762533_n.jpg?_nc_cat=0&oh=06dae8f7bffc901668247e15d61edf45&oe=5BDBD5E3",
+					"judul":"Sapu Jagat",
+					"id":"1408321399216594"
+				}			
+			]
+		}
+	]
+}
