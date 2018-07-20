@@ -1,7 +1,7 @@
 {
 	"data": [
 		{
-			"season":"Season I",
+			"season":"Season I - Mata Malaikat",
 			"episode": [
 				{
 					"episode":"Episode 1",
@@ -32,16 +32,75 @@
 					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/19149144_1317345458314189_8392981844844619510_n.jpg?_nc_cat=0&oh=fc065429ef46293635b9c225589598fa&oe=5BD5F281",
 					"judul":"Mata Malaikat",
 					"id":"1317344611647607"
-				}				
+				},
+				{
+					"episode":"Episode 6",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/19275119_1323906210991447_1138011899659687683_n.jpg?_nc_cat=0&oh=8888089dca5704db21cee8348620c085&oe=5BE20AF4",
+					"judul":"Mata Malaikat",
+					"id":"1323905764324825"
+				},
+				{
+					"episode":"Episode 7",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/19437604_1330441833671218_5658083000703075112_n.jpg?_nc_cat=0&oh=6ebd74cfd5da6e37f14ef784267b595f&oe=5BCE5750",
+					"judul":"Mata Malaikat",
+					"id":"1330441813671220"
+				},
+				{
+					"episode":"Episode 8",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/15966308_1337744432940958_9115756569614381538_n.jpg?_nc_cat=0&oh=ea3611eecc70a8899e33cb1da3b12e31&oe=5C1156D9",
+					"judul":"Mata Malaikat",
+					"id":"1337744262940975"
+				},
+				{
+					"episode":"Episode 9",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				},
+				{
+					"episode":"Episode 10",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				},
+				{
+					"episode":"Episode 11",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				},
+				{
+					"episode":"Episode 12",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				},
+				{
+					"episode":"Episode 13",
+					"thumb":"",
+					"judul":"Mata Malaikat",
+					"id":"1317344611647607"
+				}
 			]
 		},
 		{
-			"season":"Season II",
+			"season":"Season II - Sapu  Jagat",
 			"episode": [
 				{
 					"episode":"Episode 1",
 					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/21766475_1408321432549924_5119362709979762533_n.jpg?_nc_cat=0&oh=06dae8f7bffc901668247e15d61edf45&oe=5BDBD5E3",
 					"judul":"Sapu Jagat",
+					"id":"1408321399216594"
+				}			
+			]
+		},
+		{
+			"season":"Season III - Raja Mandala",
+			"episode": [
+				{
+					"episode":"Episode 1",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/21766475_1408321432549924_5119362709979762533_n.jpg?_nc_cat=0&oh=06dae8f7bffc901668247e15d61edf45&oe=5BDBD5E3",
+					"judul":"Raja Mandala",
 					"id":"1408321399216594"
 				}			
 			]
