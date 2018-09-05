@@ -210,7 +210,49 @@
 					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/35652117_1658026737579391_9007956577734361088_n.jpg?_nc_cat=0&oh=2e390b4b05d5b9b41dc9e33bda52a903&oe=5C2A24B4",
 					"judul":"Raja Mandala",
 					"id":"1658022670913131"
-				}		
+				},
+				{
+					"episode":"Episode 6",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/36564964_1678599762188755_8619504552774729728_n.jpg?_nc_cat=0&oh=d21c65a7c53ec8d38f2ebd639c7a4d93&oe=5BF000A3",
+					"judul":"Raja Mandala",
+					"id":"1678597485522316"
+				},
+				{
+					"episode":"Episode 7",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/37024794_1688788451169886_360278010160480256_n.jpg?_nc_cat=0&oh=7b848b7b62af3dca07deb16a87e71133&oe=5BED1A88",
+					"judul":"Raja Mandala",
+					"id":"1688786737836724"
+				},
+				{
+					"episode":"Episode 8",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/37296672_1698919020156829_1843268481609367552_n.jpg?_nc_cat=0&oh=092d98ecaef425b371855ab71368e18c&oe=5C22C6A0",
+					"judul":"Raja Mandala",
+					"id":"1698917190157012"
+				},
+				{
+					"episode":"Episode 9",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/37826226_1709787625736635_4179305067964268544_n.jpg?_nc_cat=0&oh=647ae89613cb4965207af03a4dbb9832&oe=5BF003C3",
+					"judul":"Raja Mandala",
+					"id":"1709784912403573"
+				},
+				{
+					"episode":"Episode 10",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/38147603_1720437158005015_3594111131024621568_n.jpg?_nc_cat=0&oh=0e177c77fbbe8b6b3faeb3d9dc3b0fc7&oe=5C2EEC61",
+					"judul":"Raja Mandala",
+					"id":"1720435124671885"
+				},
+				{
+					"episode":"Episode 11",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/39161516_1743554342359963_208494707733430272_n.jpg?_nc_cat=0&oh=33b4d68d3261f4857235196a66ef060d&oe=5C224C64",
+					"judul":"Raja Mandala",
+					"id":"1743552112360186"
+				},
+				{
+					"episode":"Episode 12",
+					"thumb":"https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/40265422_1765077590207638_677740590858764288_n.jpg?_nc_cat=0&oh=892bc37a2336334d5e7c352678c55a1f&oe=5C2B38B6",
+					"judul":"Raja Mandala",
+					"id":"1765075800207817"
+				}	
 			]
 		}
 	]
