@@ -37,11 +37,11 @@
 			"jawaban":"Data tempat lahir yang digunakan sampai pada Daerah Tingkat II (Kab/Kota) pada saat anda lahir dan bukan data wilayah pemekaran saat ini. Pastikan data tempat lahir yang anda ketikkan benar. Jika masih membutuhkan penambahan referensi maka anda dapat melakukan permintaan penambahan data tempat lahir dengan mengklik link tombol HelpDesk https://sscnhelpdesk.bkn.go.id"
 		},
 		{	
-			"pertanyaan":"Tidak ada tombol "REGISTRASI" (DAFTAR) pada formulir pendaftaran, apa yang harus saya lakukan?",
+			"pertanyaan":"Tidak ada tombol REGISTRASI (DAFTAR) pada formulir pendaftaran, apa yang harus saya lakukan?",
 			"jawaban":"Pendaftaran hanya dapat dilakukan sesuai jadwal pendaftaran. Tidak ada tombol daftar berarti jadwal pendaftaan belum dibuka atau sudah ditutup."
 		},
 		{	
-			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi "User Tidak Ditemukan", bagaimana solusinya?",
+			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi User Tidak Ditemukan, bagaimana solusinya?",
 			"jawaban":"Cek kembali Kartu Informasi Akun SSCN Anda, pastikan username yang Anda ketikkan sesuai dengan username pada Kartu tersebut. jika masih mengalami kendala, Anda dapat menghubungi  https://sscnhelpdesk.bkn.go.id. Kami akan melakukan pengecekan pada database SSCN 2018, beberapa dokumen (FC KTP, KK) akan dibutuhkan sebagai bukti pencarian data."
 		},
 		{	
@@ -82,7 +82,7 @@
 		},
 		{	
 			"pertanyaan":"Bagaimana cara mengubah pilihan instansi pendaftaran?",
-			"jawaban":"Jika Anda belum menekan tombol "simpan" pada pendaftaran maka Anda masih dapat merubah pilihan instansi yang dilamar, namun jika Anda telah selesai melakukan pendaftaran maka Anda TIDAK DAPAT MELAKUKAN PERUBAHAN pilihan instansi yg dilamar."
+			"jawaban":"Jika Anda belum menekan tombol simpan pada pendaftaran maka Anda masih dapat merubah pilihan instansi yang dilamar, namun jika Anda telah selesai melakukan pendaftaran maka Anda TIDAK DAPAT MELAKUKAN PERUBAHAN pilihan instansi yg dilamar."
 		},
 		{	
 			"pertanyaan":"Bagaimana jika hasil cetak Kartu Pendaftaran SSCN 2018 tidak sesuai dengan isian?",
@@ -141,7 +141,7 @@
 			"jawaban":"Pastikan Koneksi internet yang digunakan dalam kondisi stabil. Refresh ulang browser yang digunakan. Ulangi proses pendaftaran."
 		},
 		{	
-			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi "Password Salah", bagaimana solusinya?",
+			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi Password Salah, bagaimana solusinya?",
 			"jawaban":"Cek kembali Kartu Informasi Akun SSCN Anda untuk memastikan User dan Password sudah terdaftar ke SSCN. "
 		},
 		{	
