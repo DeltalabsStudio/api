@@ -1,0 +1,152 @@
+{"data":
+	[
+		{	
+			"pertanyaan":"Apakah SSCN itu?",
+			"jawaban":"SSCN atau Sistem Seleksi CPNS Nasional adalah situs resmi pendaftaran CPNS secara nasional sebagai pintu pendaftaran pertama seleksi CPNS ke seluruh Instansi baik Pusat maupun Daerah dan dikelola oleh Badan Kepegawaian Negara RI sebagai Panitia Seleksi CPNS Nasional. SSCN dapat diakses dengan alamat https://sscn.bkn.go.id"
+		},
+		{	
+			"pertanyaan":"Bagaimana jika data Kependudukan dan Catatan Sipil saya tidak sesuai dengan ijazah?",
+			"jawaban":"Hubungi Kantor DUKCAPIL setempat sesuai alamat KTP, atau DUKCAPIL PUSAT untuk melakukan perbaikan data sesuai dengan dokumen resmi (ijazah) yang Anda miliki.\nKontak DITJEN DUKCAPIL dapat dilihat pada tautan berikut http://dukcapil.kemendagri.go.id/contact \nLayanan Helpdesk Ditjen Dukcapil (Call Center : 02130493838)"
+		},
+		{	
+			"pertanyaan":"Bagaimana pengisian data nama yang benar?",
+			"jawaban":"Nama yang diisikan adalah Nama TANPA GELAR"
+		},
+		{	
+			"pertanyaan":"Apakah saya dapat melamar lebih dari 1 (satu) jabatan?",
+			"jawaban":"Untuk formasi CPNS tahun 2018, setiap pelamar CPNS HANYA dapat mendaftar 1 (satu) formasi jabatan pada 1 (satu) instansi dalam 1 (satu) kali periode pendaftaran."
+		},
+		{	
+			"pertanyaan":"Apakah yang dimaksud periode pendaftaran?",
+			"jawaban":"Periode pendaftaran adalah satu kurun waktu tertentu dimana ada beberapa instansi yang membuka pendaftaran pada saat yang bersamaan."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika saya mengalami kendala pendaftaran pada Instansi yang menggunakan portal mandiri?",
+			"jawaban":"Silahkan mengubungi Call Center atau Customer Care Instansi."
+		},
+		{	
+			"pertanyaan":"Apakah yang dimaksud dengan portal mandiri?",
+			"jawaban":"Portal mandiri adalah website pendaftaran CPNS online yang dimiliki oleh instansi yang membuka pendaftaran CPNS."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika kode Captcha tidak terbaca atau tidak tampil?",
+			"jawaban":"Lakukan clear history(bersikan riwayat dan cookies) kemudian refresh browser Anda dengan tekan (ctrl + f5)."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika data tempat lahir saya tidak ada di referensi?",
+			"jawaban":"Data tempat lahir yang digunakan sampai pada Daerah Tingkat II (Kab/Kota) pada saat anda lahir dan bukan data wilayah pemekaran saat ini. Pastikan data tempat lahir yang anda ketikkan benar. Jika masih membutuhkan penambahan referensi maka anda dapat melakukan permintaan penambahan data tempat lahir dengan mengklik link tombol HelpDesk https://sscnhelpdesk.bkn.go.id"
+		},
+		{	
+			"pertanyaan":"Tidak ada tombol "REGISTRASI" (DAFTAR) pada formulir pendaftaran, apa yang harus saya lakukan?",
+			"jawaban":"Pendaftaran hanya dapat dilakukan sesuai jadwal pendaftaran. Tidak ada tombol daftar berarti jadwal pendaftaan belum dibuka atau sudah ditutup."
+		},
+		{	
+			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi "User Tidak Ditemukan", bagaimana solusinya?",
+			"jawaban":"Cek kembali Kartu Informasi Akun SSCN Anda, pastikan username yang Anda ketikkan sesuai dengan username pada Kartu tersebut. jika masih mengalami kendala, Anda dapat menghubungi  https://sscnhelpdesk.bkn.go.id. Kami akan melakukan pengecekan pada database SSCN 2018, beberapa dokumen (FC KTP, KK) akan dibutuhkan sebagai bukti pencarian data."
+		},
+		{	
+			"pertanyaan":"Sudah melakukan pendaftaran akun SSCN 2018, apakah bisa langsung login untuk melanjutkan pengisian biodata pendaftaran?",
+			"jawaban":"Setelah anda melakukan pendaftaran akun SSCN 2018, maka anda dapat langsung melakukan pengisian biodata pendaftaran dengan login menggunakan NIK dan password yang sudah dibuat."
+		},
+		{	
+			"pertanyaan":"Dapatkah saya mengganti/membatalkan instansi yang telah saya pilih?",
+			"jawaban":"Anda tidak dapat mengganti instansi yang telah anda pilih apabila anda sudah menekan tombol kirim."
+		},
+		{	
+			"pertanyaan":"Setelah memilih instansi, apakah saya dapat langsung melanjutkan proses pendaftaran pada portal mandiri?",
+			"jawaban":"Proses pendaftaran pada portal mandiri dapat di lanjutkan kurang lebih dalam waktu 1X24 Jam setelah pemilihan instansi pada website sscn.bkn.go.id"
+		},
+		{	
+			"pertanyaan":"Berapa Batas Usia Pelamar CPNS Tahun 2018?",
+			"jawaban":"Menurut PP 11 Tahun 2017 bahwa syarat usia penerimaan CPNS minimal 18 tahun dan maksimal 35 tahun pada saat melamar."
+		},
+		{	
+			"pertanyaan":"Bolehkah menggunakan surat keterangan lulus untuk pendaftaran?",
+			"jawaban":"Kebijakan mengenai persyaratan administrasi diserahkan kepada masing-masing instansi."
+		},
+		{	
+			"pertanyaan":"Bolehkah memilih formasi yang lebih rendah dari ijazah yang saya miliki? Misal: Saya memiliki ijazah S1 untuk melamar formasi D3",
+			"jawaban":"Gunakan Ijazah untuk melamar sesuai dengan formasi dan kualifikasi pendidikan yang dipersyaratkan."
+		},
+		{	
+			"pertanyaan":"Apakah Akreditasi Jurusan yang digunakan saat mendaftar adalah status akreditasi pada saat pelamar lulus atau akreditasi saat ini?",
+			"jawaban":"Akreditasi yang diakui adalah status akreditasi yang tertera saat peserta lulus studi."
+		},
+		{	
+			"pertanyaan":"Apakah ada persyaratan khusus lainnya?",
+			"jawaban":"Masing-masing instansi mempunyai persyaratan khusus. Untuk itu, harap calon peserta seleksi membaca secara cermat dan teliti sebelum memutuskan mendaftar / memilih salah satu formasi."
+		},
+		{	
+			"pertanyaan":"Apakah boleh memperbaiki data yang sudah dikirim?",
+			"jawaban":"Anda TIDAK DAPAT memperbaiki data yang sudah di kirim, sehingga Anda harus BERHATI-HATI dalam mengisi data. Apabila ternyata masih ada data yang perlu diperbaiki setelah dikirim maka data tersebut hanya dapat diperbaiki pada saat setelah lulus ujian dan akan diproses pada pemberkasan penetapan NIP"
+		},
+		{	
+			"pertanyaan":"Bagaimana cara mengubah pilihan instansi pendaftaran?",
+			"jawaban":"Jika Anda belum menekan tombol "simpan" pada pendaftaran maka Anda masih dapat merubah pilihan instansi yang dilamar, namun jika Anda telah selesai melakukan pendaftaran maka Anda TIDAK DAPAT MELAKUKAN PERUBAHAN pilihan instansi yg dilamar."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika hasil cetak Kartu Pendaftaran SSCN 2018 tidak sesuai dengan isian?",
+			"jawaban":"Lakukan clear history/bersihkan riwayat pelacakan, cache, cookies kemudian refresh browser Anda dengan tekan (ctrl + f5)."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika kartu pendaftaran atau kartu ujian saya hilang?",
+			"jawaban":"Anda dapat mencetak ulang Kartu Informasi Akun, Kartu Pendaftaran SSCN, Kartu Peserta Ujian melalui login ke portal SSCN."
+		},
+		{	
+			"pertanyaan":"Bagaimana cara mencetak ulang Kartu Informasi Akun SSCN 2018?",
+			"jawaban":"Silahkan lakukan Log In ke portal SSCN dengan menggunakan NIK dan password yang telah Anda daftarkan pilih menu Riwayat"
+		},
+		{	
+			"pertanyaan":"Bagaimana cara mencetak ulang Kartu Pendaftaran SSCN 2018?",
+			"jawaban":"Silahkan lakukan Log In ke portal SSCN dengan menggunakan NIK dan password yang telah Anda daftarkan pilih menu Riwayat"
+		},
+		{	
+			"pertanyaan":"Bagaimana cara mencetak ulang Kartu Peserta Ujian CPNS 2018?",
+			"jawaban":"Silahkan lakukan Log In ke portal SSCN dengan menggunakan NIK dan password yang telah Anda daftarkan pilih menu Riwayat"
+		},
+		{	
+			"pertanyaan":"Tidak bisa upload (unggah) dokumen?",
+			"jawaban":"Pastikan ukuran file yang akan di upload tidak melebihi 300 Kb per file, format file dalam bentuk PDF, apabila melebihi ukuran tersebut maka dengan otomatis file atau berkas yang akan anda upload atau kirim akan gagal atau ditolak"
+		},
+		{	
+			"pertanyaan":"Bagaimana cara upload (unggah) dokumen persyaratan?",
+			"jawaban":"Pastikan ukuran file yang akan di upload tidak melebihi 300 Kb, format file dalam bentuk PDF, selanjutnya buka link https://www.dropbox.com/s/h8oxx7uhjf56ak6/BUKU%20PETUNJUK%20PENDAFTARAN%20SSCN%20versi_01.pdf?dl=0"
+		},
+		{	
+			"pertanyaan":"Berapa ukuran file yang diupload?",
+			"jawaban":"1. Pas Foto berwarna maksimal 200 Kb\n2. Dokumen lain maksimal 300 Kb per dokumen"
+		},
+		{	
+			"pertanyaan":"Bagaimana agar proses upload dokumen dapat lebih cepat?",
+			"jawaban":"Bersihkan riwayat pelacakan, cache, cookies, gunakan koneksi internet yang cukup stabil, gunakan koneksi internet yang menyediakan space bandwith cukup sehingga dalam pengiriman file atau berkas tidak mengalami kendala."
+		},
+		{	
+			"pertanyaan":"Dokumen apa saja yang harus di upload?",
+			"jawaban":"Persyaratan dokumen apa saja yang harus di upload dapat di lihat pada pengumuman pendaftaran instansi."
+		},
+		{	
+			"pertanyaan":"Saya sudah melamar secara online, apakah perlu mengirimkan berkas fisik untuk seleksi administrasi?",
+			"jawaban":"Anda dapat memperhatikan pengumuman dan menyiapkan berkas-berkas tersebut ketika dibutuhkan pada tahapan tes tertentu."
+		},
+		{	
+			"pertanyaan":"Apakah saya bisa mengupload ulang dokumen yang sudah saya upload.",
+			"jawaban":"Dokumen yang sudah di upload TIDAK DAPAT di upload ulang. Anda HARUS berhati-hati dalam mengunggah dokumen dan pastikan sesuai dengan persyaratan, cek ulang kembali sebelum melakukan proses upload."
+		},
+		{	
+			"pertanyaan":"Bagaimana jika website yang diakses lambat atau tidak dapat diakses?",
+			"jawaban":"Pastikan koneksi internet Anda dalam kondisi stabil. Pastikan layanan internet yang digunakan mempunyai cukup bandwidth. Pastikan Browser yang digunakan adalah yang terbaru."
+		},
+		{	
+			"pertanyaan":"Bagaimana Jika saat pengisian pendaftaran koneksi terputus ?",
+			"jawaban":"Pastikan Koneksi internet yang digunakan dalam kondisi stabil. Refresh ulang browser yang digunakan. Ulangi proses pendaftaran."
+		},
+		{	
+			"pertanyaan":"Pada saat login SSCN, muncul konfirmasi "Password Salah", bagaimana solusinya?",
+			"jawaban":"Cek kembali Kartu Informasi Akun SSCN Anda untuk memastikan User dan Password sudah terdaftar ke SSCN. "
+		},
+		{	
+			"pertanyaan":"Bagaimana jika lupa password untuk Login ke dalam portal SSCN?",
+			"jawaban":"Silahkan menggunakan bantuan lupa password di halaman https://sscnhelpdesk.bkn.go.id"
+		}
+	]
+}
