@@ -1,0 +1,19 @@
+{"version_code":451209,"content":"
+<li> New Base Updated to 2.18.327</li>
+<li> Enabled Stickers</li>
+<li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
+<li> Exclusive @mention Icon on Main Screen to easily Know where you are tagged</li>
+<li> Exclusively Improved Option to Block Calls with/without Showing Ringing to Opp Person.</li>
+<li> Exclusively Added New Option to Select Part Message (Mod 1.2.2)</li>
+<li> Enabled Swipe To Reply</li>
+<li> Enabled Group Calls</li>
+<li> Increased Forward Limit for Indian Users</li>
+<li> Added Option to Set Duration for Revoked Message Notification (Mod 6.8)</li>
+<li> Added Themed Stickers Tab</li>
+<li> Fixed Hidden Chats Showing in Calls Tab</li>
+<li> Fixed Square Pics</li>
+<li> Fixed Search in Themes</li>
+<li> Many Other Fixes</li>
+
+","url":"https://www.gbmods.co/?p=19"
+}
