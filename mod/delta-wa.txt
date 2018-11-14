@@ -1,4 +1,4 @@
-{"version_code":451209,"content":"
+{"version_code":452559,"content":"
 <li> New Base Updated to 2.18.327</li>
 <li> Enabled Stickers</li>
 <li> Exclusive No More Forward Tag to Opposite Person even if you forward</li>
