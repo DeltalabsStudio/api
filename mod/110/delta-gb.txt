@@ -1,1 +1,9 @@
 
+{"version_code":451209,"content":"
+<p>DELTA-GB v1.1.1</p>
+<li> Redesign Home Layout</li>
+<li> Add Change Ring Status Color</li>
+<li> Remove Shake to Bom</li>
+<li> Remove Scroll to Hide Status</li>
+","url":"http://www.deltalabsite.com/2018/12/update-delta-gb-v111.html"
+}
