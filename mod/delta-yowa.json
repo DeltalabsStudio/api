@@ -1,6 +1,6 @@
 {	
-	"version": "DELTA-YOWA v1.1.1",
-	"url_download": "https://www.deltalabsite.com/2019/05/update-delta-yowa-v111.html",
-	"changelog": "Extend Expiration Date\nRedesign Home Stock\nDisable/Enable Horizontal Scroll\nColoring Search View",
-	"version_code": 3
+	"version": "DELTA-YOWA v1.1.2",
+	"url_download": "https://www.deltalabsite.com/2019/06/update-delta-yowa-v112.html",
+	"changelog": "Fix Update Status for Android P\nHide Google Play Service\nAnti-BAN",
+	"version_code": 4
 }
