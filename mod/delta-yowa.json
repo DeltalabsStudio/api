@@ -1,6 +1,6 @@
 {	
-	"version": "DELTA-YOWA v1.1.2 REV",
+	"version": "DELTA-YOWA v1.1.2 REV 1",
 	"url_download": "https://www.deltalabsite.com/2019/06/update-delta-yowa-v112-rev.html",
-	"changelog": "Fix Voice Note\nNew Action from Icon Tab",
-	"version_code": 4
+	"changelog": "Fix Home\nFix Voice Note\nNew Action from Icon Tab",
+	"version_code": 5
 }
