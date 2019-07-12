@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="key_avatar_animation" value="false" />
+    <string name="chats_header_background_gd_bg_mode">0</string>
+    <int name="chats_header_background_gd_bg_color_picker" value="-1" />
+    <int name="chats_header_icons_color_picker" value="-1" />
+    <int name="key_accent_picker" value="-8708190" />
+    <int name="sliderbg_picker" value="-1" />
+    <boolean name="key_toolbar_subtitle" value="false" />
+    <boolean name="square_photo_check" value="false" />
+    <int name="chats_header_background_picker" value="-1" />
+    <boolean name="key_accent_check" value="true" />
+    <int name="pagetitle_sel_picker" value="-1" />
+    <int name="pagetitle_picker" value="-1" />
+    <boolean name="key_navigation_bar" value="true" />
+    <boolean name="hide_internet_icon_check" value="false" />
+    <int name="header_background_color_picker" value="-1" />
+    <boolean name="key_border_padding" value="false" />
+    <int name="square_photo_ratio_picker" value="1" />
+    <boolean name="key_row_thumbnail" value="true" />
+    <boolean name="key_drawer_rounded_icon" value="false" />
+    <int name="msg_badge_picker" value="-16777216" />
+    <int name="key_fab_color_picker" value="-11171025" />
+    <int name="tabindicator_color_picker" value="-16294316" />
+    <string name="gb_language_key">0</string>
+    <int name="key_avatar_size" value="46" />
+    <boolean name="chats_show_my_name_check" value="false" />
+    <boolean name="hide_new_chat_icon_check" value="false" />
+    <boolean name="chats_header_background_check" value="true" />
+    <boolean name="key_systembar_translucent" value="false" />
+    <boolean name="key_custom_icon" value="false" />
+    <int name="title_badgebg_picker" value="-1" />
+</map>
