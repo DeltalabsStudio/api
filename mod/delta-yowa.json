@@ -1,6 +1,10 @@
-{	
-	"version": "DELTA-YOWA v1.1.3",
-	"url_download": "https://www.deltalabsite.com/p/infodeltalabsite.html",
-	"changelog": "Fix Home Wallpaper",
-	"version_code": 6
+{
+  "records": [
+    {
+      "version": "DELTA YOWA v3.3.0",
+      "code": 10,
+      "url": "https://s.id/DELTAYOWA332",
+      "changelog": " - Base FM WhatsApp 8.35 - Neomorphisme Home Design - Fast Scroll Chats - Online View with Dot and Text - Mention Mark - Custom Toast Online, Status Viewed, Profile Changed - and more"
+    }
+  ]
 }
