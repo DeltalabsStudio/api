@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.3.0",
-      "code": 10,
+      "version": "DELTA YOWA v3.3.1",
+      "code": 11,
       "url": "https://bit.ly/NUSANTARAPROJECT",
-      "changelog": " - Base FM WhatsApp 8.35 - Neomorphisme Home Design - Fast Scroll Chats - Online View with Dot and Text - Mention Mark - Custom Toast Online, Status Viewed, Profile Changed - and more"
+      "changelog": " - Auto Forward Text Message - Schedule Message - Auto Reply Message - Movable Floating Chat View - Fix Crash in Toast Statuses - Fix Crash old Stock Entry Style - Fix Home Row Height - Show Hide Fast Scroll - Any more"
     }
   ]
 }
