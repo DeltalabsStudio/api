@@ -1,8 +1,8 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.3.2",
-      "code": 12,
+      "version": "DELTA YOWA v3.3.2 REV",
+      "code": 13,
       "url": "https://bit.ly/DELTALABSSTUDIO",
       "changelog": " - Grid Chats View - Bulk Sender - Auto Forward Text Message with Specific - Rounded Header - Show/Hide Floating Chat View - Fix problem"
     }
