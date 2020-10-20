@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.3.2 EXTENDED",
-      "code": 14,
-      "url": "https://bit.ly/NUSANTARAPROJECT",
-      "changelog": " - Extended Version - Encrypted Message (Long clik on Send Button to sending encrypt message)"
+      "version": "DELTA YOWA v3.4.0",
+      "code": 15,
+      "url": "http://bit.ly/DELTALABS_STUDIO",
+      "changelog": " - Base Fouad 8.45 - Quick Replies - Reject Calls without Ringing, Redesign Home, Redesign Tabs"
     }
   ]
 }
