@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.4.0",
-      "code": 15,
-      "url": "http://bit.ly/DELTALABS_STUDIO",
-      "changelog": " - Base Fouad 8.45 - Quick Replies - Reject Calls without Ringing, Redesign Home, Redesign Tabs"
+      "version": "DELTA YOWA v3.4.1",
+      "code": 16,
+      "url": "http://bit.ly/DELTAv341",
+      "changelog": " - Neomorph Home UI - Custom SearchView - Fix FastScroll View"
     }
   ]
 }
