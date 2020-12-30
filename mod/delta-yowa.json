@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.6.0",
-      "code": 20,
-      "url": "http://bit.ly/DELTA360",
-      "changelog": " - Base from FMWA 8.65 - IOS Home Style - Redesign Chat Unsave Number - On Off Encrypt Chat - Same As DELTA v3.5.2"
+      "version": "DELTA YOWA v3.6.1",
+      "code": 21,
+      "url": "http://bit.ly/DELTA361",
+      "changelog": "- Fix DND Mode - Hide Profile Header (Card UI) - Improve IOS Mode - On Off Blur Tab for IOS UI - Long Click Create Icon -> DND Mode - Long Click Pencil Icon -> Open My Statuses - Long Click Camera Icon -> Open Splitter - Long Click Fab Menu -> Open DELTA Settings - Long Click Fab Chat -> Open Unsave Number"
     }
   ]
 }
