@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.6.1",
-      "code": 21,
-      "url": "http://bit.ly/DELTA361",
-      "changelog": "- Fix DND Mode - Hide Profile Header (Card UI) - Improve IOS Mode - On Off Blur Tab for IOS UI - Long Click Create Icon -> DND Mode - Long Click Pencil Icon -> Open My Statuses - Long Click Camera Icon -> Open Splitter - Long Click Fab Menu -> Open DELTA Settings - Long Click Fab Chat -> Open Unsave Number"
+      "version": "DELTA YOWA v3.6.2",
+      "code": 22,
+      "url": "http://bit.ly/DELTA362",
+      "changelog": "- Add Voice Changer - Add Sticker Confirmation - Add ROUNDED v2 Home UI - Redesign 7AHANG Home UI - Add New Conversation Row Style - Add New Tab Style - Change FAB Style (Extended) - Unlimited Delete Message - Fix Bug (Semoga)"
     }
   ]
 }
