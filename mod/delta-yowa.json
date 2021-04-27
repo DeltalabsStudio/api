@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.6.3",
-      "code": 23,
-      "url": "http://bit.ly/DELTAv363",
-      "changelog": "- Backup Restore Theme include Cover - Themes Store - Fix Bug (Semoga)"
+      "version": "DELTA YOWA v3.7.0",
+      "code": 24,
+      "url": "http://bit.ly/DELTAv370",
+      "changelog": "- Base update FM 8.86 - Gradient Row Background - Recent Online View - Fast Scroll DELTA Theme Store - Fix DELTA Theme Store Search"
     }
   ]
 }
