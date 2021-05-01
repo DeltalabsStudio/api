@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA YOWA v3.7.1",
-      "code": 25,
+      "code": 24,
       "url": "http://bit.ly/DELTAv371",
       "changelog": "- Add Conversation List Animation - Redesign DELTA Settings - Add option to Save, Load and Restore Theme in DELTA Theme Store - Fix DND Mode - Fix Schedule Message - More.."
     }
