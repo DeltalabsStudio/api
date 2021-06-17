@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.7.2",
-      "code": 27,
-      "url": "http://bit.ly/DELTA372",
-      "changelog": "- Add View Messages by - Add Admin Mark - Add View Revoked Message - Add Ring Online View - Add Preview on DELTA Setting - New HOME Style - Long Click Profile Home Header to Switch Disable Clicking on WA Title - Fix Bug"
+      "version": "DELTA YOWA v3.7.3",
+      "code": 28,
+      "url": "http://bit.ly/DELTA373",
+      "changelog": "- Messenger Home UI - Gradient Bubble - Fix Quick Contact View - Fix Online Toast - Long Click on Pinterest Tab to Change Grid/List - Long Click on Profile View to Access Hidden Chat"
     }
   ]
 }
