@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.7.3",
-      "code": 28,
-      "url": "http://bit.ly/DELTA373",
-      "changelog": "- Messenger Home UI - Gradient Bubble - Fix Quick Contact View - Fix Online Toast - Long Click on Pinterest Tab to Change Grid/List - Long Click on Profile View to Access Hidden Chat"
+      "version": "DELTA YOWA v3.7.3F",
+      "code": 29,
+      "url": "https://bit.ly/DELTA373F",
+      "changelog": "- Fix GridView - Change Version Code to 211117007"
     }
   ]
 }
