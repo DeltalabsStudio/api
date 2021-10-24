@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.8.1",
-      "code": 32,
-      "url": "https://bit.ly/DELTAv381",
-      "changelog": "- Rounded v3 Home UI - 7Ahang v2 Home UI - One UI Tab and 2 Style - Drawer Settings - Conversation Entry with Preview - Forward Message for Incoming Call - Chat Scroll Animation - Enable/Disable Parallax Scrolling"
+      "version": "DELTA YOWA v3.8.1F",
+      "code": 33,
+      "url": "https://bit.ly/DELTA381F",
+      "changelog": "- View Once Download Options - Fix Problems"
     }
   ]
 }
