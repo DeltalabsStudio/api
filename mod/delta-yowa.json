@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.8.2",
-      "code": 34,
-      "url": "https://bit.ly/DELTA382",
-      "changelog": "- Drawer Home - Multi Account - Send Audio as Voice Note"
+      "version": "DELTA YOWA v3.9.0",
+      "code": 35,
+      "url": "https://bit.ly/DELTA390",
+      "changelog": "-Base Update FM9.05 - Wave Bottom Tab - Stories Option Preview - Voice Note v2"
     }
   ]
 }
