@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.9.0",
-      "code": 35,
-      "url": "https://bit.ly/DELTA390",
-      "changelog": "-Base Update FM9.05 - Wave Bottom Tab - Stories Option Preview - Voice Note v2"
+      "version": "DELTA YOWA v3.9.1",
+      "code": 36,
+      "url": "https://bit.ly/DELTA391",
+      "changelog": "- Wave Home UI - Quick Reply Dialog - New Chat Translator - Chat Editor -> Drawer Settings - Day Night Mode -> Drawer Home - Fix Hidden Chat -> Quick Contact - Fix Divider Color and View - Fix Media Size - Fix Unsave Number Dialog - More.. "
     }
   ]
 }
