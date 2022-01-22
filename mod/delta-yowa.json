@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.9.1F",
-      "code": 37,
-      "url": "https://bit.ly/DELTA391",
-      "changelog": "- Wave Home UI - Quick Reply Dialog - New Chat Translator - Chat Editor -> Drawer Settings - Day Night Mode -> Drawer Home - Fix Hidden Chat -> Quick Contact - Fix Divider Color and View - Fix Media Size - Fix Unsave Number Dialog - More.. "
+      "version": "DELTA YOWA v3.9.2",
+      "code": 38,
+      "url": "https://bit.ly/DELTA392",
+      "changelog": "- Bubble and IOSV2 Home UI - Mass Message - Search for Hidden and Archive Chat - Fix Image Resolution"
     }
   ]
 }
