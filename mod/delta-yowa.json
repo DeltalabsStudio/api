@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v3.9.2F",
-      "code": 39,
-      "url": "https://bit.ly/DELTA392F",
-      "changelog": "- Chat Translate Method (Google Translate / Built-In) - Mod Settings Home Stock"
+      "version": "DELTA YOWA v4.0.0",
+      "code": 40,
+      "url": "https://bit.ly/DELTA400",
+      "changelog": "- Base FM9.21 - Chat Reactions - Preferences Card UI - ContextMenu (long click name row) - Custom Language for Yandex Translator - Chat Video Splitter - Call Privacy set to Not Answered"
     }
   ]
 }
