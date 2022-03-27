@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.0.1F",
-      "code": 42,
-      "url": "https://bit.ly/DELTA401F",
-      "changelog": "- Add Custom Reaction - Add Chat Video Splitter Duration - Pause Voice Note (Beta) - Undo Status Post (Beta) - New Camera Design (Beta)"
+      "version": "DELTA YOWA v4.0.2",
+      "code": 43,
+      "url": "https://bit.ly/DELTA402",
+      "changelog": "- DELTA Home - Quick Reply with Emoji"
     }
   ]
 }
