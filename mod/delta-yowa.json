@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.0.3",
-      "code": 44,
+      "version": "DELTA YOWA v4.0.3F",
+      "code": 45,
       "url": "https://bit.ly/DELTAv403",
-      "changelog": "- Update Base FM9.27 - DELTA Home v1 and v2"
+      "changelog": "- Fix Problems - Update Base FM9.27 - DELTA Home v1 and v2"
     }
   ]
 }
