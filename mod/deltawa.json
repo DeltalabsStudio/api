@@ -1,7 +1,10 @@
-{	
-	"version": "DELTA-GB v1.2.0",
-	"url_download": "https://www.deltalabsite.com/p/delta-gb.html",
-	"changelog": "Base GB v7.0.0",
-	"version_code": 6
+{
+  "records": [
+    {
+      "version": "DELTA Business v1.0.0",
+      "code": 1,
+      "url": "https://bit.ly/DELTA404",
+      "changelog": "- First Release"
+    }
+  ]
 }
-
