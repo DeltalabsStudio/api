@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.1.0",
-      "code": 48,
-      "url": "https://bit.ly/DELTA410",
-      "changelog": "- Base FMWA 9.30F - Who Blocked You - Select Chat Filter - Forward Status"
+      "version": "DELTA YOWA v4.1.0F",
+      "code": 49,
+      "url": "https://bit.ly/DELTA410F",
+      "changelog": "- Fix bug"
     }
   ]
 }
