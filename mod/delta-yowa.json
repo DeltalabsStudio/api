@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v4.2b1",
-      "code": 52,
-      "url": "https://bit.ly/DELTAv42b1",
-      "changelog": "- Base from FMWA 9.41"
+      "version": "DELTA ULTRA v4.2.0",
+      "code": 53,
+      "url": "https://bit.ly/DELTAv420",
+      "changelog": "- Bubble One Tap Option - Chats Modify - Fix Bug"
     }
   ]
 }
