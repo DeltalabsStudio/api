@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v4.2.0",
-      "code": 53,
-      "url": "https://bit.ly/DELTAv420",
-      "changelog": "- Bubble One Tap Option - Chats Modify - Fix Bug"
+      "version": "DELTA ULTRA v4.2.0F",
+      "code": 54,
+      "url": "https://bit.ly/DELTA420F",
+      "changelog": "- Enable/Disable One Tap on Bubble - Enable/Disable Floating Entry - Fix Bug"
     }
   ]
 }
