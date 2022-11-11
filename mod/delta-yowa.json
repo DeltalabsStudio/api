@@ -2,9 +2,9 @@
   "records": [
     {
       "version": "DELTA ULTRA v4.2.0F",
-      "code": 54,
-      "url": "https://bit.ly/DELTALABS1",
-      "changelog": "- Enable/Disable One Tap on Bubble - Enable/Disable Floating Entry - Fix Bug"
+      "code": 55,
+      "url": "https://bit.ly/ultra420f",
+      "changelog": "- Added Change Attachment Style - Added Personalization for Call Screen - Added Change WA Video player - Added 'CARD' Text Input Style - Added Styles of About (About Version) - Added Change Admin Icon in Groups - Added Cards in Contacts Screen - Added Hide 3 Dots on Chat Screen - Added Select all at Once when Adding in Groups - Added Clear Color Palette - Enabled Voting in Polls - Enabled Status View Ring around Profile - Enabled Some Minor Hidden Functions - Readded Up Button to First Message with Custom Icons"
     }
   ]
 }
