@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA Business v0.0.2",
-      "code": 2,
-      "url": "https://bit.ly/DELTA404",
-      "changelog": "- DELTA Home and Chat UI"
+      "version": "DELTA Business v0.0.3",
+      "code": 3,
+      "url": "https://bit.ly/DBUSINESS003",
+      "changelog": "- Dot and Online Status - Customize Home and Chat UI"
     }
   ]
 }
