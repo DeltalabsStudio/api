@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v4.2.0F",
-      "code": 55,
-      "url": "https://bit.ly/ULTRA420F",
-      "changelog": "- Added Change Attachment Style - Added Personalization for Call Screen - Added Change WA Video player - Added 'CARD' Text Input Style - Added Styles of About (About Version) - Added Change Admin Icon in Groups - Added Cards in Contacts Screen - Added Hide 3 Dots on Chat Screen - Added Select all at Once when Adding in Groups - Added Clear Color Palette - Enabled Voting in Polls - Enabled Status View Ring around Profile - Enabled Some Minor Hidden Functions - Readded Up Button to First Message with Custom Icons"
+      "version": "DELTA ULTRA v4.2.0F EXT",
+      "code": 56,
+      "url": "https://bit.ly/ULTRA420EXT",
+      "changelog": "- Extended Version - Sticker Rounded - End Group"
     }
   ]
 }
