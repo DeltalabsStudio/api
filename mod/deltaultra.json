@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.0.0b1",
-      "code": 57,
-      "url": "https://bit.ly/DELTA500b1",
-      "changelog": "- Base UPDATE FMWA 9.52 - Online DOT Size and Position- Blur Cover and Background"
+      "version": "DELTA YOWA v5.0.1",
+      "code": 58,
+      "url": "https://bit.ly/DELTA501",
+      "changelog": "- Base Update FM9.62 - Add Multi Account"
     }
   ]
 }
