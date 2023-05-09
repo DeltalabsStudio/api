@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.0.2",
-      "code": 62,
-      "url": "https://bit.ly/ULTRA502",
-      "changelog": " - Filter chats - Fakechat in groups - Delete for all improved - Enabled Some hidden functions"
+      "version": "DELTA YOWA v5.0.3",
+      "code": 63,
+      "url": "https://bit.ly/DELTA503",
+      "changelog": " - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View"
     }
   ]
 }
