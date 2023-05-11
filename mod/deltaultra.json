@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.0.3a",
-      "code": 64,
-      "url": "https://bit.ly/DELTA503",
-      "changelog": " - Fix Freeze on Some Device - Fix Search on IOS Home UI"
+      "version": "DELTA YOWA v5.0.3F",
+      "code": 65,
+      "url": "https://bit.ly/DELTA503F",
+      "changelog": " - Fix Crash on Start App - Fix Freeze on Some Device - Fix Search on IOS Home UI - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View"
     }
   ]
 }
