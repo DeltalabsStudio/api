@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.0.3F",
-      "code": 65,
-      "url": "https://bit.ly/DELTA503F",
-      "changelog": " - Fix Crash on Start App - Fix Freeze on Some Device - Fix Search on IOS Home UI - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View"
+      "version": "DELTA ULTRA v5.0.3F",
+      "code": 66,
+      "url": "https://bit.ly/DELTAULTRA503F",
+      "changelog": " - Multiply messages when forwarding - Drawer v2 & v3 - Device information in Drawer - V3 header style - New customizable search bar - New bubbles and ticks - Style of config. profile & about changeable - Changeable texts like; online, phone number, group creation date and more (visual only) - Increased expiration date - Status with max. quality - Adjusted colors in app interface - Fixed bug wa.me / settings. - Fixed other bugs and details - More improvements and fixes, check it yourself!"
     }
   ]
 }
