@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.1.0",
-      "code": 68,
-      "url": "https://bit.ly/DELTA510",
-      "changelog": " - Base UPDATE FMWA 9.71 - Show Original Chat in Edited Message - Fake Message"
+      "version": "DELTA YOWA v5.1.1",
+      "code": 69,
+      "url": "https://bit.ly/DELTAv511",
+      "changelog": " - Chat UI Customize Option - Chats Row Size - Add New Entry Layout - Fix Bug"
     }
   ]
 }
