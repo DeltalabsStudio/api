@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.1.0",
-      "code": 69,
+      "version": "DELTA YOWA v5.1.2",
+      "code": 70,
       "url": "https://bit.ly/ULTRA510",
-      "changelog": " - New Archived Button - Anti Edit Message - Status HD Quality - Translation Improved"
+      "changelog": " - Base FMWA 9.74 - Extended"
     }
   ]
 }
