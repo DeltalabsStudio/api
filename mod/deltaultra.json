@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.1.2",
-      "code": 71,
-      "url": "https://bit.ly/ULTRA510",
-      "changelog": " - Base DELTA YOWA v5.1.2 - Extended"
+      "version": "DELTA ULTRA v5.1.2F",
+      "code": 72,
+      "url": "https://bit.ly/ULTRAv512F",
+      "changelog": " - Base DELTA YOWA v5.1.2 - Custom Icons - Improvements - Bugs Fixed"
     }
   ]
 }
