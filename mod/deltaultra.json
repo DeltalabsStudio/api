@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.1.2F EXTENDED",
-      "code": 74,
-      "url": "https://bit.ly/ULTRAv512E",
-      "changelog": " - EXTENDED Version"
+      "version": "DELTA ULTRA v5.2.0",
+      "code": 75,
+      "url": "https://bit.ly/DELTAv520",
+      "changelog": " - UPDATE Base FMWA v9.81"
     }
   ]
 }
