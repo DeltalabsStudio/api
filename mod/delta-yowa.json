@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.2.0F",
-      "code": 76,
-      "url": "https://bit.ly/DELTAv520",
-      "changelog": " - UPDATE Base FMWA v9.81"
+      "version": "DELTA YOWA v5.2.1",
+      "code": 78,
+      "url": "https://bit.ly/ULTRA520F",
+      "changelog": " - Base FMWA 9.82 - Fix HD Video"
     }
   ]
 }
