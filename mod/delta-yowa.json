@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.2.1",
-      "code": 79,
-      "url": "https://bit.ly/ULTRA521",
-      "changelog": " - Base DELTA YOWA v5.2.1 - Add Mark as Read - New NavBar UI"
+      "version": "DELTA YOWA v5.2.2",
+      "code": 80,
+      "url": "https://bit.ly/DELTA522",
+      "changelog": " - Minima UI - Instagram View for Status or Favorite Contact - Option for Files Access Manager - Experimental Grid View - Fix Cannot Open Camera"
     }
   ]
 }
