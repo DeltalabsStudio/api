@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.2.2",
-      "code": 81,
-      "url": "https://bit.ly/DELTA522",
-      "changelog": " - Minima UI - Instagram View for Status or Favorite Contact - Option for Files Access Manager - Experimental Grid View - Fix Cannot Open Camera"
+      "version": "DELTA ULTRA v5.2.3",
+      "code": 82,
+      "url": "https://bit.ly/DELTAv523",
+      "changelog": " - Extended Version - New Tab Style"
     }
   ]
 }
