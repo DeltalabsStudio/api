@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.2.3",
-      "code": 82,
-      "url": "https://bit.ly/DELTAv523",
-      "changelog": " - Extended Version - New Tab Style"
+      "version": "DELTA ULTRA v5.3.0b1",
+      "code": 83,
+      "url": "https://bit.ly/DELTA530b1",
+      "changelog": " - Base FMWA 9.90 - Custom Tabs Indicator"
     }
   ]
 }
