@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.3.0b2",
-      "code": 85,
-      "url": "https://bit.ly/DELTA530b1",
-      "changelog": " - Base FMWA 9.93"
+      "version": "DELTA ULTRA v5.3.0",
+      "code": 88,
+      "url": "https://bit.ly/DELTA530",
+      "changelog": " - Add Drawer Style - Fix Bug"
     }
   ]
 }
