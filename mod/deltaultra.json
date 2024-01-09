@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v5.3.0",
-      "code": 88,
-      "url": "https://bit.ly/DELTA530",
-      "changelog": " - Add Drawer Style - Fix Bug"
+      "version": "DELTA ULTRA v5.3.0",
+      "code": 89,
+      "url": "https://bit.ly/ULTRA530",
+      "changelog": " - Base DELTA YOWA 5.3.0"
     }
   ]
 }
