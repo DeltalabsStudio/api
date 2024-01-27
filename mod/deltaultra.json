@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA ULTRA v5.3.0",
-      "code": 89,
-      "url": "https://bit.ly/ULTRA530",
-      "changelog": " - Base DELTA YOWA 5.3.0"
+      "version": "DELTA WhatsApp 6.0_B1",
+      "code": 90,
+      "url": "https://bit.ly/DELTAWA_60B1",
+      "changelog": " - Base 2.24.1.76 - Custom Font - Hidden Chat - Anti Disappearing Message - Ghost Mode and Privacy - New Settings UI - New Entry UI - New Context Menu like IOS - and More"
     }
   ]
 }
