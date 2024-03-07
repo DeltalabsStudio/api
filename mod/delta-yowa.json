@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WhatsApp v6.0_B2",
-      "code": 92,
-      "url": "https://bit.ly/DELTAv60B2",
-      "changelog": " - Base 2.24.1.78 - Add Save and Load Theme - Customize Bubble Style and Color - Customize Tabs UI - Customize FAB - Customize Row Style - Enable Custom Font from Storage"
+      "version": "DELTA WhatsApp v6.0_B3",
+      "code": 96,
+      "url": "https://bit.ly/DELTAv60B3",
+      "changelog": " - - Add IOS HOME UI - Backup Restore Theme - Backup Restore WA Data and Media - Row Color - Home Background Color and Image - and more"
     }
   ]
 }
