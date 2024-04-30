@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.0_B5",
-      "code": 99,
-      "url": "https://bit.ly/DELTAv60B5",
-      "changelog": " - Extended Base - Bulk Message Sender with Attachment - Another Few Fixed"
+      "version": "DELTA WA v6.1",
+      "code": 101,
+      "url": "https://bit.ly/DELTAv61",
+      "changelog": " - Update Base v2.24.7.81"
     }
   ]
 }
