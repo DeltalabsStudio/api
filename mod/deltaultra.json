@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.1_B1",
-      "code": 102,
-      "url": "https://bit.ly/DELTAWAv61B1",
-      "changelog": " - Saving Category in Bulk Message - Fix Bugs"
+      "version": "DELTA WA v6.2",
+      "code": 103,
+      "url": "https://bit.ly/DELTAV62",
+      "changelog": " - Update Base v2.24.9.78"
     }
   ]
 }
