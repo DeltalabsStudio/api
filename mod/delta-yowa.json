@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.2",
-      "code": 103,
+      "version": "DELTA WA v6.2_B1",
+      "code": 104,
       "url": "https://bit.ly/DELTAV62",
-      "changelog": " - Update Base v2.24.9.78"
+      "changelog": " - Fix Bug"
     }
   ]
 }
