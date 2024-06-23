@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.2_B1",
-      "code": 104,
+      "version": "DELIGHT WA v1.0.0",
+      "code": 105,
       "url": "https://bit.ly/DELTAV62",
-      "changelog": " - Fix Bug"
+      "changelog": " - Base v2.24.11.80"
     }
   ]
 }
