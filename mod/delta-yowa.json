@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELIGHT WA v1.0.0",
-      "code": 105,
+      "version": "DELTA WA v6.3",
+      "code": 106,
       "url": "https://bit.ly/DELTAV62",
-      "changelog": " - Base v2.24.11.80"
+      "changelog": " - Base v2.24.11.80 - Hide Recent, Frequently Contact in Forward Screen"
     }
   ]
 }
