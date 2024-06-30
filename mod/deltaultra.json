@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.3",
-      "code": 106,
+      "version": "DELTA WA v6.3F",
+      "code": 107,
       "url": "https://bit.ly/DELTAV62",
-      "changelog": " - Base v2.24.11.80 - Hide Recent, Frequently Contact in Forward Screen"
+      "changelog": " - Fix Linked Devices"
     }
   ]
 }
