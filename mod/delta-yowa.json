@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA WA v6.3F",
-      "code": 109,
+      "code": 107,
       "url": "https://bit.ly/DELTAV62",
       "changelog": " - Extended Expiration Time - Fix Linked Devices"
     }
