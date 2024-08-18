@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.3F",
-      "code": 107,
-      "url": "https://bit.ly/DELTAV62",
-      "changelog": " - Extended Expiration Time - Fix Linked Devices"
+      "version": "DELTA WA v6.4.0",
+      "code": 109,
+      "url": "https://bit.ly/DELTAv64",
+      "changelog": " - Update Base v2.24.13.77 - Add Rounded HomeUI - Add Parallax HomeUI with Cover - Add Curve HomeUI with Cover - Single and Double Tap Action in Chat - Customize Segment Button"
     }
   ]
 }
