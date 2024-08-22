@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.4.0",
-      "code": 109,
+      "version": "DELTA WA v6.4.1",
+      "code": 111,
       "url": "https://bit.ly/DELTAv64",
-      "changelog": " - Update Base v2.24.13.77 - Add Rounded HomeUI - Add Parallax HomeUI with Cover - Add Curve HomeUI with Cover - Single and Double Tap Action in Chat - Customize Segment Button"
+      "changelog": " - Option Replace Community Tab with Group Tab - Add Show Last Time Option - Fix Cover and Home Wallpaper Picker - Large Status Thumbnail View - Fix Hide Channel List - Fix Hide Recommended Channel List"
     }
   ]
 }
