@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.4.3",
-      "code": 113,
-      "url": "https://bit.ly/DELTAv641",
-      "changelog": " - Enable Voice Note Transcript - Add Entry Translate Option - Add History Color Picker - Change Color Entry - Fix Margin when Disable IG Stories"
+      "version": "DELTA WA v6.4.4",
+      "code": 114,
+      "url": "https://bit.ly/DELTAv644",
+      "changelog": "  - Add Home UI Style - Add Instagram Style with Badge - Customable Online Dot - Customable Online Toast - Backup Restore Privacy Setting - Swipe to Left Action"
     }
   ]
 }
