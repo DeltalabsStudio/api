@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.4.4",
-      "code": 114,
+      "version": "DELTA WA v6.4.4E",
+      "code": 115,
       "url": "https://bit.ly/DELTAv644",
-      "changelog": "  - Add Home UI Style - Add Instagram Style with Badge - Customable Online Dot - Customable Online Toast - Backup Restore Privacy Setting - Swipe to Left Action"
+      "changelog": "  - Extend Expiration Date"
     }
   ]
 }
