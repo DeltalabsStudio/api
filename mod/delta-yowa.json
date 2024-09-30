@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.5",
-      "code": 120,
+      "version": "DELTA WA v6.5.1",
+      "code": 121,
       "url": "https://bit.ly/DELTAv65",
-      "changelog": "  - Update Base v2.24.16.76 - Add Hidden Chat - Add Call Rejection Type - Fix Confirm Sending Sticker - Add Hide Date and Name when copying 2 messages and more"
+      "changelog": "  - Add Video Splitter - Fix Double Search Bar - Fix Open Chat from Widget - Other Improvements"
     }
   ]
 }
