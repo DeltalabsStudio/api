@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.5.1",
-      "code": 121,
+      "version": "DELTA WA v6.5.2",
+      "code": 122,
       "url": "https://bit.ly/DELTAv65",
-      "changelog": "  - Add Video Splitter - Fix Double Search Bar - Fix Open Chat from Widget - Other Improvements"
+      "changelog": "  Change Launcher Icon - Change Ticks Style - Add Voice Changer - Chat WallPaper Picker - Theme Store - Show Hide Entry Chat Translate"
     }
   ]
 }
