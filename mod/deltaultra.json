@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.5.2",
-      "code": 122,
+      "version": "DELTA WA v6.5.3",
+      "code": 124,
       "url": "https://bit.ly/DELTAv65",
-      "changelog": "  Change Launcher Icon - Change Ticks Style - Add Voice Changer - Chat WallPaper Picker - Theme Store - Show Hide Entry Chat Translate"
+      "changelog": "  Add Blur Option to Wallpaper - Add Upload Themes to Server - Add Typing, Change Profile and View Status Toast"
     }
   ]
 }
