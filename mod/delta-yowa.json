@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.5.3",
-      "code": 124,
-      "url": "https://bit.ly/DELTAv65",
-      "changelog": "  Add Blur Option to Wallpaper - Add Upload Themes to Server - Add Typing, Change Profile and View Status Toast"
+      "version": "DELTA WA v6.6.0",
+      "code": 125,
+      "url": "https://bit.ly/DELTA660",
+      "changelog": "Update Base v2.24.21.79 - Mention a Contact in Statuses - Security improvements"
     }
   ]
 }
