@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.6.0",
-      "code": 125,
+      "version": "DELTA WA v6.6.1",
+      "code": 126,
       "url": "https://bit.ly/DELTA660",
-      "changelog": "Update Base v2.24.21.79 - Mention a Contact in Statuses - Security improvements"
+      "changelog": "Add Emoji Changer - Fix Problems"
     }
   ]
 }
