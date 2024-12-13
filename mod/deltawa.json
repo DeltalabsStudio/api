@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.6.1",
-      "code": 126,
-      "url": "https://bit.ly/DELTA660",
-      "changelog": "Add Emoji Changer - Fix Problems"
+      "version": "DELTA WA v6.6.2",
+      "code": 128,
+      "url": "https://bit.ly/DELTA662",
+      "changelog": "Add Transparent UI - Add Audio to Voice Note - Hide Unsaved Number - More fixes and improvements"
     }
   ]
 }
