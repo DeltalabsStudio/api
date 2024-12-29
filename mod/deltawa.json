@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.6.2F",
-      "code": 129,
-      "url": "https://bit.ly/DELTA662F",
-      "changelog": "Fix Transparent UI and IGStories"
+      "version": "DELTA WA v6.6.3",
+      "code": 130,
+      "url": "https://bit.ly/DELTA663",
+      "changelog": "Add Quick Reply with Photo and Video Attachments - Add Change Theme (Day, Night, Transparent) for All UI - Add Mention All Member on Group - Gradient Home Header and Footer Background - Home UI with Translucent System UI - Improvement Stories UI with Carousel View - Set Height of Status Bar, Navigation Bar and Blur Tab - Add Voice Changer Menu in Chat - Add Option to Change All Chat Theme"
     }
   ]
 }
