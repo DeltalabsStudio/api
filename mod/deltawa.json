@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.6.3F",
-      "code": 131,
-      "url": "https://bit.ly/DELTA663F",
-      "changelog": "Add Auto Response Mention - Improvements Home UI"
+      "version": "DELTA WA v6.7.0_B1",
+      "code": 132,
+      "url": "https://bit.ly/DELTAv670B1",
+      "changelog": "Update Base v2.25.1.75"
     }
   ]
 }
