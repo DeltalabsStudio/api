@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.7.0_B1",
-      "code": 132,
+      "version": "DELTA WA v6.7.0_B2",
+      "code": 133,
       "url": "https://bit.ly/DELTAv670B1",
-      "changelog": "Update Base v2.25.1.75"
+      "changelog": "Fix Ticks on Chat - Improvements"
     }
   ]
 }
