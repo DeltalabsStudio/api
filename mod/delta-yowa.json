@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.7.1",
-      "code": 134,
-      "url": "https://bit.ly/DELTAv670B1",
-      "changelog": "Fix Voice Changer - Add Entry Customize Color and Style - Extended"
+      "version": "DELTA WA v6.8.0",
+      "code": 136,
+      "url": "https://s.id/DELTAv680",
+      "changelog": "Base v2.25.8.84 - Channel and Status Filtering - Enabled to Add Music to Statuses - And more"
     }
   ]
 }
