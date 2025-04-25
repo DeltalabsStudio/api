@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA WA v6.8.0",
-      "code": 136,
+      "version": "DELTA WA v6.8.0F",
+      "code": 137,
       "url": "https://s.id/DELTAv680",
-      "changelog": "Base v2.25.8.84 - Channel and Status Filtering - Enabled to Add Music to Statuses - And more"
+      "changelog": "Fix BUGS and All Activator - Linker Available"
     }
   ]
 }
