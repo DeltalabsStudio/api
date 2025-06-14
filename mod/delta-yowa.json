@@ -1,9 +1,9 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.0.0",
-      "code": 141,
-      "url": "https://bit.ly/DELTAGBv300",
+      "version": "DELTA GB v3.0.1",
+      "code": 142,
+      "url": "https://s.id/DELTAv3",
       "changelog": "- Base GB 21.95 v2.25.15.80 - Blur Wallpaper Option- Add Status Update UI- Change Minima UI to Trans UI- Primary Color Changed- Split Video with Dialog- Customize Rounded FAB"
     }
   ]
