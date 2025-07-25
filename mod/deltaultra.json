@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.0.2",
-      "code": 143,
-      "url": "https://bit.ly/DELTAGBv300",
-      "changelog": "- Fix Linked Device"
+      "version": "DELTA GB v3.1.0",
+      "code": 144,
+      "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjE1oOvyNeOAxXe2TgGHbuuDjcQFnoECB8QAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
+      "changelog": " - Base GB 22.26 - Enhanced Device Linking - Protection Against Bans - Notifications Now Arrive in Real Time without Any Delay"
     }
   ]
 }
