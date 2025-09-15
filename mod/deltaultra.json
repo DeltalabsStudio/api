@@ -1,10 +1,12 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.1.1",
-      "code": 146,
+      "version": "DELTA GB v3.2.0",
+      "code": 147,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjQxsOJvPGOAxXo4jgGHeFAFiUQFnoECCEQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": " - Fixed Linking Issue"
+      "changelog": " - ase GB 22.75 v2.25.21.82"
     }
   ]
 }
+
+
