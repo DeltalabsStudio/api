@@ -1,12 +1,14 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.2.0F",
-      "code": 148,
+      "version": "DELTA GB v3.2.1",
+      "code": 149,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjQxsOJvPGOAxXo4jgGHeFAFiUQFnoECCEQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Fix Search - Fix Hide Divider - Fix Hidden Number"
+      "changelog": "- Update Base v22.90"
     }
   ]
 }
+
+
 
 
