@@ -1,13 +1,14 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.2.1",
-      "code": 149,
+      "version": "DELTA GB v3.2.2",
+      "code": 150,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjQxsOJvPGOAxXo4jgGHeFAFiUQFnoECCEQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Update Base v22.90"
+      "changelog": "- Search Option in Archive and Hiden Chat - Add Cover Option - Add Preview on Home UI Settings - Fix Themes Option"
     }
   ]
 }
+
 
 
 
