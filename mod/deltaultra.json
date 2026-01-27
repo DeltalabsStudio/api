@@ -1,13 +1,25 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.4.1",
-      "code": 158,
+      "version": "DELTA GB v3.4.2",
+      "code": 159,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjVz8bZup6SAxU-xzgGHbDgAokQFnoECB4QAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Added Navigation Bar Style - Added Tab Pager Order - Change Bubble and Tick Picker View to Grid - Change Default Accent Color for Entry Button - Change Default Hidden for Floating Button Chat - Fix Other Mod Settings"
+      "changelog": "- Update Base GB v25.65"
     }
   ]
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
