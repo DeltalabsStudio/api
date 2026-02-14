@@ -1,13 +1,14 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.4.2",
-      "code": 159,
+      "version": "DELTA GB v3.4.3",
+      "code": 160,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjVz8bZup6SAxU-xzgGHbDgAokQFnoECB4QAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Update Base GB v25.65"
+      "changelog": "- Update Base GB v25.80 - Add Blur Chat UI - Add IOS v2 Tab Style"
     }
   ]
 }
+
 
 
 
