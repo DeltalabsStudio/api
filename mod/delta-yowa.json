@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.4.4",
-      "code": 161,
+      "version": "DELTA GB v3.5.0",
+      "code": 163,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjd2IDRlpSTAxUaRmwGHd4AGUEQFnoECBgQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Update Base GB v25.96"
+      "changelog": "- Update Base GB v26.47"
     }
   ]
 }
