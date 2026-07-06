@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.6.1",
-      "code": 171,
+      "version": "DELTA GB v3.6.2",
+      "code": 172,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjd2IDRlpSTAxUaRmwGHd4AGUEQFnoECBgQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Change Display Size - Add Icon to Order Bottom Navigation Menu - Fix Problems"
+      "changelog": "- Glass Home UI - 2 Variant base v26.70 and v26.75 - Extend Expiry Date"
     }
   ]
 }
