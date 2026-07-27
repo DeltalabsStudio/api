@@ -2,6 +2,7 @@
   "records": [
     {
       "version": "DELTA GB v3.6.3_77",
+      "expiration": "1787841230000",
       "code": 173,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjd2IDRlpSTAxUaRmwGHd4AGUEQFnoECBgQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
       "changelog": "- Base GB v26.77 - Material You Dynamic Color - Add Row Card V2 Style - Divider Settings"
