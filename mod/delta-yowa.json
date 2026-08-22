@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.6.3E",
+      "version": "DELTA GB v3.7.0_86",
       "expiration": "1791914576000",
-      "code": 174,
-      "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwiQouexjoyWAxV3umMGHb8YJ-sQFnoECBwQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- 2 Variant Link Device Methode - Extend Expiration Date"
+      "code": 175,
+      "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjKss3vlbSWAxUTk-EIHfEkJDkQFnoECBwQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
+      "changelog": "- Base GB v26.86 - Add Home Drawer Menu - Enable Contact Tab"
     }
   ]
 }
