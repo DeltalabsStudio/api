@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.7.0_86",
+      "version": "DELTA GB v3.7.1_90",
       "expiration": "1791914576000",
-      "code": 175,
+      "code": 176,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjKss3vlbSWAxUTk-EIHfEkJDkQFnoECBwQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Base GB v26.86 - Add Home Drawer Menu - Enable Contact Tab"
+      "changelog": "- Base GB v26.90 - Fixed Linked Device Connection - Customize Online Dot"
     }
   ]
 }
