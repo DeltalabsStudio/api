@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.7.1_90",
+      "version": "DELTA GB v3.7.2_90",
       "expiration": "1791914576000",
-      "code": 176,
+      "code": 177,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwjKss3vlbSWAxUTk-EIHfEkJDkQFnoECBwQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Base GB v26.90 - Fixed Linked Device Connection - Customize Online Dot"
+      "changelog": "- Fix Tick Color on Home - Add Card Row Split - Slide To Left on Chat to Translate - Single/Double Tap Action"
     }
   ]
 }
