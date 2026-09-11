@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.7.3_90",
+      "version": "DELTA GB v3.7.4_90",
       "expiration": "1791914576000",
-      "code": 178,
+      "code": 179,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwiQxL-JtNuWAxW2i2MGHTsjE0QQFnoECCIQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Section Header for Chats (Home - Row) - Add Reaction Button in Message Tap Menu - Fix Entry Background"
+      "changelog": "- HQ Media - Fix Problem"
     }
   ]
 }
