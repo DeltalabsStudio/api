@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.7.5_93",
+      "version": "DELTA GB v3.7.6_95",
       "expiration": "1795963941000",
-      "code": 180,
+      "code": 182,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwiQxL-JtNuWAxW2i2MGHTsjE0QQFnoECCIQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Update Base GB v26.93 - Capsule FAB Tab Style - Create Theme from Image"
+      "changelog": "- Update Base GB v26.95 - Customize Lockscreen with Animation - Auto Capture when Failed Password Authentication"
     }
   ]
 }
