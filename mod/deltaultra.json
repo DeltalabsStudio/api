@@ -1,11 +1,11 @@
 {
   "records": [
     {
-      "version": "DELTA GB v3.7.6_95",
+      "version": "DELTA GB v3.7.7_97",
       "expiration": "1795963941000",
-      "code": 182,
+      "code": 183,
       "url": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.deltalabsstudio.com/&ved=2ahUKEwiQxL-JtNuWAxW2i2MGHTsjE0QQFnoECCIQAQ&usg=AOvVaw24aJPjy-UVpQKOyaOoAD47",
-      "changelog": "- Update Base GB v26.95 - Customize Lockscreen with Animation - Auto Capture when Failed Password Authentication"
+      "changelog": "- Update Base GB v26.97 - Add AI Image Creator Launcher"
     }
   ]
 }
